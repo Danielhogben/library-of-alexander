@@ -1,0 +1,43 @@
+name: 🔄 Scrape & Update Knowledge Base
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests PyGithub
+
+      - name: Run GitHub scraper
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/scrape_github.py
+
+      - name: Run reverse engineering analysis
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/reverse_engineer.py
+
+      - name: Update model leaderboards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_leaderboards.py
+
+      - name: Commit and push updates
+        run: |
+          git config user.name "Library Bot"
+          git config user.email "bot@library-of-alexander"
+          git add -A
+          git diff --cached --quiet || git commit -m "🔄 Auto-update: $(date -u +%Y-%m-%d-%H:%M) UTC"
+          git push
