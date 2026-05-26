@@ -14,32 +14,18 @@ Every AI agent that interacts with this library should follow these core princip
 
 **STRICTLY NO PORN, NSFW, OR SEXUAL CONTENT.**
 
-This library is for professional AI/ML/coding tools only. This rule is non-negotiable and applies to all agents.
+This library is for professional AI/ML/coding tools only. This rule is non-negotiable and applies to all agents. Violations will be removed immediately.
 
 ## Agent-Specific Instructions
 
-| Agent | File | Notes |
-|-------|------|-------|
-| Claude | `CLAUDE.md` | Full instructions with search patterns |
-| ChatGPT | `CHATGPT.md` | Category navigation guide |
-| Gemini | `GEMINI.md` | Best practices for tool discovery |
-| DeepSeek | `DEEPSEEK.md` | Bilingual (Chinese/English) |
-| Qwen | `QWEN.md` | Bilingual (Chinese/English) |
-| Copilot | `COPILOT.md` | Coding-focused guidance |
-| Cursor | `CURSOR.md` | IDE integration guide |
-| Codex | `CODEX.md` | CLI usage patterns |
-| OpenHands | `OPENHANDS.md` | Agent-specific workflow |
-| AutoGPT | `AUTOGPT.md` | Autonomous agent workflow |
-| MetaGPT | `METAGPT.md` | Multi-agent team roles |
-| CrewAI | `CREWAI.md` | Crew-based research |
-| LangChain | `LANGCHAIN.md` | Tool implementation |
-| Ollama | `OLLAMA.md` | Local model guidance |
-| Open WebUI | `OPENWEBUI.md` | WebUI integration |
-| Dify | `DIFY.md` | Workflow integration |
-| RAGFlow | `RAGFLOW.md` | Indexing guide |
-| FastGPT | `FASTGPT.md` | Knowledge base setup |
-| Coze | `COZE.md` | Bot commands |
-| Continue | `CONTINUE.md` | IDE context |
-| Aider | `AIDER.md` | Coding assistant guide |
-| Roo Code | `ROO.md` | IDE agent guide |
-| Windsurf | `WINDSURF.md` | IDE integration |
+| Category | Agents | Files |
+|----------|--------|-------|
+| **AI Companies** | Anthropic, OpenAI, Google, Microsoft, Meta, Amazon, Apple, NVIDIA, Intel, IBM, Oracle | `ANTHROPIC.md`, `OPENAI.md`, `GOOGLE.md`, `MICROSOFT.md`, `META.md`, `AMAZON.md`, `APPLE.md`, `NVIDIA.md`, `INTEL.md`, `IBM.md`, `ORACLE.md` |
+| **Enterprise** | SAP, Salesforce, Adobe | `SAP.md`, `Salesforce.md`, `Adobe.md` |
+| **Chinese Tech** | ByteDance, Tencent, Baidu, Alibaba, Huawei | `ByteDance.md`, `Tencent.md`, `Baidu.md`, `Alibaba.md`, `Huawei.md` |
+| **Hardware** | Samsung, Sony, LG | `Samsung.md`, `Sony.md`, `LG.md` |
+| **Space/Aero** | Tesla, SpaceX, NASA | `Tesla.md`, `SpaceX.md`, `NASA.md` |
+| **Research** | CERN, MIT, Stanford, Oxford, Cambridge | `CERN.md`, `MIT.md`, `Stanford.md`, `Oxford.md`, `Cambridge.md` |
+| **AI Agents** | Claude, ChatGPT, Gemini, DeepSeek, Qwen, Copilot, Cursor, Codex, OpenHands, AutoGPT, MetaGPT, CrewAI, LangChain, Ollama, Open WebUI, Dify, RAGFlow, FastGPT, Coze, Continue, Aider, Roo Code, Windsurf, Perplexity, Grok, Mistral, Llama, Agent Zero, OpenClaw, Hermes | All agent-specific files |
+
+## Total: 60+ AI agents with specific instructions
