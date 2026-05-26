@@ -143,3 +143,35 @@ _(Coming soon — being populated with deep research data.)_
 | [intel/psb_video](https://github.com/intel/psb_video) | ⭐3 | C | Poulsbo Media Driver (Baytrail) |
 | [apple/ml-lvsum-video-summarization](https://github.com/apple/ml-lvsum-video-summarization) | ⭐1 | Python |  |
 | [bytedance/mpv](https://github.com/bytedance/mpv) | ⭐0 | None | 🎥 Command line video player |
+
+## Global Discovery — May 2026
+
+| Tool | Description | Stars | Language |
+|------|-------------|-------|----------|
+| [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | real time face swap and one-click video deepfake with only a single image | ⭐93364 | Python |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. | ⭐58870 | Python |
+| [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) | 1 min voice data can also be used to train a good TTS model! (few shot voice cloning) | ⭐57775 | Python |
+| [safishamsi/graphify](https://github.com/safishamsi/graphify) | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any fol | ⭐53939 | Python |
+| [mudler/LocalAI](https://github.com/mudler/LocalAI) | LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any har | ⭐46469 | Go |
+| [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) | Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy | ⭐39160 | Python |
+| [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) | 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine | ⭐19869 | Python |
+| [WEIFENG2333/VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) | 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and ef | ⭐14742 | Python |
+| [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) | A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers. | ⭐13932 | Unknown |
+| [zai-org/CogVideo](https://github.com/zai-org/CogVideo) | text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023) | ⭐12743 | Python |
+| [chatfire-AI/huobao-drama](https://github.com/chatfire-AI/huobao-drama) | 🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama - An AI-Powered End-to-End Short Drama  | ⭐12436 | TypeScript |
+| [YaoFANGUK/video-subtitle-remover](https://github.com/YaoFANGUK/video-subtitle-remover) | 基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件。无需申请第三方API，本地实现。AI-based tool for removing hard-coded | ⭐11073 | Python |
+| [PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) | Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML! | ⭐9368 | Python |
+| [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) | Pythonic AI generation of images and videos | ⭐8152 | Python |
+| [Lightricks/LTX-2](https://github.com/Lightricks/LTX-2) | Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model. | ⭐6931 | Python |
+| [JimmyLv/BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1) | BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube | | ⭐6074 | TypeScript |
+| [YILS-LIN/short-video-factory](https://github.com/YILS-LIN/short-video-factory) | 一键生成产品营销与泛内容短视频，AI批量自动剪辑，高颜值跨平台桌面端工具 One click generation of product marketing and general content s | ⭐3997 | TypeScript |
+| [QwenLM/Qwen3-Omni](https://github.com/QwenLM/Qwen3-Omni) | Qwen3-omni is a natively end-to-end, omni-modal LLM developed by the Qwen team at Alibaba Cloud, cap | ⭐3780 | Jupyter Notebook |
+| [SkyworkAI/SkyReels-V1](https://github.com/SkyworkAI/SkyReels-V1) | SkyReels V1: The first and most advanced open-source human-centric video foundation model | ⭐2685 | Python |
+| [wendy7756/AI-Video-Transcriber](https://github.com/wendy7756/AI-Video-Transcriber) |  Transcribe and summarize videos and podcasts using AI. Open-source, multi-platform, and supports mu | ⭐2678 | Python |
+| [test-time-training/ttt-video-dit](https://github.com/test-time-training/ttt-video-dit) | Official PyTorch implementation of One-Minute Video Generation with Test-Time Training | ⭐2418 | Python |
+| [fal-ai-community/video-starter-kit](https://github.com/fal-ai-community/video-starter-kit) | Enable AI models for video production in the browser | ⭐2354 | TypeScript |
+| [stepfun-ai/Step-Audio-EditX](https://github.com/stepfun-ai/Step-Audio-EditX) | A powerful 3B-parameter, LLM-based Reinforcement Learning audio edit model excels at editing emotion | ⭐921 | Python |
+| [jianjieyiban/JJYB_AI_VideoAutoCut](https://github.com/jianjieyiban/JJYB_AI_VideoAutoCut) | JJYB_AI 智剪 - 智能视频自动剪辑与AI解说工具（离线TTS、原创解说、混剪、AI配音） | ⭐888 | HTML |
+| [SamurAIGPT/Text-To-Video-AI](https://github.com/SamurAIGPT/Text-To-Video-AI) | Generate video from text using AI | ⭐739 | Jupyter Notebook |
+| [SkyworkAI/SkyReels-V3](https://github.com/SkyworkAI/SkyReels-V3) | SkyReels V3: Multimodal Video Generation Model | ⭐467 | Python |
+| [KlingAIResearch/MultiShotMaster](https://github.com/KlingAIResearch/MultiShotMaster) | CVPR 2026 | Official Implementation of "MultiShotMaster: A Controllable Multi-Shot Video Generation  | ⭐162 | Python |

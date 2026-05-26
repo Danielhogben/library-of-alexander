@@ -38,7 +38,7 @@ This is not a link dump. This is a **curated, annotated, cross-referenced knowle
 | 24 | [`24-esp-embedded-ai/`](24-esp-embedded-ai/) | ESP32, microcontrollers + AI | 50+ |
 | 25 | [`25-swarm-infrastructure/`](25-swarm-infrastructure/) | Multi-node AI, distributed inference | 30+ |
 
-**Total: 2,600+ entries across 25 categories**
+**Total: 2,800+ entries across 25 categories + global discovery**
 
 ---
 
@@ -124,3 +124,16 @@ cat data/latest_discovery.json
 4. Submit a PR
 
 **Format**: `| [name](url) | description | ⭐stars | language | updated |`
+
+## 🌍 Global Discovery
+
+This library catalogs AI tools from **every country on Earth** — translated to English.
+
+- **11+ languages** searched: Chinese, Turkish, Spanish, Portuguese, Arabic, Japanese, French, Russian, Hindi, Vietnamese, Korean
+- **10+ awesome lists** scraped: 7,766+ tools cataloged
+- **285 GitHub repos** analyzed: 6.2M+ total stars
+- **215 new tools** added from global discovery
+
+The automated pipeline runs every 4 hours, searching GitHub in all languages and scraping all known awesome lists.
+
+See [GLOBAL_DISCOVERY.md](GLOBAL_DISCOVERY.md) for full details.
