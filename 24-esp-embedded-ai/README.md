@@ -79,3 +79,39 @@ _(Coming soon — being populated with deep research data.)_
 | [intel/meta-edge-ai](https://github.com/intel/meta-edge-ai) | ⭐0 | None |  |
 | [intel/edge-ai-resource-monitoring-deployment](https://github.com/intel/edge-ai-resource-monitoring-deployment) | ⭐0 | None |  |
 | [intel/edge-ai-device-plugin](https://github.com/intel/edge-ai-device-plugin) | ⭐0 | Go |  |
+| [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra | ⭐35284 | TypeScript | 2026-05-26 |
+| [MNN](https://github.com/alibaba/MNN) | MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and | ⭐15256 | C++ | 2026-05-26 |
+| [noScribe](https://github.com/kaixxx/noScribe) | Cutting edge AI technology for automated audio transcription. A nice GUI for OpenAIs Whisper and pyannote (speaker ident | ⭐1982 | Python | 2026-05-26 |
+| [yomo](https://github.com/yomorun/yomo) | 🦖 Serverless AI Agent Framework with Geo-distributed Edge AI Infra. | ⭐1903 | Rust | 2026-05-26 |
+| [MaixPy-v1](https://github.com/sipeed/MaixPy-v1) | MicroPython for K210 RISC-V, let's play with edge AI easier | ⭐1715 | Python | 2026-05-20 |
+| [edgeai-for-beginners](https://github.com/microsoft/edgeai-for-beginners) | This course is designed to guide beginners through the exciting world of Edge AI, covering fundamental concepts, popular | ⭐1476 | Jupyter Notebook | 2026-05-26 |
+| [OmniInfer](https://github.com/omnimind-ai/OmniInfer) | Unified, efficient, and easy-to-use inference infrastructure for edge AI || 面向端侧 AI 的统一、高效、易用的推理基础设施 | ⭐807 | Python | 2026-05-25 |
+| [edge-ai](https://github.com/crespum/edge-ai) | A curated list of resources for embedded AI | ⭐521 |  | 2026-05-22 |
+| [chat2geo](https://github.com/GeoRetina/chat2geo) | Chat2Geo delivers a ChatGPT-like experience tailored for remote-sensing-based geospatial analysis. Its mission is to dem | ⭐506 | TypeScript | 2026-05-20 |
+| [unisondb](https://github.com/ankur-anand/unisondb) | A streaming multimodal database for Edge AI, and Edge Computing. | ⭐415 | Go | 2026-05-25 |
+| [image-classification-with-local-vlms](https://github.com/Paulescu/image-classification-with-local-vlms) | Learn to build and deploy local Visual Language Models for Edge AI | ⭐374 | Jupyter Notebook | 2026-05-13 |
+| [Webscout](https://github.com/OEvortex/Webscout) | Webscout is the all-in-one search and AI toolkit you need. Discover insights with Yep.com, DuckDuckGo, and Phind; access | ⭐345 | Python | 2026-05-22 |
+| [cosdata](https://github.com/cosdata/cosdata) | Cosdata: A cutting-edge AI data platform for next-gen search pipelines. Features semantic search, hybrid capabilities, r | ⭐344 | Rust | 2026-05-15 |
+| [agent-hub](https://github.com/DjangoPeng/agent-hub) | This repository is a hub for AI Agent projects, including GitHub Sentinel, LanguageMentor, and ChatPPT, designed to enha | ⭐339 | Shell | 2026-05-21 |
+| [ztachip](https://github.com/ztachip/ztachip) | Opensource software/hardware platform to build edge AI solutions deployed on FPGA or custom ASIC hardware. | ⭐312 | VHDL | 2026-05-25 |
+| [AI-penetration-testing](https://github.com/Mr-Infect/AI-penetration-testing) |  AI/ML/LLM Penetration Testing Toolkit by Mr-Infect — the #1 GitHub resource for AI security, red teaming, and adversari | ⭐242 |  | 2026-05-25 |
+| [fin-sight](https://github.com/vishwasg217/fin-sight) | FinSight - Financial Insights at Your Fingertip: FinSight is a cutting-edge AI assistant tailored for portfolio managers | ⭐216 | Jupyter Notebook | 2026-04-26 |
+| [Edge-AI-Paper-List](https://github.com/xumengwei/Edge-AI-Paper-List) |  | ⭐215 |  | 2026-05-12 |
+| [edgeai-tidl-tools](https://github.com/TexasInstruments/edgeai-tidl-tools) | Edgeai TIDL Tools and Examples - This repository contains Tools and example developed for Deep learning runtime (DLRT) o | ⭐190 | Python | 2026-05-19 |
+| [sec-gemini](https://github.com/google/sec-gemini) | Sec-Gemini  is a cutting-edge AI model designed to enhance cybersecurity capabilities and empower defenders in the ongoi | ⭐184 | Svelte | 2026-05-22 |
+| [ext-apps](https://github.com/modelcontextprotocol/ext-apps) | Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers | ⭐2311 | TypeScript | 2026-05-26 |
+| [KataCR](https://github.com/wty-yy/KataCR) | A non-embedded AI for Clash Royale based on RL and CV. | ⭐436 | Python | 2026-05-23 |
+| [ModelAssistant](https://github.com/Seeed-Studio/ModelAssistant) | Seeed SenseCraft Model Assistant is an open-source project focused on embedded AI. 🔥🔥🔥 | ⭐433 | Python | 2026-05-23 |
+| [embedded-ai.bi-weekly](https://github.com/ysh329/embedded-ai.bi-weekly) | WeChat: NeuralTalk，Weekly report and awesome list of embedded-ai. | ⭐383 |  | 2026-04-19 |
+| [bbTalkie](https://github.com/RealCorebb/bbTalkie) | A hands-free mini walkie-talkie powered by embedded AI, featuring automatic voice detection, keyword-triggered animation | ⭐297 | C | 2026-05-24 |
+| [godot-ai-assistant-hub](https://github.com/FlamxGames/godot-ai-assistant-hub) | Embed AI assistants in Godot with the ability to read and write code in Godot's Code Editor. | ⭐273 | GDScript | 2026-05-24 |
+| [convostack](https://github.com/ConvoStack/convostack) | Plug and play embeddable AI chatbot widget and backend deployment framework | ⭐254 | TypeScript | 2026-05-11 |
+| [embedded_ai](https://github.com/PerfXLab/embedded_ai) |  | ⭐208 |  | 2026-02-12 |
+| [embedded-ai.bench](https://github.com/AI-performance/embedded-ai.bench) | benchmark for embededded-ai deep learning inference engines, such as NCNN / TNN / MNN / TensorFlow Lite etc. | ⭐201 | Python | 2026-05-24 |
+| [airisc_core_complex](https://github.com/Fraunhofer-IMS/airisc_core_complex) | Fraunhofer IMS processor core. RISC-V ISA (RV32IM) with additional peripherals for embedded AI applications and smart se | ⭐103 | Verilog | 2026-05-08 |
+| [agent-starter-embed](https://github.com/livekit-examples/agent-starter-embed) | Embeddable AI voice assistant button built with LiveKit | ⭐77 | TypeScript | 2026-05-16 |
+| [claude-code-java](https://github.com/fluentlc/claude-code-java) | claude-code-java 是一个可嵌入任何 Java 应用的 AI Agent 引擎。claude-code-java is an embeddable AI Agent engine for Java applications. | ⭐50 | Java | 2026-05-26 |
+| [dsce-sample-apps](https://github.com/IBM/dsce-sample-apps) | Sample applications that use IBM embeddable AI libraries and linked from https://dsce.ibm.com | ⭐46 | Python | 2026-05-18 |
+| [amico](https://github.com/bitrouter/amico) | Amico is the next generation Autonomous AI Agent Framework tailored for embedded AI devices and multi-agent systems. | ⭐43 | Rust | 2026-05-19 |
+| [panel-feedback](https://github.com/fhyfhy17/panel-feedback) | IDE embedded AI feedback panel - A better alternative to pop-up dialogs | ⭐36 | TypeScript | 2026-05-13 |
+| [embedded.ai](https://github.com/ivanovitchm/embedded.ai) | Repository for DCA0306, an undergraduate course about Embedded Artifical Intelligence | ⭐33 | Jupyter Notebook | 2026-02-23 |

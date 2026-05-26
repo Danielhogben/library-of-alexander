@@ -84,3 +84,13 @@ The House of Donn — a swarm of AI agents (Hermes, Jupiter, Nexus, Luna) workin
 - All tool descriptions must be appropriate for all audiences
 - Violations will be removed immediately
 - This rule is non-negotiable — keep it clean and professional
+
+## Agent-Specific Instructions
+
+Detailed instructions for 30+ AI agents are in `docs/agent-instructions/`:
+- Claude, ChatGPT, Gemini, DeepSeek, Qwen, Copilot, Cursor, Codex
+- OpenHands, AutoGPT, MetaGPT, CrewAI, LangChain, Ollama
+- Dify, RAGFlow, FastGPT, Coze, Continue, Aider, Roo Code, Windsurf
+- Perplexity, Grok, Mistral, Llama, Agent Zero, OpenClaw, Hermes
+
+Each agent has specific guidance for how to use this library effectively.

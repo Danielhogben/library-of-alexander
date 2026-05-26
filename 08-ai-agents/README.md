@@ -131,3 +131,10 @@ _(Coming soon — being populated with deep research data.)_
 | [pratham5368/coursera-deep-learning-specialization](https://github.com/pratham5368/coursera-deep-learning-specialization) | Notes, programming assignments and quizzes from all courses within the Coursera Deep Learning specia | ⭐1 | Unknown |
 | [sortlist/signals-cli](https://github.com/sortlist/signals-cli) |  | ⭐1 | TypeScript |
 | [unitedideas/nhs-score-check-action](https://github.com/unitedideas/nhs-score-check-action) | GitHub Action — fetch your site's agentic readiness score from Not Human Search; fail CI if it drops | ⭐0 | Unknown |
+| [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) | <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful | ⭐17531 | Python | 2026-05-26 |
+| [pydantic-ai](https://github.com/pydantic/pydantic-ai) | AI Agent Framework, the Pydantic way | ⭐17311 | Python | 2026-05-26 |
+| [voltagent](https://github.com/VoltAgent/voltagent) | AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework | ⭐9166 | TypeScript | 2026-05-26 |
+| [awesome-ai-agents-2026](https://github.com/caramaschiHG/awesome-ai-agents-2026) | 🤖 The most comprehensive list of AI agents, frameworks & tools in 2026. 300+ resources · 20+ categories · Updated monthl | ⭐942 |  | 2026-05-26 |
+| [swapper-toolkit](https://github.com/swapperfinance/swapper-toolkit) | DeFi toolkit for AI agents and coding assistants — deposit funds, execute trades, and manage crypto wallets. Works with  | ⭐761 |  | 2026-05-26 |
+| [ai-agents-frameworks](https://github.com/martimfasantos/ai-agents-frameworks) | The ultimate playground to learn, experiment with, and compare modern open-source AI agent frameworks — from basics to p | ⭐559 | Python | 2026-05-25 |
+| [ryoma](https://github.com/project-ryoma/ryoma) | Common AI agent framework solving your data problems | ⭐407 | Python | 2026-05-15 |

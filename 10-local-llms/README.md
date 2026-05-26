@@ -65,3 +65,26 @@
 | [i18n-actions/ai-i18n](https://github.com/i18n-actions/ai-i18n) | ai-i18n is a GitHub Action that translates your app's i18n files using LLMs. It extracts strings, tr | ⭐16 | TypeScript |
 | [MohamedAbdallah-14/prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) | MCP server + CLI for production-grade software assets (logos, app icons, favicons, OG, illustrations | ⭐7 | TypeScript |
 | [MrDwarf7/url-to-md](https://github.com/MrDwarf7/url-to-md) | Any URL → clean markdown for LLMs. Free API, no signup. | ⭐1 | HTML |
+| [plano](https://github.com/katanemo/plano) | Plano is an AI-native proxy and data plane for agentic apps — with built-in orchestration, safety, observability, and sm | ⭐6541 | Rust | 2026-05-26 |
+| [ClawRouter](https://github.com/BlockRunAI/ClawRouter) | The agent-native LLM router for OpenClaw. 41+ models, <1ms routing, USDC payments on Base & Solana via x402. | ⭐6517 | TypeScript | 2026-05-26 |
+| [RouteLLM](https://github.com/lm-sys/RouteLLM) | A framework for serving and evaluating LLM routers - save LLM costs without compromising quality | ⭐4940 | Python | 2026-05-26 |
+| [LLMRouter](https://github.com/ulab-uiuc/LLMRouter) | LLMRouter: An Open-Source Library for LLM Routing | ⭐1858 | Python | 2026-05-26 |
+| [OrcaRouter-Lite](https://github.com/Continuum-AI-Corp/OrcaRouter-Lite) | Self-hosted LLM router with a managed safety net. OpenAI-compatible. BYOK. Single-workspace. Streaming. For more advance | ⭐682 | Python | 2026-05-25 |
+| [UncommonRoute](https://github.com/CommonstackAI/UncommonRoute) | Automatic LLM router — 82% cost savings, 79.4% accuracy, 93.4% pass rate. Drop-in OpenAI proxy. | ⭐667 | Python | 2026-05-25 |
+| [PaperForge](https://github.com/QJHWC/PaperForge) | End-to-end AI-powered academic paper writing system — from idea generation and literature search to experiment execution | ⭐562 | Python | 2026-05-25 |
+| [NadirClaw](https://github.com/NadirRouter/NadirClaw) | Open-source LLM router & AI cost optimizer. Routes simple prompts to cheap/local models, complex ones to premium — autom | ⭐503 | Python | 2026-05-25 |
+| [llm-router](https://github.com/kcolemangt/llm-router) | Access models from OpenAI, Groq, local Ollama, and others by setting llm-router as Cursor's Base URL | ⭐385 | Go | 2026-05-20 |
+| [llm-router](https://github.com/NVIDIA-AI-Blueprints/llm-router) | Route LLM requests to the best model for the task at hand. | ⭐275 | Jupyter Notebook | 2026-05-25 |
+| [llm-router](https://github.com/anyscale/llm-router) | Tutorial for building LLM router | ⭐252 | Python | 2026-05-22 |
+| [routerbench](https://github.com/withmartian/routerbench) | The code for the paper ROUTERBENCH: A Benchmark for Multi-LLM Routing System | ⭐165 | Python | 2026-05-26 |
+| [RouterArena](https://github.com/RouteWorks/RouterArena) | RouterArena: An open framework for evaluating LLM routers with standardized datasets, metrics, an automated framework, a | ⭐78 | Python | 2026-05-25 |
+| [flow-llm-router](https://github.com/flowapi-net/flow-llm-router) | The Ultimate "Token Saver" | ⭐70 | Python | 2026-05-26 |
+| [LLMRouterBench](https://github.com/ynulihao/LLMRouterBench) | [Findings@ACL'26] LLMRouterBench: A Massive Benchmark and Unified Framework for LLM Routing | ⭐62 | Python | 2026-05-26 |
+| [litAI](https://github.com/Lightning-AI/litAI) | LLM router + minimal agent framework in one. Call any LLM API with OpenAI format. Unified billing, tools, retries, fallb | ⭐51 | Python | 2026-05-15 |
+| [IRT-Router](https://github.com/Mercidaiha/IRT-Router) | [ACL'25] Code for ACL'25 paper "IRT-Router: Effective and Interpretable Multi-LLM Routing via Item Response Theory" | ⭐32 | Python | 2026-04-28 |
+| [awesome-local-llms](https://github.com/vince-lam/awesome-local-llms) | Compare open-source local LLM inference projects by their metrics to assess popularity and activeness. | ⭐756 |  | 2026-05-24 |
+| [inference-speed-tests](https://github.com/itsmostafa/inference-speed-tests) | Local LLM inference speed tests on various devices | ⭐132 | Python | 2026-05-26 |
+| [llm_speedtest](https://github.com/gengchaogit/llm_speedtest) | Local LLM Inference Speed Test Tool | ⭐72 | HTML | 2026-05-25 |
+| [sentinel-reverse](https://github.com/sgInnora/sentinel-reverse) | AI-Powered Autonomous Binary Reverse Engineering CLI — the native reverse engine from Innora-Sentinel. Local LLM inferen | ⭐72 | Python | 2026-05-24 |
+| [quant-whisper](https://github.com/Ritiksuman07/quant-whisper) | A hedge fund on your local machine. Terminal-native algo trading engine in Go with local LLM inference (Ollama), Bubble  | ⭐65 | Go | 2026-05-11 |
+| [dataclysm](https://github.com/somewheresystems/dataclysm) | Pull high-quality, efficient embeddings for PubMed, arXiv and Wikipedia from Huggingface and use for local LLM inference | ⭐48 | Jupyter Notebook | 2026-04-25 |
