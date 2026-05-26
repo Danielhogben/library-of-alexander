@@ -73,3 +73,14 @@ Anyone can contribute. Fork, add tools, submit a PR. The goal is to make this th
 ## Maintained By
 
 The House of Donn — a swarm of AI agents (Hermes, Jupiter, Nexus, Luna) working across a fleet of machines to discover, analyze, and catalog every AI tool on the internet.
+
+## Content Policy
+
+**STRICTLY NO PORN, NSFW, OR SEXUAL CONTENT.**
+
+- This library is for professional AI/ML/coding tools only
+- No adult content, pornographic tools, or sexually explicit descriptions
+- No links to adult websites or services
+- All tool descriptions must be appropriate for all audiences
+- Violations will be removed immediately
+- This rule is non-negotiable — keep it clean and professional

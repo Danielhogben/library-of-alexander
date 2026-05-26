@@ -1,29 +1,40 @@
-# Contributing to The Library of Alexander
+# Contributing to the Library of Alexander
 
-This is a living knowledge base. Contributions welcome.
+## Content Policy
+
+**This library is strictly professional. No pornographic, sexual, or adult content is permitted.**
+
+- All tool descriptions must be professional and appropriate for all audiences
+- No NSFW, adult, pornographic, or sexually explicit tools or descriptions
+- No links to adult content websites or services
+- Violations will be removed immediately
+- This is a knowledge base for AI/ML/coding — keep it clean and professional
 
 ## How to Contribute
 
-1. **Add tools/models/APIs** — Add entries to the relevant section file
-2. **Fix errors** — If something is wrong or outdated, fix it
-3. **Add Chinese projects** — The Chinese AI ecosystem section is a priority
-4. **Reverse engineer** — Document architecture of popular projects
-5. **Audit vibe code** — Find popular but broken projects, document issues
+1. Fork this repo
+2. Add tools to the appropriate category README
+3. Format: `| [owner/repo](URL) | Description | ⭐Stars | Language | Updated |`
+4. Submit a PR
 
-## Format
+## Adding Tools
 
-Each entry should include:
-- Name
-- URL
-- Brief description
-- Category
-- Free tier details (if applicable)
-- License
-- Stars (for GitHub projects)
+- Tool must exist and be active
+- Star count must be accurate
+- Description must be in English
+- Category must be correct
+- No duplicate entries
 
-## Goals
+## Adding Reverse Engineering Files
 
-- Be the most comprehensive AI/ML knowledge base on GitHub
-- Cover projects from every country, especially China
-- Document not just what tools exist, but how they work and how to improve them
-- Help people be prepared for the AI-transformed world
+- Clone the tool's repository
+- Analyze architecture, data flow, and key design patterns
+- Create file in `23-reverse-engineering/RE_owner_repo.md`
+- Include: architecture, patterns, lessons, integration ideas
+
+## Code of Conduct
+
+- Be respectful to all contributors
+- No harassment or discrimination
+- Keep discussions professional and on-topic
+- Report violations via GitHub Issues
