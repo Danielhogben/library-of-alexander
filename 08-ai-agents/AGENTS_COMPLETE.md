@@ -425,3 +425,31 @@ Agent Frameworks:
 | [Stability-AI/strands-tools](https://github.com/Stability-AI/strands-tools) | ⭐2 | Python | A set of tools that gives agents powerful capabilities. |
 | [langchain-ai/fleet-deepagent-export](https://github.com/langchain-ai/fleet-deepagent-export) | ⭐2 | Python | Self-contained code export for LangSmith Fleet deep agents (AB-2171) |
 | [langchain-ai/async-subagents-template](https://github.com/langchain-ai/async-subagents-template) | ⭐2 | Python |  |
+
+
+## 🆕 Auto-discovered nexus (2026-05-26 02:09 UTC)
+
+| Repo | Stars | Lang | Description |
+|------|-------|------|-------------|
+| [langchain-ai/sql-support-bot-starter](https://github.com/langchain-ai/sql-support-bot-starter) | ⭐2 | Python | Simple starter code for building a customer support agent with LangSmi |
+| [langchain-ai/voice-agents-tracing](https://github.com/langchain-ai/voice-agents-tracing) | ⭐2 | Python |  |
+| [crewAIInc/agent-control](https://github.com/crewAIInc/agent-control) | ⭐2 | None |  |
+| [crewAIInc/crew-action-2026-03](https://github.com/crewAIInc/crew-action-2026-03) | ⭐2 | TypeScript |  |
+| [crewAIInc/crewai-omniauth-okta](https://github.com/crewAIInc/crewai-omniauth-okta) | ⭐2 | Ruby | OAuth2 strategy for Okta with updated code that allows using the defau |
+| [crewAIInc/crewai-community-tools](https://github.com/crewAIInc/crewai-community-tools) | ⭐2 | None |  |
+| [crewAIInc/sidekiq](https://github.com/crewAIInc/sidekiq) | ⭐2 | None | Sidekiq worker on Render |
+| [modelscope/modelscope-skills](https://github.com/modelscope/modelscope-skills) | ⭐1 | None | Equip your agents with skills to interact with ModelScope |
+| [alibaba/OSWorld](https://github.com/alibaba/OSWorld) | ⭐1 | None | [NeurIPS 2024] OSWorld: Benchmarking Multimodal Agents for Open-Ended  |
+| [huggingface/meta-agents-research-environments](https://github.com/huggingface/meta-agents-research-environments) | ⭐1 | Python | Meta Agents Research Environments is a comprehensive platform designed |
+| [huggingface/AgentLite](https://github.com/huggingface/AgentLite) | ⭐1 | None |  |
+| [Stability-AI/strands-sdk-python](https://github.com/Stability-AI/strands-sdk-python) | ⭐1 | Python | A model-driven approach to building AI agents in just a few lines of c |
+| [langchain-ai/simple-agent-template](https://github.com/langchain-ai/simple-agent-template) | ⭐1 | Python |  |
+| [crewAIInc/template_research_agent](https://github.com/crewAIInc/template_research_agent) | ⭐1 | None |  |
+| [crewAIInc/template_job_fit_assessment](https://github.com/crewAIInc/template_job_fit_assessment) | ⭐1 | Python | Job Fit Assessment demo app |
+| [crewAIInc/template_support_ticket_front](https://github.com/crewAIInc/template_support_ticket_front) | ⭐1 | CSS |  |
+| [crewAIInc/template_frontend_crewai_flows_streamlit_ui](https://github.com/crewAIInc/template_frontend_crewai_flows_streamlit_ui) | ⭐1 | Python |  |
+| [crewAIInc/Corsair_SnowflakeProject](https://github.com/crewAIInc/Corsair_SnowflakeProject) | ⭐1 | Python |  |
+| [crewAIInc/Madison-Reed-MVP](https://github.com/crewAIInc/Madison-Reed-MVP) | ⭐1 | Python |  |
+| [intel/sagent-helm](https://github.com/intel/sagent-helm) | ⭐1 | None | sagest helm chart for certification |
+| [01-ai/open-agentkit-builder](https://github.com/01-ai/open-agentkit-builder) | ⭐0 | TypeScript | open-agentkit-builder |
+| [Stability-AI/strands-docs](https://github.com/Stability-AI/strands-docs) | ⭐0 | None | Documentation for the Strands Agents SDK. A model-driven approach to b |

@@ -504,3 +504,59 @@ Small Models (<10B):
 | [openai/SWELancer-Benchmark](https://github.com/openai/SWELancer-Benchmark) | ⭐1439 | None | This repo contains the dataset and code for the paper "SWE-Lancer: Can |
 | [intel/auto-round](https://github.com/intel/auto-round) | ⭐1411 | Python | A SOTA quantization algorithm for high-accuracy low-bit LLM inference, |
 | [MoonshotAI/Kimi-Linear](https://github.com/MoonshotAI/Kimi-Linear) | ⭐1394 | None |  |
+
+
+## 🆕 Auto-discovered nexus (2026-05-26 02:09 UTC)
+
+| Repo | Stars | Lang | Description |
+|------|-------|------|-------------|
+| [openai/lm-human-preferences](https://github.com/openai/lm-human-preferences) | ⭐1393 | Python | Code for the paper Fine-Tuning Language Models from Human Preferences |
+| [deepseek-ai/EPLB](https://github.com/deepseek-ai/EPLB) | ⭐1379 | Python | Expert Parallelism Load Balancer |
+| [FunAudioLLM/ThinkSound](https://github.com/FunAudioLLM/ThinkSound) | ⭐1354 | Python | [NeurIPS 2025] PyTorch implementation of [ThinkSound], a unified frame |
+| [FunAudioLLM/FunMusic](https://github.com/FunAudioLLM/FunMusic) | ⭐1350 | Python | A fundamental toolkit designed for music, song, and audio generation |
+| [huggingface/llm-vscode](https://github.com/huggingface/llm-vscode) | ⭐1316 | TypeScript | LLM powered development for VSCode |
+| [deepseek-ai/DeepSeek-Prover-V2](https://github.com/deepseek-ai/DeepSeek-Prover-V2) | ⭐1267 | None |  |
+| [QwenLM/Qwen3-VL-Embedding](https://github.com/QwenLM/Qwen3-VL-Embedding) | ⭐1253 | Python |  |
+| [Tencent/AngelSlim](https://github.com/Tencent/AngelSlim) | ⭐1243 | Python | Model compression toolkit engineered for enhanced usability, comprehen |
+| [MoonshotAI/Kimi-Dev](https://github.com/MoonshotAI/Kimi-Dev) | ⭐1220 | Python | open-source coding LLM for software engineering tasks |
+| [vllm-project/vllm-metal](https://github.com/vllm-project/vllm-metal) | ⭐1198 | Python | Community maintained hardware plugin for vLLM on Apple Silicon |
+| [langchain-ai/langchain-extract](https://github.com/langchain-ai/langchain-extract) | ⭐1196 | Rich Text Format | 🦜⛏️ Did you say you like data? |
+| [MoonshotAI/Kimi-VL](https://github.com/MoonshotAI/Kimi-VL) | ⭐1193 | None | Kimi-VL: Mixture-of-Experts Vision-Language Model for Multimodal Reaso |
+| [THUDM/LongBench](https://github.com/THUDM/LongBench) | ⭐1178 | Python | LongBench v2 and LongBench (ACL 25'&24') |
+| [FunAudioLLM/Fun-ASR](https://github.com/FunAudioLLM/Fun-ASR) | ⭐1172 | Python | End-to-end speech recognition large model: 31 languages, dialects, acc |
+| [vllm-project/guidellm](https://github.com/vllm-project/guidellm) | ⭐1166 | Python | Evaluate and Enhance Your LLM Deployments for Real-World Inference Nee |
+| [huggingface/llm.nvim](https://github.com/huggingface/llm.nvim) | ⭐1163 | Lua | LLM powered development for Neovim |
+| [deepseek-ai/profile-data](https://github.com/deepseek-ai/profile-data) | ⭐1157 | None | Analyze computation-communication overlap in V3/R1. |
+| [OpenGVLab/VisionLLM](https://github.com/OpenGVLab/VisionLLM) | ⭐1148 | Python | VisionLLM Series |
+| [alibaba/rtp-llm](https://github.com/alibaba/rtp-llm) | ⭐1130 | Cuda | RTP-LLM: Alibaba's high-performance LLM inference engine for diverse a |
+| [NVIDIA/audio-flamingo](https://github.com/NVIDIA/audio-flamingo) | ⭐1130 | None | PyTorch implementation of Audio Flamingo: Series of Advanced Audio Und |
+| [NVIDIA/kvpress](https://github.com/NVIDIA/kvpress) | ⭐1091 | Python | LLM KV cache compression made easy |
+| [Tencent/TencentPretrain](https://github.com/Tencent/TencentPretrain) | ⭐1087 | Python | Tencent Pre-training framework in PyTorch & Pre-trained Model Zoo  |
+| [google-deepmind/dramatron](https://github.com/google-deepmind/dramatron) | ⭐1085 | Jupyter Notebook | Dramatron uses large language models to generate coherent scripts and  |
+| [QwenLM/Qwen2.5-Math](https://github.com/QwenLM/Qwen2.5-Math) | ⭐1079 | Python | A series of math-specific large language models of our Qwen2 series. |
+| [NVIDIA/sentiment-discovery](https://github.com/NVIDIA/sentiment-discovery) | ⭐1071 | Python | Unsupervised Language Modeling at scale for robust sentiment classific |
+| [langchain-ai/openevals](https://github.com/langchain-ai/openevals) | ⭐1062 | Python | Readymade evaluators for your LLM apps |
+| [langchain-ai/mcpdoc](https://github.com/langchain-ai/mcpdoc) | ⭐990 | Python | Expose llms-txt to IDEs for development |
+| [run-llama/chat-llamaindex](https://github.com/run-llama/chat-llamaindex) | ⭐983 | TypeScript |  |
+| [OpenBMB/RepoAgent](https://github.com/OpenBMB/RepoAgent) | ⭐968 | Python | An LLM-powered repository agent designed to assist developers and team |
+| [QwenLM/Qwen3-ASR-Toolkit](https://github.com/QwenLM/Qwen3-ASR-Toolkit) | ⭐964 | Python | Official Python toolkit for the Qwen3-ASR API. Parallel high‑throughpu |
+| [MoonshotAI/checkpoint-engine](https://github.com/MoonshotAI/checkpoint-engine) | ⭐956 | Python | Checkpoint-engine is a simple middleware to update model weights in LL |
+| [FunAudioLLM/Fun-Audio-Chat](https://github.com/FunAudioLLM/Fun-Audio-Chat) | ⭐947 | Python | Fun-Audio-Chat is a Large Audio Language Model built for natural, low- |
+| [THUDM/P-tuning](https://github.com/THUDM/P-tuning) | ⭐939 | Python | A novel method to tune language models. Codes and datasets for paper ` |
+| [THUDM/AutoWebGLM](https://github.com/THUDM/AutoWebGLM) | ⭐932 | Python | An LLM-based Web Navigating Agent (KDD'24) |
+| [stepfun-ai/Step-Audio-EditX](https://github.com/stepfun-ai/Step-Audio-EditX) | ⭐921 | Python | A powerful 3B-parameter, LLM-based Reinforcement Learning audio edit m |
+| [OpenGVLab/OmniQuant](https://github.com/OpenGVLab/OmniQuant) | ⭐898 | Python | [ICLR2024 spotlight] OmniQuant is a simple and powerful quantization t |
+| [mistralai/mistral-common](https://github.com/mistralai/mistral-common) | ⭐895 | Python | Official inference library for pre-processing of Mistral models |
+| [TencentARC/SEED-Story](https://github.com/TencentARC/SEED-Story) | ⭐884 | Python | SEED-Story: Multimodal Long Story Generation with Large Language Model |
+| [huggingface/llm-ls](https://github.com/huggingface/llm-ls) | ⭐872 | Rust | LSP server leveraging LLMs for code completion (and more?) |
+| [mistralai/megablocks-public](https://github.com/mistralai/megablocks-public) | ⭐868 | None |  |
+| [OpenBMB/ProAgent](https://github.com/OpenBMB/ProAgent) | ⭐864 | Python | An LLM-based Agent for the New Automation Paradigm - Agentic Process A |
+| [Tencent/hpc-ops](https://github.com/Tencent/hpc-ops) | ⭐857 | C++ | High Performance LLM Inference Operator Library |
+| [OpenBMB/IoA](https://github.com/OpenBMB/IoA) | ⭐821 | Python | An open-source framework for collaborative AI agents, enabling diverse |
+| [meta-llama/prompt-ops](https://github.com/meta-llama/prompt-ops) | ⭐814 | Python | An open-source tool for LLM prompt optimization. |
+| [vllm-project/recipes](https://github.com/vllm-project/recipes) | ⭐808 | JavaScript | Common recipes to run vLLM |
+| [Tencent/AICGSecEval](https://github.com/Tencent/AICGSecEval) | ⭐796 | Python | A.S.E (AICGSecEval) is a repository-level AI-generated code security e |
+| [OpenBMB/AgentCPM](https://github.com/OpenBMB/AgentCPM) | ⭐795 | Python | An End-to-End Infrastructure for Training and Evaluating Various LLM A |
+| [deepseek-ai/awesome-deepseek-coder](https://github.com/deepseek-ai/awesome-deepseek-coder) | ⭐785 | None | A curated list of open-source projects related to DeepSeek Coder |
+| [Tencent/PatrickStar](https://github.com/Tencent/PatrickStar) | ⭐775 | Python | PatrickStar enables Larger, Faster, Greener Pretrained Models for NLP  |
+| [google-deepmind/opro](https://github.com/google-deepmind/opro) | ⭐746 | Python | official code for "Large Language Models as Optimizers" |

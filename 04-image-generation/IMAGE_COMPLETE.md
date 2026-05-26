@@ -329,3 +329,35 @@
 | [intel/Middleware-Metering](https://github.com/intel/Middleware-Metering) | ⭐11 | Go | Metering solution for EdgeX and Mainflux middleware platforms |
 | [google-deepmind/implicit_diffusion](https://github.com/google-deepmind/implicit_diffusion) | ⭐10 | Python |  |
 | [NVIDIA/cbootimage-configs](https://github.com/NVIDIA/cbootimage-configs) | ⭐9 | Makefile | Configuration files for use with cbootimage |
+
+
+## 🆕 Auto-discovered nexus (2026-05-26 02:09 UTC)
+
+| Repo | Stars | Lang | Description |
+|------|-------|------|-------------|
+| [Kwai-Kolors/Kwai-Kolors.github.io](https://github.com/Kwai-Kolors/Kwai-Kolors.github.io) | ⭐8 | HTML |  |
+| [bytedance/ImageRef-VL](https://github.com/bytedance/ImageRef-VL) | ⭐8 | Python |  |
+| [NVIDIA/k8s-samples](https://github.com/NVIDIA/k8s-samples) | ⭐8 | Dockerfile | Sample Dockerfiles for Docker Hub images |
+| [intel/rho-diffusion](https://github.com/intel/rho-diffusion) | ⭐8 | Python | Parameterizing n-dimensional density fields using denoising diffusion  |
+| [Stability-AI/docker-images](https://github.com/Stability-AI/docker-images) | ⭐7 | Dockerfile |  |
+| [Kwai-Kolors/ResTok](https://github.com/Kwai-Kolors/ResTok) | ⭐6 | Python | ResTok: Learning Hierarchical Residuals in 1D Visual Tokenizers for Au |
+| [Stability-AI/Real-ESRGAN](https://github.com/Stability-AI/Real-ESRGAN) | ⭐6 | Python | Real-ESRGAN aims at developing Practical Algorithms for General Image/ |
+| [NVIDIA/packer-builder-xenserver](https://github.com/NVIDIA/packer-builder-xenserver) | ⭐5 | Go | A builder plugin for Packer.IO to support building XenServer images. |
+| [NVIDIA/harbor-reef-operator](https://github.com/NVIDIA/harbor-reef-operator) | ⭐4 | Go | Kubernetes Operator for Harbor Reef Image Cache |
+| [intel/dimgen](https://github.com/intel/dimgen) | ⭐4 | Rust | docker image sources generator. |
+| [intel/vpx-image-transport](https://github.com/intel/vpx-image-transport) | ⭐4 | C++ |  |
+| [NVIDIA/remote-media](https://github.com/NVIDIA/remote-media) | ⭐3 | C++ | Remotely mount images for the host through the BMC |
+| [intel/genfatimage](https://github.com/intel/genfatimage) | ⭐3 | Perl | A simple tool to create and populate a FAT or exFAT filesystem image,  |
+| [intel/aikit-operator](https://github.com/intel/aikit-operator) | ⭐2 | Makefile | AIKit Operator used to install ImageStream in the cluster for jupyterh |
+| [apple/ml-safetypairs](https://github.com/apple/ml-safetypairs) | ⭐2 | Python | SafetyPairs: Isolating Safety Critical Image Features with Counterfact |
+| [Stability-AI/rembg](https://github.com/Stability-AI/rembg) | ⭐1 | Python | Rembg is a tool to remove images background |
+| [Stability-AI/stable-piq](https://github.com/Stability-AI/stable-piq) | ⭐1 | Python | Measures and metrics for image2image tasks. PyTorch. |
+| [Stability-AI/stability-sdk-ab](https://github.com/Stability-AI/stability-sdk-ab) | ⭐1 | None | SDK for interacting with stability.ai APIs (e.g. stable diffusion infe |
+| [NVIDIA/SKA-gpu-reproject](https://github.com/NVIDIA/SKA-gpu-reproject) | ⭐1 | None | Image reprojection for the square kilometer array using GPUs |
+| [intel/meta-xenomai](https://github.com/intel/meta-xenomai) | ⭐1 | None | This custom layer adds Xenomai(xenomai.org) specific-BSP to build real |
+| [PaddlePaddle/flux](https://github.com/PaddlePaddle/flux) | ⭐0 | C++ | A fast communication-overlapping library for tensor parallelism on GPU |
+| [modelscope/diffusion-templates-web](https://github.com/modelscope/diffusion-templates-web) | ⭐0 | HTML |  |
+| [OpenGVLab/GenEditEvalKit](https://github.com/OpenGVLab/GenEditEvalKit) | ⭐0 | None | The first unified, efficient, and extensible evaluation toolkit for ev |
+| [Stability-AI/InternalForkComfyUI](https://github.com/Stability-AI/InternalForkComfyUI) | ⭐0 | Python | The most powerful and modular stable diffusion GUI with a graph/nodes  |
+| [intel/flexRAN-docker-image-dependencies](https://github.com/intel/flexRAN-docker-image-dependencies) | ⭐0 | Makefile |  |
+| [intel/lkp-qemu](https://github.com/intel/lkp-qemu) | ⭐0 | None | initrd images for lkp qemu |

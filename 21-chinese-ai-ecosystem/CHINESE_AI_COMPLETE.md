@@ -717,3 +717,59 @@ The most popular fine-tuning toolkit in China.
 | [alibaba/web-editor](https://github.com/alibaba/web-editor) | ⭐1327 | JavaScript | please use https://uiauto.dev instead |
 | [baidu/bfe-book](https://github.com/baidu/bfe-book) | ⭐1296 | None | In-depth Understanding of BFE《深入理解BFE》（Book for BFE, a CNCF open sourc |
 | [alibaba/GaiaX](https://github.com/alibaba/GaiaX) | ⭐1287 | C | 动态模板引擎是一套轻量化、跨平台、高性能的纯原生移动端卡片渲染动态化解决方案 |
+
+
+## 🆕 Auto-discovered nexus (2026-05-26 02:09 UTC)
+
+| Repo | Stars | Lang | Description |
+|------|-------|------|-------------|
+| [alibaba/bindingx](https://github.com/alibaba/bindingx) | ⭐1270 | JavaScript | :rocket: Bind actions to effects. |
+| [alibaba/tfs](https://github.com/alibaba/tfs) | ⭐1245 | C++ | TFS (Taobao File System) is a distributed file system similar to GFS. |
+| [alibaba/IOC-golang](https://github.com/alibaba/IOC-golang) | ⭐1233 | Go | 一款服务于 Go 开发者的依赖注入框架，方便搭建任何 Go 应用。 A Golang depenedency injection frame |
+| [baidu/BaikalDB](https://github.com/baidu/BaikalDB) | ⭐1233 | C++ | BaikalDB, A Distributed HTAP Database. |
+| [Tencent/FeatherCNN](https://github.com/Tencent/FeatherCNN) | ⭐1228 | C++ | FeatherCNN is a high performance inference engine for convolutional ne |
+| [bytedance/USO](https://github.com/bytedance/USO) | ⭐1222 | Python | [CVPR 2026] 🔥🔥 Official Repo of USO: Unified Style and Subject-Driven  |
+| [bytedance/BoostMultiDex](https://github.com/bytedance/BoostMultiDex) | ⭐1201 | Java | BoostMultiDex is a solution for quickly loading multiple dex files on  |
+| [alibaba/PhotonLibOS](https://github.com/alibaba/PhotonLibOS) | ⭐1197 | C++ | Probably the fastest coroutine lib in the world! |
+| [bytedance/Fastbot_Android](https://github.com/bytedance/Fastbot_Android) | ⭐1186 | C++ | Fastbot(2.0) is a model-based testing tool for modeling GUI transition |
+| [bytedance/memory-leak-detector](https://github.com/bytedance/memory-leak-detector) | ⭐1184 | C |  |
+| [baidu/DuReader](https://github.com/baidu/DuReader) | ⭐1177 | Python | Baseline Systems of DuReader Dataset |
+| [bytedance/1d-tokenizer](https://github.com/bytedance/1d-tokenizer) | ⭐1153 | Jupyter Notebook | This repo contains the code for 1D tokenizer and generator |
+| [Tencent/tdesign-flutter](https://github.com/Tencent/tdesign-flutter) | ⭐1141 | Dart | A Flutter UI components lib for TDesign. |
+| [baidu/bigflow](https://github.com/baidu/bigflow) | ⭐1133 | C++ | Baidu Bigflow is an interface that allows for writing distributed comp |
+| [alibaba/dawn](https://github.com/alibaba/dawn) | ⭐1132 | JavaScript | :sunrise: Dawn is a lightweight task management and build tool for fro |
+| [Tencent/hel](https://github.com/Tencent/hel) | ⭐1114 | JavaScript | A module federation SDK for browser and node, it is unrelated to tool  |
+| [PaddlePaddle/Paddle.js](https://github.com/PaddlePaddle/Paddle.js) | ⭐1094 | JavaScript | Paddle.js is a web project for Baidu PaddlePaddle, which is an open so |
+| [alibaba/G3D](https://github.com/alibaba/G3D) | ⭐1077 | TypeScript | A pure 3D render engine compatible with webgl, running both in browser |
+| [alibaba/taokeeper](https://github.com/alibaba/taokeeper) | ⭐1043 | Java | ZooKeeper-Monitor, a monitor for zookeeper in java. Download https://g |
+| [bytedance/godlp](https://github.com/bytedance/godlp) | ⭐1037 | Go | sensitive information protection toolkit |
+| [Tencent/tdesign-vue](https://github.com/Tencent/tdesign-vue) | ⭐1015 | TypeScript | A Vue.js UI components lib for TDesign. |
+| [TencentARC/SEED-Voken](https://github.com/TencentARC/SEED-Voken) | ⭐1009 | Python | SEED-Voken: A Series of Powerful Visual Tokenizers |
+| [bytedance/SandboxFusion](https://github.com/bytedance/SandboxFusion) | ⭐1009 | Python |  |
+| [baidu/DDParser](https://github.com/baidu/DDParser) | ⭐1000 | Python | 百度开源的依存句法分析系统 |
+| [Tencent/TencentKona-8](https://github.com/Tencent/TencentKona-8) | ⭐998 | Java | Tencent Kona is a no-cost, production-ready distribution of the Open J |
+| [alibaba/ali-react-table](https://github.com/alibaba/ali-react-table) | ⭐979 | TypeScript | Performent, flexible and modern React table component. |
+| [baidu/starlight](https://github.com/baidu/starlight) | ⭐979 | Java | Java implementation for Baidu RPC, multi-protocol & high performance R |
+| [alibaba/alist](https://github.com/alibaba/alist) | ⭐975 | TypeScript | Alibaba Group Unified List Solution. |
+| [Tencent/RapidView](https://github.com/Tencent/RapidView) | ⭐972 | Java | RapidView is an android ui and lightapp development framework |
+| [bytedance/sonic-cpp](https://github.com/bytedance/sonic-cpp) | ⭐972 | C++ | A fast JSON serializing & deserializing library, accelerated by SIMD. |
+| [Tencent/tdesign-vue-next-starter](https://github.com/Tencent/tdesign-vue-next-starter) | ⭐970 | Vue | A starter-kit for TDesign Vue Next UI components |
+| [alibaba/java-dns-cache-manipulator](https://github.com/alibaba/java-dns-cache-manipulator) | ⭐967 | Java | 🌏 A tiny 0-dependency thread-safe Java™ lib for setting/viewing dns pr |
+| [baidu/CUP](https://github.com/baidu/CUP) | ⭐949 | Python | CUP, common useful python-lib.  (Currently, Most popular python lib in |
+| [Tencent/tdesign-react](https://github.com/Tencent/tdesign-react) | ⭐945 | TypeScript | A React UI components lib for TDesign. |
+| [Tencent/FAutoTest](https://github.com/Tencent/FAutoTest) | ⭐939 | Python | A UI automated testing framework for H5 and applets |
+| [alibaba/funcraft](https://github.com/alibaba/funcraft) | ⭐935 | JavaScript | (have) Fun with Serverless(API Gateway & Function Compute) |
+| [alibaba/ApsaraCache](https://github.com/alibaba/ApsaraCache) | ⭐930 | C | archived | ApsaraCache is a Redis branch originated from Alibaba Group |
+| [alibaba/BladeDISC](https://github.com/alibaba/BladeDISC) | ⭐926 | C++ | BladeDISC is an end-to-end DynamIc Shape Compiler project for machine  |
+| [Tencent/mxflutter](https://github.com/Tencent/mxflutter) | ⭐911 | Dart | 使用 TypeScript/JavaScript 来开发 Flutter 应用的框架。 |
+| [bytedance/fedlearner](https://github.com/bytedance/fedlearner) | ⭐903 | Python | A multi-party collaborative machine learning framework |
+| [bytedance/mockey](https://github.com/bytedance/mockey) | ⭐900 | Go | A simple and easy-to-use Go mocking library derived from ByteDance's i |
+| [alibaba/SmartEngine](https://github.com/alibaba/SmartEngine) | ⭐897 | Java | SmartEngine is a lightweight business orchestration engine. |
+| [Tencent/Face2FaceTranslator](https://github.com/Tencent/Face2FaceTranslator) | ⭐896 | JavaScript | 面对面翻译小程序是微信团队针对面对面沟通的场景开发的流式语音翻译小程序，通过微信同声传译插件提供了语音识别，文本翻译等功能。 |
+| [alibaba/TinyNeuralNetwork](https://github.com/alibaba/TinyNeuralNetwork) | ⭐878 | Python | TinyNeuralNetwork is an efficient and easy-to-use deep learning model  |
+| [Tencent/Pebble](https://github.com/Tencent/Pebble) | ⭐874 | C++ | Pebble分布式开发框架 |
+| [bytedance/g3](https://github.com/bytedance/g3) | ⭐873 | Rust | Enterprise-oriented Generic Proxy Solutions |
+| [alibaba/nginx-http-concat](https://github.com/alibaba/nginx-http-concat) | ⭐866 | C | A Nginx module for concatenating files in a given context: CSS and JS  |
+| [Tencent/Real-SR](https://github.com/Tencent/Real-SR) | ⭐824 | Python | Real-World Super-Resolution via Kernel Estimation and Noise Injection |
+| [alibaba/youku-sdk-tool-woodpecker](https://github.com/alibaba/youku-sdk-tool-woodpecker) | ⭐822 | Objective-C | In-app-debug tool for iOS |
+| [Tencent/tdesign-miniprogram-starter-retail](https://github.com/Tencent/tdesign-miniprogram-starter-retail) | ⭐818 | JavaScript | TDesign - 微信小程序 - 零售行业模板 |
