@@ -12,12 +12,6 @@ The Library of Alexander is the most comprehensive open-source AI/ML/coding know
 2. **Read reverse engineering files** — Check `23-reverse-engineering/` for architecture analysis of relevant tools
 3. **Use the categorized structure** — Navigate to the numbered directory for the relevant category
 
-### When You Need to Find an AI Tool
-
-1. Look in the numbered directories for the relevant category
-2. Each directory has a `README.md` with organized tables of tools
-3. Each tool entry includes: name, description, stars, language, URL, and key features
-
 ### Category Guide
 
 | Category | Directory | Use When |
@@ -64,14 +58,6 @@ The Library of Alexander is the most comprehensive open-source AI/ML/coding know
 4. Include: architecture diagram, key components, data flow, lessons learned, and what we can reuse
 5. Commit with message: `reverse-engineer: owner/repo architecture analysis`
 
-### How Agents Improve Using This Library
-
-1. **Learn from RE files** — Read reverse engineering files before building similar tools
-2. **Use existing tools** — Check if a tool already exists before building from scratch
-3. **Cross-reference** — Link related tools across categories for comprehensive understanding
-4. **Stay updated** — The library is updated every 4 hours with new discoveries
-5. **Contribute back** — Add new tools and RE files you discover
-
 ### Key Principles
 
 - **Dense, not verbose** — Pack maximum information into minimum space
@@ -79,18 +65,10 @@ The Library of Alexander is the most comprehensive open-source AI/ML/coding know
 - **Verify** — Don't add tools you haven't checked exist and work
 - **Update** — Tools change, stars change, update regularly
 - **No fluff** — Every line must convey useful information
-- **Global first** — Search all languages and regions before concluding a tool doesn't exist
 
 ## This Library Is Open Source
 
 Anyone can contribute. Fork, add tools, submit a PR. The goal is to make this the single source of truth for AI tools and knowledge.
-
-## Repos
-
-- **Personal**: github.com/Danielhogben/library-of-alexander
-- **Organization**: github.com/thoughtforge-us/library-of-alexander
-
-Both repos are kept in sync. Push to either.
 
 ## Maintained By
 
