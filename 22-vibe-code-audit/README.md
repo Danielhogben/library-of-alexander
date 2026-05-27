@@ -30,3 +30,23 @@ _(Coming soon — being populated with deep research data.)_
 | [promptfoo-action](https://github.com/promptfoo/promptfoo-action) | The GitHub Action for Promptfoo.  Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability sca | ⭐68 | TypeScript | 2026-05-26 |
 | [awesome-ai-red-teaming](https://github.com/shlomihod/awesome-ai-red-teaming) | A curated list of awesome AI Red Teaming resources and tools. | ⭐34 |  | 2026-05-17 |
 | [AI-Red-Teaming](https://github.com/xsankar/AI-Red-Teaming) | All things specific to LLM Red Teaming Generative AI | ⭐30 |  | 2026-03-13 |
+| [h4cker](https://github.com/The-Art-of-Hacking/h4cker) | This repository is maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hackin | ⭐26566 | Jupyter Notebook | 2026-05-27 |
+| [cai](https://github.com/aliasrobotics/cai) | Cybersecurity AI (CAI), the framework for AI Security | ⭐8756 | Python | 2026-05-27 |
+| [Awesome-AI-Security](https://github.com/DeepSpaceHarbor/Awesome-AI-Security) | :file_folder: #AISecurity | ⭐1631 |  | 2026-05-22 |
+| [awesome-ai-security](https://github.com/ottosulin/awesome-ai-security) | A collection of awesome resources related AI security | ⭐1042 |  | 2026-05-27 |
+| [Awesome-AI-Security](https://github.com/TalEliyahu/Awesome-AI-Security) | Curated resources, research, and tools for securing AI systems | ⭐714 |  | 2026-05-27 |
+| [arcjet-js](https://github.com/arcjet/arcjet-js) | Arcjet JavaScript (JS) / TypeScript SDK. Stop bots and automated attacks from burning your AI budget, leaking data, or m | ⭐665 | TypeScript | 2026-05-27 |
+| [AI-Security-Learning](https://github.com/0xMJ/AI-Security-Learning) | 自身学习的安全数据科学和算法的学习资料 | ⭐640 |  | 2026-05-12 |
+| [zeroleaks](https://github.com/ZeroLeaks/zeroleaks) | AI Security Scanner - Test your AI systems for prompt injection and extraction vulnerabilities | ⭐570 | TypeScript | 2026-05-27 |
+| [ai-sec-resources](https://github.com/Arcanum-Sec/ai-sec-resources) | AI Security Resources Hub | ⭐405 | HTML | 2026-05-23 |
+| [www-project-ai-security-and-privacy-guide](https://github.com/OWASP/www-project-ai-security-and-privacy-guide) | OWASP Foundation Web Respository | ⭐387 | HTML | 2026-05-26 |
+| [Androidmeda](https://github.com/In3tinct/Androidmeda) | AI Security tool to deobfuscate and find any potential vulnerabilities in android apps. | ⭐359 | Python | 2026-05-25 |
+| [ai-goat](https://github.com/dhammon/ai-goat) | Learn AI security through a series of vulnerable LLM CTF challenges. No sign ups, no cloud fees, run everything locally  | ⭐340 | Python | 2026-05-22 |
+| [AIGoat](https://github.com/orcasecurity-research/AIGoat) | AIGoat: A deliberately Vulnerable AI Infrastructure. Learn AI security through solving our challenges. | ⭐279 | CSS | 2026-05-17 |
+| [crossbow-agent](https://github.com/harishsg993010/crossbow-agent) | world's first Opensource fully Autonomous AI Security Engineer | ⭐243 | Python | 2026-05-25 |
+| [AI-penetration-testing](https://github.com/Mr-Infect/AI-penetration-testing) |  AI/ML/LLM Penetration Testing Toolkit by Mr-Infect — the #1 GitHub resource for AI security, red teaming, and adversari | ⭐243 |  | 2026-05-26 |
+| [aiohttp-security](https://github.com/aio-libs/aiohttp-security) | auth and permissions for aiohttp | ⭐241 | Python | 2026-05-25 |
+| [AI-Security-Paper](https://github.com/eastmountyxz/AI-Security-Paper) | This resource mainly counts papers related to APT attacks, including APT traceability, APT knowledge graph construction, | ⭐223 |  | 2026-03-11 |
+| [claude-code-owasp](https://github.com/agamm/claude-code-owasp) | Claude Code skill for OWASP security best practices (2025-2026). Includes Top 10:2025, ASVS 5.0, Agentic AI security, an | ⭐210 |  | 2026-05-27 |
+| [Awesome-AI-Security-BIG4](https://github.com/Zhou-Zi7/Awesome-AI-Security-BIG4) | This Github repository summarizes a list of research papers on AI security from the four top academic conferences. | ⭐183 |  | 2026-05-18 |
+| [AI-Security-and-Privacy-Events](https://github.com/ZhengyuZhao/AI-Security-and-Privacy-Events) | A curated list of academic events on AI Security & Privacy | ⭐166 |  | 2026-05-14 |

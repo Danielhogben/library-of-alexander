@@ -62,3 +62,32 @@ _(Coming soon — being populated with deep research data.)_
 | [superlocalmemory](https://github.com/qualixar/superlocalmemory) | World's first local-only AI memory to break 74% retrieval and 60% zero-LLM on LoCoMo. No cloud, no APIs, no data leaves  | ⭐158 | Python | 2026-05-25 |
 | [submarine](https://github.com/DenAB-NVS/submarine) | Sovereign, depth-adaptive AI memory. Open source. Local-first. Model-agnostic. | ⭐145 | JavaScript | 2026-05-26 |
 | [openclaw-vertexai-memorybank](https://github.com/Shubhamsaboo/openclaw-vertexai-memorybank) | Vertex AI Memory Bank Plugin for OpenClaw | ⭐140 | TypeScript | 2026-05-20 |
+| [swarmvault](https://github.com/swarmclawai/swarmvault) | The local-first LLM Wiki: open-source knowledge graph builder, RAG knowledge base, and agent memory store. Built on Andr | ⭐499 | TypeScript | 2026-05-27 |
+| [tgo](https://github.com/tgoai/tgo) | Open-source AI Agent Customer Service Platform. Build AI agent teams with LLM orchestration, RAG knowledge base, multi-c | ⭐481 | TypeScript | 2026-05-27 |
+| [JRVS](https://github.com/Xthebuilder/JRVS) | JRVS Local AI Assitant RAG knowledge base Powered by whatever local AI you choose. | ⭐238 | Python | 2026-05-21 |
+| [spring-ai-loom-agent](https://github.com/wb04307201/spring-ai-loom-agent) | A Spring Boot auto-configuration library that injects RAG knowledge base, MCP tool calling, and Skill library into Sprin | ⭐146 | Java | 2026-05-24 |
+| [basjoo](https://github.com/haoyiyin/basjoo) | Open-source AI customer support platform — RAG knowledge base, multi-provider LLM agents, embeddable chat widget. FastAP | ⭐110 | Python | 2026-05-27 |
+| [ai-chatkit](https://github.com/pasonk/ai-chatkit) | A full-stack ai agent chat project, built with langgraph+fastapi+nextjs, supporting tool invocation and RAG knowledge ba | ⭐97 | Python | 2026-05-22 |
+| [DocSentinel](https://github.com/arthurpanhku/DocSentinel) | MCP server for AI agent for cybersecurity: automate assessment of documents, questionnaires & reports. Multi-format pars | ⭐88 | Python | 2026-05-15 |
+| [aime-chat](https://github.com/DarkNoah/aime-chat) | A cross-platform AI desktop chat cowork app supporting 10+ LLM providers, RAG knowledge base, and MCP tools. Built with  | ⭐34 | TypeScript | 2026-05-26 |
+| [sidekick](https://github.com/PapaRascal2020/sidekick) | A fluent Laravel package for integrating with OpenAI, Anthropic Claude, Mistral, and Cohere AI services. Features a mode | ⭐30 | PHP | 2026-05-16 |
+| [milvus](https://github.com/milvus-io/milvus) | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search | ⭐44474 | Go | 2026-05-27 |
+| [qdrant](https://github.com/qdrant/qdrant) | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av | ⭐31599 | Rust | 2026-05-27 |
+| [weaviate](https://github.com/weaviate/weaviate) | Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector  | ⭐16244 | Go | 2026-05-27 |
+| [zvec](https://github.com/alibaba/zvec) | A lightweight, lightning-fast, in-process vector database | ⭐9715 | C++ | 2026-05-27 |
+| [objectbox-java](https://github.com/objectbox/objectbox-java) | Database for Android and JVM - first and fast, lightweight on-device vector database | ⭐4610 | Java | 2026-05-26 |
+| [helix-db](https://github.com/HelixDB/helix-db) | HelixDB is an open-source graph-vector database built from scratch in Rust. | ⭐4587 | Rust | 2026-05-27 |
+| [cozo](https://github.com/cozodb/cozo) | A transactional, relational-graph-vector database that uses Datalog for query. The hippocampus for AI! | ⭐3998 | Rust | 2026-05-26 |
+| [document.ai](https://github.com/GanymedeNil/document.ai) | 基于向量数据库与GPT3.5的通用本地知识库方案(A universal local knowledge base solution based on vector database and GPT3.5) | ⭐3676 | Python | 2026-05-25 |
+| [rocketride-server](https://github.com/rocketride-org/rocketride-server) | High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflo | ⭐3424 | C++ | 2026-05-27 |
+| [vault-ai](https://github.com/pashpashpash/vault-ai) | OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own  | ⭐3394 | JavaScript | 2026-05-25 |
+| [prompttools](https://github.com/hegelai/prompttools) | Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector dat | ⭐3035 | Python | 2026-05-25 |
+| [examples](https://github.com/pinecone-io/examples) | Jupyter Notebooks to help you get hands-on with Pinecone vector databases | ⭐3021 | Jupyter Notebook | 2026-05-25 |
+| [vector-admin](https://github.com/Mintplex-Labs/vector-admin) | The universal tool suite for vector database management. Manage Pinecone, Chroma, Qdrant, Weaviate and more vector datab | ⭐2227 | TypeScript | 2026-05-25 |
+| [dingo](https://github.com/dingodb/dingo) | A multi-modal vector database that supports upserts and vector queries using unified SQL (MySQL-Compatible) on structure | ⭐1700 | Java | 2026-05-25 |
+| [hyperDB](https://github.com/jdagdelen/hyperDB) | A hyper-fast local vector database for use with LLM Agents. Now accepting SAFEs at $135M cap. | ⭐1408 | Python | 2026-05-26 |
+| [pymilvus](https://github.com/milvus-io/pymilvus) | Python SDK for Milvus Vector Database | ⭐1381 | Python | 2026-05-27 |
+| [endee](https://github.com/endee-io/endee) | Endee.io – A high-performance vector database, designed to handle up to 1B vectors on a single node, delivering signific | ⭐1309 | C++ | 2026-05-27 |
+| [VectorDBBench](https://github.com/zilliztech/VectorDBBench) | Benchmark for vector databases. | ⭐1114 | Python | 2026-05-27 |
+| [chromem-go](https://github.com/philippgille/chromem-go) | Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional  | ⭐960 | Go | 2026-05-27 |
+| [lantern](https://github.com/lanterndata/lantern) | PostgreSQL vector database extension for building AI applications | ⭐883 | Rust | 2026-05-19 |

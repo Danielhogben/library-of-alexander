@@ -1,0 +1,4041 @@
+{
+  "timestamp": "20260527_1404",
+  "total": 330,
+  "by_source": {
+    "rss": 46,
+    "reddit": 80,
+    "youtube": 49,
+    "tiktok": 59,
+    "4chan": 30,
+    "hackernews": 30,
+    "github": 36
+  },
+  "repos": {
+    "collections/prism-ml": 2,
+    "spaces/webml-community": 2,
+    "jaymody/speculative-samlping": 1,
+    "jaymody/speculative-sampling": 1,
+    "jaymody/picoGPT": 1,
+    "OttoRenner/Gentle-Coding": 1,
+    "ibm-granite/granite-4.1-30b": 1,
+    "feedbackland/feedbackland": 1,
+    "emporius/SlabTrap": 1,
+    "boquila/boquilahub": 1,
+    "dietrichmax/colota": 1,
+    "caddyserver/caddy": 1,
+    "geronimi73/3090": 1,
+    "nvidia/PiD": 1,
+    "geronimi73/3090_shorts": 1,
+    "user-attachments/files": 1,
+    "Comfy-Org/Lens": 1,
+    "noobezlol/lightagent": 1,
+    "Asabeneh/30-Days-Of-Python": 1,
+    "blader/humanizer": 1,
+    "fspecii/ace-step-ui": 1,
+    "Tongyi-MAI/Z-Imagehttps": 1,
+    "LykosAI/StabilityMatrix": 1,
+    "Tongyi-MAI/Z-Image-Turbo": 1,
+    "mcmonkeyprojects/SwarmUI": 1,
+    "comfyanonymous/ComfyUIForge": 1,
+    "Haoming02/sd-webui-forge-classicStability": 1
+  },
+  "results": [
+    {
+      "source": "rss",
+      "feed": "nl-latentspace",
+      "category": "nl",
+      "title": "10% of their workforce]]>",
+      "description": "",
+      "url": "https://www.latent.space/p/ainews-anthropic-growing-10xyear",
+      "published": "Sat, 09 May 2026 01:08:28 GMT",
+      "links": []
+    },
+    {
+      "source": "rss",
+      "feed": "blog-simonwillison",
+      "category": "blog",
+      "title": "Quoting Kyle Ferrana",
+      "description": "",
+      "url": "https://simonwillison.net/2026/May/27/kyle-ferrana/#atom-everything",
+      "published": "2026-05-27T06:41:43+00:00",
+      "links": []
+    },
+    {
+      "source": "rss",
+      "feed": "blog-simonwillison",
+      "category": "blog",
+      "title": "The pressure",
+      "description": "",
+      "url": "https://simonwillison.net/2026/May/26/the-pressure/#atom-everything",
+      "published": "2026-05-26T23:48:45+00:00",
+      "links": []
+    },
+    {
+      "source": "rss",
+      "feed": "blog-simonwillison",
+      "category": "blog",
+      "title": "Microsoft Copilot Cowork Exfiltrates Files",
+      "description": "",
+      "url": "https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything",
+      "published": "2026-05-26T15:36:48+00:00",
+      "links": []
+    },
+    {
+      "source": "rss",
+      "feed": "blog-simonwillison",
+      "category": "blog",
+      "title": "Quoting Paul Graham",
+      "description": "",
+      "url": "https://simonwillison.net/2026/May/26/paul-graham/#atom-everything",
+      "published": "2026-05-26T15:02:30+00:00",
+      "links": []
+    },
+    {
+      "source": "rss",
+      "feed": "blog-simonwillison",
+      "category": "blog",
+      "title": "Quoting Corey Quinn",
+      "description": "",
+      "url": "https://simonwillison.net/2026/May/26/corey-quinn/#atom-everything",
+      "published": "2026-05-26T02:28:54+00:00",
+      "links": []
+    },
+    {
+      "source": "rss",
+      "feed": "blog-simonwillison",
+      "category": "blog",
+      "title": "Notes on Pope Leo XIV's encyclical on AI",
+      "description": "",
+      "url": "https://simonwillison.net/2026/May/25/encyclical-on-ai/#atom-everything",
+      "published": "2026-05-25T23:58:17+00:00",
+      "links": []
+    },
+    {
+      "source": "rss",
+      "feed": "blog-simonwillison",
+      "category": "blog",
+      "title": "California Brown Pelican, Snowy Egret, California Sea Lion, Harbor Seal",
+      "description": "",
+      "url": "https://simonwillison.net/2026/May/25/sighting-365297287/#atom-everything",
+      "published": "2026-05-25T23:08:00+00:00",
+      "links": []
+    },
+    {
+      "source": "rss",
+      "feed": "blog-simonwillison",
+      "category": "blog",
+      "title": "datasette 1.0a30",
+      "description": "",
+      "url": "https://simonwillison.net/2026/May/24/datasette/#atom-everything",
+      "published": "2026-05-24T23:52:37+00:00",
+      "links": []
+    },
+    {
+      "source": "rss",
+      "feed": "blog-simonwillison",
+      "category": "blog",
+      "title": "datasette-agent 0.1a4",
+      "description": "",
+      "url": "https://simonwillison.net/2026/May/24/datasette-agent/#atom-everything",
+      "published": "2026-05-24T23:19:34+00:00",
+      "links": []
+    },
+    {
+      "source": "rss",
+      "feed": "blog-simonwillison",
+      "category": "blog",
+      "title": "datasette-fixtures 0.1a0",
+      "description": "",
+      "url": "https://simonwillison.net/2026/May/24/datasette-fixtures/#atom-everything",
+      "published": "2026-05-24T21:38:32+00:00",
+      "links": []
+    },
+    {
+      "source": "rss",
+      "feed": "blog-jaykmody",
+      "category": "blog",
+      "title": "Speculative Sampling",
+      "description": "<p>This post provides an overview, implementation, and time complexity analysis of DeepMind's paper <a href=\"https://arxiv.org/abs/2302.01318\">Accelerating Large Language Model Decoding with Speculative Sampling</a>.</p>\n<p>Code for this blog post can be found at <a href=\"https://github.com/jaymody/speculative-sampling\">github.com/jaymody/speculative-samlping</a>.</p>\n<p><strong>EDIT (Apr 13th, 2023):</strong> Updated code and time complexity to avoid the extra forward pass of the draft model (c",
+      "url": "https://jaykmody.com/blog/speculative-sampling/",
+      "published": "Wed, 08 Feb 2023 00:00:00 +0000",
+      "links": [
+        "jaymody/speculative-samlping",
+        "jaymody/speculative-sampling",
+        "2302.01318"
+      ]
+    },
+    {
+      "source": "rss",
+      "feed": "blog-jaykmody",
+      "category": "blog",
+      "title": "GPT in 60 Lines of NumPy",
+      "description": "<p>In this post, we'll implement a GPT from scratch in just <a href=\"https://github.com/jaymody/picoGPT/blob/29e78cc52b58ed2c1c483ffea2eb46ff6bdec785/gpt2_pico.py#L3-L58\">60 lines of <code>numpy</code></a>. We'll then load the trained GPT-2 model weights released by OpenAI into our implementation and generate some text.</p>\n<p><strong>Note:</strong></p>\n<ul>\n<li>This post assumes familiarity with Python, NumPy, and some basic experience with neural networks.</li>\n<li>This implementation is for e",
+      "url": "https://jaykmody.com/blog/gpt-from-scratch/",
+      "published": "Mon, 30 Jan 2023 00:00:00 +0000",
+      "links": [
+        "jaymody/picoGPT"
+      ]
+    },
+    {
+      "source": "rss",
+      "feed": "blog-jaykmody",
+      "category": "blog",
+      "title": "Numerically Stable Softmax and Cross Entropy",
+      "description": "<p>In this post, we'll take a look at softmax and cross entropy loss, two very common mathematical functions used in deep learning. We'll see that naive implementations are numerically unstable, and then we'll derive implementations that are numerically stable.</p>\n<h2 id=\"symbols\" tabindex=\"-1\">Symbols</h2>\n<hr />\n<ul>\n<li>\\(x\\): Input vector of dimensionality \\(d\\).</li>\n<li>\\(y\\): Correct class, an integer on the range \\(y \\in [1\\ldots K]\\).</li>\n<li>\\(\\hat{y}\\): Raw outputs (i.e. logits) of ",
+      "url": "https://jaykmody.com/blog/stable-softmax/",
+      "published": "Thu, 15 Dec 2022 00:00:00 +0000",
+      "links": []
+    },
+    {
+      "source": "rss",
+      "feed": "blog-jaykmody",
+      "category": "blog",
+      "title": "An Intuition for Attention",
+      "description": "<p>ChatGPT and other large language models use a special type of neural network called the transformer. The transformer defining feature is the <em>attention</em> mechanism. Attention is defined by the equation:</p>\n<p>\\[\\text{attention}(Q, K, V) = \\text{softmax}(\\frac{QK^T}{\\sqrt{d_k}})V\\]</p>\n<p>Attention can come in different forms, but this version of attention (known as scaled dot product attention) was first proposed in the original <a href=\"https://arxiv.org/pdf/1706.03762.pdf\">transforme",
+      "url": "https://jaykmody.com/blog/attention-intuition/",
+      "published": "Sat, 22 Oct 2022 00:00:00 +0000",
+      "links": []
+    },
+    {
+      "source": "rss",
+      "feed": "blog-jaykmody",
+      "category": "blog",
+      "title": "Computing Distance Matrices with NumPy",
+      "description": "<h2 id=\"background\" tabindex=\"-1\">Background</h2>\n<p>A <a href=\"https://en.wikipedia.org/wiki/Distance_matrix#:~:text=In%20mathematics%2C%20computer%20science%20and,may%20not%20be%20a%20metric.\">distance matrix</a> is a square matrix that captures the pairwise distances between a set of vectors. More formally:</p>\n<blockquote>\n<p>Given a set of vectors \\(v_1, v_2, ... v_n\\) and it's distance matrix \\(\\text{dist}\\), the element \\(\\text{dist}_{ij}\\) in the matrix would represent the distance betwe",
+      "url": "https://jaykmody.com/blog/distance-matrices-with-numpy/",
+      "published": "Sun, 04 Apr 2021 00:00:00 +0000",
+      "links": []
+    },
+    {
+      "source": "rss",
+      "feed": "platform-comet",
+      "category": "platform",
+      "title": "Introducing Ollie: Auto-Fix Your Agent\u2019s Codebase",
+      "description": "In standard software engineering, developers use proven, repeatable workflows to develop, test, debug, and update software products. They use intelligent debugging tools to quickly resolve problems, run tests to make sure fixes are effective, and automate the whole process so a fix can be implemented, tested, and integrated into the product in minutes. The same [\u2026]\nThe post Introducing Ollie: Auto-Fix Your Agent\u2019s Codebase appeared first on Comet.\n]]>",
+      "url": "https://live-comet-marketing-site.pantheonsite.io/blog/self-improving-agents/",
+      "published": "Wed, 22 Apr 2026 15:12:19 +0000",
+      "links": []
+    },
+    {
+      "source": "rss",
+      "feed": "platform-comet",
+      "category": "platform",
+      "title": "What Held Up at 3 AM: One Engineer\u2019s RAG Case Study",
+      "description": "Most AI demos work. Most AI products don\u2019t. This series is a collection of interviews with engineers who shipped AI agents to production, covering the stacks they chose, the architectures they regretted, and what actually held up at 3 am. This is an interview with Michael Maximilien, former CTO and Distinguished Engineer at IBM and [\u2026]\nThe post What Held Up at 3 AM: One Engineer\u2019s RAG Case Study appeared first on Comet.\n]]>",
+      "url": "https://live-comet-marketing-site.pantheonsite.io/blog/weavecli-opik-project-example/",
+      "published": "Wed, 20 May 2026 16:47:21 +0000",
+      "links": []
+    },
+    {
+      "source": "rss",
+      "feed": "platform-comet",
+      "category": "platform",
+      "title": "LLM Cost Tracking Solution: How to Monitor and Control AI Spend in Agentic Systems",
+      "description": "The first sign of trouble isn\u2019t always performance. Sometimes it\u2019s the invoice. Your team ships a new agent that routes requests, calls tools, runs retrieval, and orchestrates multiple LLM calls to deliver high-quality answers. It looks like a win until the first full-month bill hits, and your LLM spend has quietly tripled. Finance wants answers, [\u2026]\nThe post LLM Cost Tracking Solution: How to Monitor and Control AI Spend in Agentic Systems appeared first on Comet.\n]]>",
+      "url": "https://live-comet-marketing-site.pantheonsite.io/blog/llm-cost-tracking-solution/",
+      "published": "Fri, 15 May 2026 20:37:31 +0000",
+      "links": []
+    },
+    {
+      "source": "rss",
+      "feed": "platform-comet",
+      "category": "platform",
+      "title": "Introducing the Opik Agent Playground",
+      "description": "In the early stages of agent development, you make big changes to your agent\u2019s code: designing the architecture, integrating tools, and getting the core logic working. The next phase looks different. It starts once your agent is built and mostly working, and it\u2019s where a lot of the real improvement happens. You run the agent [\u2026]\nThe post Introducing the Opik Agent Playground appeared first on Comet.\n]]>",
+      "url": "https://live-comet-marketing-site.pantheonsite.io/blog/end-to-end-agent-testing/",
+      "published": "Thu, 23 Apr 2026 13:43:41 +0000",
+      "links": []
+    },
+    {
+      "source": "rss",
+      "feed": "platform-comet",
+      "category": "platform",
+      "title": "Introducing Opik Test Suites: Straightforward Unit & Regression Testing for AI Agents",
+      "description": "One of the biggest challenges when it comes to agent development is quality. It\u2019s getting easier every day to spin up an MVP or demo of an agent that accomplishes complex tasks through an array of tool calls, context retrieval steps, and system prompts. But it\u2019s still hard to know whether that agent will perform [\u2026]\nThe post Introducing Opik Test Suites: Straightforward Unit & Regression Testing for AI Agents appeared first on Comet.\n]]>",
+      "url": "https://live-comet-marketing-site.pantheonsite.io/blog/ai-agent-regression-testing/",
+      "published": "Tue, 21 Apr 2026 13:43:33 +0000",
+      "links": []
+    },
+    {
+      "source": "rss",
+      "feed": "platform-comet",
+      "category": "platform",
+      "title": "Multimodal LLM Evaluation: A Developer\u2019s Guide to Multimodal Language Models",
+      "description": "Production teams processing billions of product listings, such as Shopify, report that multimodal LLMs analyzing product images alongside metadata can match human-quality descriptions while scaling to millions of inferences daily. Meanwhile, Waymo\u2019s research team demonstrates that multimodal LLMs processing camera feeds directly achieve competitive motion planning accuracy for autonomous vehicles. These deployments share one challenge: [\u2026]\nThe post Multimodal LLM Evaluation: A Developer\u2019s Guide ",
+      "url": "https://live-comet-marketing-site.pantheonsite.io/blog/multimodal-llm-evaluation/",
+      "published": "Thu, 02 Apr 2026 20:15:57 +0000",
+      "links": []
+    },
+    {
+      "source": "rss",
+      "feed": "platform-comet",
+      "category": "platform",
+      "title": "AI Agent Evaluation: Building Reliable Systems Beyond Simple Testing",
+      "description": "Your customer service agent routes 2,000 queries daily. During testing, it resolved 85 percent of requests correctly. Three weeks after launch, customer satisfaction dropped 12 percent and support tickets escalated 40 percent faster than baseline. Your logs show successful API calls, normal latency and clean status codes across the board. The metrics say everything works. [\u2026]\nThe post AI Agent Evaluation: Building Reliable Systems Beyond Simple Testing appeared first on Comet.\n]]>",
+      "url": "https://live-comet-marketing-site.pantheonsite.io/blog/ai-agent-evaluation/",
+      "published": "Thu, 02 Apr 2026 19:21:20 +0000",
+      "links": []
+    },
+    {
+      "source": "rss",
+      "feed": "platform-comet",
+      "category": "platform",
+      "title": "Axios Supply Chain Attack: What Happened, How We Responded, and What You Should Do Right Now",
+      "description": "On March 31, 2026, axios \u2014 one of npm most popular packages \u2014 was compromised with a remote access trojan. Here is what happened, how Comet responded within minutes, and what you should do to protect your systems.\nThe post Axios Supply Chain Attack: What Happened, How We Responded, and What You Should Do Right Now appeared first on Comet.\n]]>",
+      "url": "https://live-comet-marketing-site.pantheonsite.io/blog/axios-supply-chain-attack/",
+      "published": "Tue, 31 Mar 2026 15:47:46 +0000",
+      "links": []
+    },
+    {
+      "source": "rss",
+      "feed": "platform-comet",
+      "category": "platform",
+      "title": "New in Opik: Native OpenClaw Observability, Custom Dashboards, Optimization UI Upgrades, & More!",
+      "description": "Whether you\u2019re tracing complex agent workflows, comparing prompt optimization runs, or building dashboards around the metrics that matter most, this month\u2019s Opik updates give you clearer visibility into performance, cost, and quality across the AI development lifecycle. Highlights include the new Opik-OpenClaw plugin, new agent optimization features in the Optimization Studio, greater flexibility for creating [\u2026]\nThe post New in Opik: Native OpenClaw Observability, Custom Dashboards, Optimizatio",
+      "url": "https://live-comet-marketing-site.pantheonsite.io/blog/opik-product-releases-march2026/",
+      "published": "Thu, 26 Mar 2026 17:05:09 +0000",
+      "links": []
+    },
+    {
+      "source": "rss",
+      "feed": "platform-comet",
+      "category": "platform",
+      "title": "LiteLLM Supply Chain Attack: What Happened, Who\u2019s Affected, and What You Should Do Right Now",
+      "description": "LiteLLM \u2014 95 million downloads per month, a dependency of CrewAI, DSPy, Browser-Use, Opik, and nearly every major AI agent framework \u2014 was hit by a supply chain attack. Here is what happened, how we responded, and what you should do right now.\nThe post LiteLLM Supply Chain Attack: What Happened, Who\u2019s Affected, and What You Should Do Right Now appeared first on Comet.\n]]>",
+      "url": "https://live-comet-marketing-site.pantheonsite.io/blog/litellm-supply-chain-attack/",
+      "published": "Tue, 24 Mar 2026 18:52:51 +0000",
+      "links": []
+    },
+    {
+      "source": "rss",
+      "feed": "platform-kore",
+      "category": "platform",
+      "title": "Executive Insights Series 02: When Thinking Becomes Free",
+      "description": "<div class=\"hs-featured-image-wrapper\"> \r\n <a href=\"https://blog.kore.ai/executive-insights-series-when-thinking-becomes-free\" title=\"\" class=\"hs-featured-image-link\"> <img src=\"https://blog.kore.ai/hubfs/DSC01520-1.jpg\" alt=\"Executive Insights Series 02: When Thinking Becomes Free\" class=\"hs-featured-image\" style=\"width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;\"> </a> \r\n</div> \r\n<p>A few years ago, a single cargo ship blocked the Suez Canal and froze nearly $10 billion i",
+      "url": "https://blog.kore.ai/executive-insights-series-when-thinking-becomes-free",
+      "published": "Mon, 27 Oct 2025 19:10:10 GMT",
+      "links": []
+    },
+    {
+      "source": "rss",
+      "feed": "platform-kore",
+      "category": "platform",
+      "title": "Executive Insights Series 01: What Happens When AI Eliminates the Easy Conversations",
+      "description": "<div class=\"hs-featured-image-wrapper\"> \r\n <a href=\"https://blog.kore.ai/what-happens-when-ai-eliminates-the-easy-conversations\" title=\"\" class=\"hs-featured-image-link\"> <img src=\"https://blog.kore.ai/hubfs/DSC01521.jpg\" alt=\"Executive Insights Series 01: What Happens When AI Eliminates the Easy Conversations\" class=\"hs-featured-image\" style=\"width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;\"> </a> \r\n</div> \r\n<p>We\u2019ve all been there. You\u2019re deep in work when a colleague dro",
+      "url": "https://blog.kore.ai/what-happens-when-ai-eliminates-the-easy-conversations",
+      "published": "Mon, 27 Oct 2025 18:27:44 GMT",
+      "links": []
+    },
+    {
+      "source": "rss",
+      "feed": "platform-kore",
+      "category": "platform",
+      "title": "Re:imagine 2025 Dallas - Where AI Velocity Meets Control",
+      "description": "<div class=\"hs-featured-image-wrapper\"> \r\n <a href=\"https://blog.kore.ai/dallas-reimagine-event-city-tour\" title=\"\" class=\"hs-featured-image-link\"> <img src=\"https://blog.kore.ai/hubfs/DSC01356-1.jpg\" alt=\"Re:imagine 2025 Dallas - Where AI Velocity Meets Control\" class=\"hs-featured-image\" style=\"width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;\"> </a> \r\n</div> \r\n<p>The Dallas stop of re:imagine 2025 opened with proof instead of prediction. A customer dialogue with<span styl",
+      "url": "https://blog.kore.ai/dallas-reimagine-event-city-tour",
+      "published": "Mon, 27 Oct 2025 18:04:45 GMT",
+      "links": []
+    },
+    {
+      "source": "rss",
+      "feed": "platform-kore",
+      "category": "platform",
+      "title": "The Hype Trap: Why Waiting for Certainty Guarantees You\u2019ll Be Too Late",
+      "description": "<div class=\"hs-featured-image-wrapper\"> \r\n <a href=\"https://blog.kore.ai/hype-trap-waiting-for-certainty\" title=\"\" class=\"hs-featured-image-link\"> <img src=\"https://blog.kore.ai/hubfs/Blog%20Post%20Template-12-1.png\" alt=\"The Hype Trap: Why Waiting for Certainty Guarantees You\u2019ll Be Too Late\" class=\"hs-featured-image\" style=\"width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;\"> </a> \r\n</div> \r\n<p><em>\"Doubt is not a pleasant condition, but certainty is absurd.\" \u2014 Voltaire</em",
+      "url": "https://blog.kore.ai/hype-trap-waiting-for-certainty",
+      "published": "Fri, 03 Oct 2025 16:34:22 GMT",
+      "links": []
+    },
+    {
+      "source": "rss",
+      "feed": "platform-kore",
+      "category": "platform",
+      "title": "Designing Transformative AI Experiences: Lessons from Hash Bajwa",
+      "description": "<div class=\"hs-featured-image-wrapper\"> \r\n <a href=\"https://blog.kore.ai/ai-activations-episode-6-hash-bajwa\" title=\"\" class=\"hs-featured-image-link\"> <img src=\"https://blog.kore.ai/hubfs/Blog%20Post%20Template-11-1.png\" alt=\"Designing Transformative AI Experiences: Lessons from Hash Bajwa\" class=\"hs-featured-image\" style=\"width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;\"> </a> \r\n</div> \r\n<p><em>\"The most powerful technology doesn\u2019t just solve problems. It inspires people ",
+      "url": "https://blog.kore.ai/ai-activations-episode-6-hash-bajwa",
+      "published": "Tue, 23 Sep 2025 17:17:04 GMT",
+      "links": []
+    },
+    {
+      "source": "rss",
+      "feed": "platform-kore",
+      "category": "platform",
+      "title": "Moving Beyond Answers to Authentic Dialogue",
+      "description": "<div class=\"hs-featured-image-wrapper\"> \r\n <a href=\"https://blog.kore.ai/moving-beyond-answers-authentic-dialogue\" title=\"\" class=\"hs-featured-image-link\"> <img src=\"https://blog.kore.ai/hubfs/Re_imagine%20Blogs%20Thumbnail-3.png\" alt=\"Moving Beyond Answers to Authentic Dialogue\" class=\"hs-featured-image\" style=\"width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;\"> </a> \r\n</div> \r\n<h3><span style=\"color: #181818;\">From Rosie the Robot to Real Conversations</span></h3> \r\n<p>Re",
+      "url": "https://blog.kore.ai/moving-beyond-answers-authentic-dialogue",
+      "published": "Fri, 05 Sep 2025 15:35:13 GMT",
+      "links": []
+    },
+    {
+      "source": "rss",
+      "feed": "platform-kore",
+      "category": "platform",
+      "title": "Navigating the Pitfalls of AI Agent Development",
+      "description": "<div class=\"hs-featured-image-wrapper\"> \r\n <a href=\"https://blog.kore.ai/navigating-the-pitfalls-of-ai-agent-development\" title=\"\" class=\"hs-featured-image-link\"> <img src=\"https://blog.kore.ai/hubfs/Hero%20OG%20(11)-1.jpg\" alt=\"Navigating the Pitfalls of AI Agent Development\" class=\"hs-featured-image\" style=\"width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;\"> </a> \r\n</div> \r\n<p>AI agents have become pivotal in transforming business operations, enhancing customer experience",
+      "url": "https://blog.kore.ai/navigating-the-pitfalls-of-ai-agent-development",
+      "published": "Mon, 01 Sep 2025 06:23:56 GMT",
+      "links": []
+    },
+    {
+      "source": "rss",
+      "feed": "platform-kore",
+      "category": "platform",
+      "title": "State of Enterprise AI in 2025: A Decision-Maker\u2019s Guide",
+      "description": "<div class=\"hs-featured-image-wrapper\"> \r\n <a href=\"https://blog.kore.ai/state-of-enterprise-ai-in-2025-a-decision-makers-guide\" title=\"\" class=\"hs-featured-image-link\"> <img src=\"https://blog.kore.ai/hubfs/Hero%20OG%20(10)-1.jpg\" alt=\"State of Enterprise AI in 2025: A Decision-Maker\u2019s Guide\" class=\"hs-featured-image\" style=\"width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;\"> </a> \r\n</div> \r\n<p style=\"line-height: 1.75;\">AI is in every boardroom conversation, and enterprise",
+      "url": "https://blog.kore.ai/state-of-enterprise-ai-in-2025-a-decision-makers-guide",
+      "published": "Tue, 26 Aug 2025 12:00:20 GMT",
+      "links": []
+    },
+    {
+      "source": "rss",
+      "feed": "platform-kore",
+      "category": "platform",
+      "title": "Evolution of Generative AI Engineering From Models to Agentic Ecosystems",
+      "description": "<div class=\"hs-featured-image-wrapper\"> \r\n <a href=\"https://blog.kore.ai/evolution-of-generative-ai-engineering-from-models-to-agentic-ecosystems\" title=\"\" class=\"hs-featured-image-link\"> <img src=\"https://blog.kore.ai/hubfs/Hero%20OG%20(9).jpg\" alt=\"Evolution of Generative AI Engineering From Models to Agentic Ecosystems\" class=\"hs-featured-image\" style=\"width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;\"> </a> \r\n</div> \r\n<p style=\"font-weight: normal;\">Generative AI (GenAI",
+      "url": "https://blog.kore.ai/evolution-of-generative-ai-engineering-from-models-to-agentic-ecosystems",
+      "published": "Mon, 25 Aug 2025 17:07:05 GMT",
+      "links": []
+    },
+    {
+      "source": "rss",
+      "feed": "platform-kore",
+      "category": "platform",
+      "title": "Beyond the Appetizers: What We Learned About AI Leadership at Hudson Yards",
+      "description": "<div class=\"hs-featured-image-wrapper\"> \r\n <a href=\"https://blog.kore.ai/ai-leadership-hudson-yards\" title=\"\" class=\"hs-featured-image-link\"> <img src=\"https://blog.kore.ai/hubfs/LinkdIn_AWS_2X.jpg\" alt=\"Beyond the Appetizers: What We Learned About AI Leadership at Hudson Yards\" class=\"hs-featured-image\" style=\"width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;\"> </a> \r\n</div> \r\n<p>Business dinners in New York are often remembered for the skyline and the cuisine. Our recent ",
+      "url": "https://blog.kore.ai/ai-leadership-hudson-yards",
+      "published": "Thu, 21 Aug 2025 19:57:07 GMT",
+      "links": []
+    },
+    {
+      "source": "rss",
+      "feed": "platform-vue",
+      "category": "platform",
+      "title": "The Hidden Costs of Manual Meter Reading: Why Your Utility Company Can\u2019t Afford to Wait for Automation",
+      "description": "Reading Time:  6 minutes Manual meter verification has long been the norm for many utility companies. But this legacy process does more harm than good. It drains operational resources, delays cash flow, and gradually erodes customer trust. As the industry rapidly shifts toward digital, especially with AI for energy industry applications gaining traction, continuing with outdated systems puts your  ...\nThe post The Hidden Costs of Manual Meter Reading: Why Your Utility Company Can\u2019t Afford to Wai",
+      "url": "https://www.vue.ai/blog/ai-transformation/hidden-costs-manual-meter-reading/",
+      "published": "Thu, 05 Jun 2025 11:22:53 +0000",
+      "links": []
+    },
+    {
+      "source": "rss",
+      "feed": "platform-vue",
+      "category": "platform",
+      "title": "Vue.ai and Xponent.ai Announce Strategic Partnership to Scale Enterprise AI Adoption in AUS/NZ",
+      "description": "Reading Time:  3 minutes January 23, 2025 \u2013 San Francisco, CA \u2013 Vue.ai, a leader in AI-orchestration and Sydney (Australia) based Xponent.ai, building and delivering Data and AI solutions to accelerate outcomes, are excited to announce a strategic partnership that promises to revolutionise the way enterprises across industry verticals leverage artificial intelligence for accelerating value creation that matter the  ...\nThe post Vue.ai and Xponent.ai Announce Strategic Partnership to Scale Enterp",
+      "url": "https://www.vue.ai/blog/enterprise-ai/vue-ai-and-xponent-ai-announce-strategic-partnership-to-scale-enterprise-ai-adoption-in-aus-nz/",
+      "published": "Thu, 23 Jan 2025 06:55:32 +0000",
+      "links": []
+    },
+    {
+      "source": "rss",
+      "feed": "platform-vue",
+      "category": "platform",
+      "title": "Online Cart Abandonment: The Best Strategies For eCommerce",
+      "description": "Reading Time:  6 minutes Consider this holiday scenario: A shopper visits a website to find the perfect Christmas gifts. They spend time browsing and select a cozy sweater, a matching scarf, and a pair of gloves. Ready to purchase, they add the items to their cart but then abandon it and leave the site. This highlights a significant issue  ...\nThe post Online Cart Abandonment: The Best Strategies For eCommerce appeared first on Vue.ai Blog.\n]]>",
+      "url": "https://www.vue.ai/blog/ai-in-retail/ecommerce-shopping-cart-abandonment-fashion-retail/",
+      "published": "Thu, 05 Dec 2024 08:20:00 +0000",
+      "links": []
+    },
+    {
+      "source": "rss",
+      "feed": "platform-vue",
+      "category": "platform",
+      "title": "Vue.ai to Transform Document Processing and Workflow Automation with Gen AI on Microsoft Azure",
+      "description": "Reading Time:  2 minutes San Francisco, CA \u2014 November 12, 2024 Vue.ai, a leading AI orchestration platform, is proud to announce the launch of its Intelligent Document Processing (IDP) solution and workflow automation suite on Microsoft Azure, to deliver AI-powered automation, offering businesses enhanced workflow efficiency and significant cost savings. Vue.ai integrates Microsoft Azure services including Azure OpenAI Service  ...\nThe post Vue.ai to Transform Document Processing and Workflow Au",
+      "url": "https://www.vue.ai/blog/enterprise-ai/vue-ai-introduces-idp-on-azure-for-ai-powered-workflow-transformation/",
+      "published": "Tue, 12 Nov 2024 10:27:20 +0000",
+      "links": []
+    },
+    {
+      "source": "rss",
+      "feed": "platform-vue",
+      "category": "platform",
+      "title": "From Weeks to Days: AI-Powered Precision in Loan Automation",
+      "description": "Reading Time:  4 minutes The old-school, paper-heavy loan processing methods are like using a flip phone in the age of smartphones\u2014outdated and frustrating. Customers today want their loans approved faster than they can brew a cup of coffee, and frankly, who can blame them?\u00a0 Lengthy approvals, outdated systems, and high costs aren\u2019t just inconvenient\u2014they\u2019re deal-breakers. As customers crave quicker,  ...\nThe post From Weeks to Days: AI-Powered Precision in Loan Automation appeared first on Vue.",
+      "url": "https://www.vue.ai/blog/intelligent-automation/from-weeks-to-days-ai-powered-precision-in-loan-automation/",
+      "published": "Fri, 08 Nov 2024 05:57:56 +0000",
+      "links": []
+    },
+    {
+      "source": "rss",
+      "feed": "platform-vue",
+      "category": "platform",
+      "title": "Vue.ai joins hands with SimpliFI Consulting to amplify AI orchestration across Middle Eastern financial institutions",
+      "description": "Reading Time:  2 minutes SimpliFI Consulting, founded by Jinesh Gosar, a banking veteran from the MENA region, selects\u00a0Vue.ai, an enterprise data and AI orchestration platform developed by Mad Street Den across a decade. The partnership aims to scale AI adoption across regions in the Middle East and Asia where the cloud journey has just started to mature and there  ...\nThe post Vue.ai joins hands with SimpliFI Consulting to amplify AI orchestration across Middle Eastern financial institutions ap",
+      "url": "https://www.vue.ai/blog/growth-partnership/vue-ai-joins-hands-with-simplifi-consulting-to-amplify-ai-orchestration-across-middle-eastern-financial-institutions/",
+      "published": "Tue, 22 Oct 2024 05:40:23 +0000",
+      "links": []
+    },
+    {
+      "source": "rss",
+      "feed": "platform-vue",
+      "category": "platform",
+      "title": "Vue.ai + Decimal: No-Code AI Powerhouse for BFSI Enterprises",
+      "description": "Reading Time:  2 minutes We are excited to announce our new partnership with Decimal Technologies, a leader in the BFSI sector, to accelerate digital transformation through AI. This collaboration will combine our AI capabilities with Decimal\u2019s innovative Vahana platform, redefining how financial enterprises operate. Decimal Technologies\u2019 Vahana platform is a no-code solution for rapid development across insurance, banking, and  ...\nThe post Vue.ai + Decimal: No-Code AI Powerhouse for BFSI Enterp",
+      "url": "https://www.vue.ai/blog/growth-partnership/vue-ai-orchestration-platform-decimal-vahana-no-code-platform-for-banking-finance-and-insurance-enterprises/",
+      "published": "Tue, 03 Sep 2024 04:08:11 +0000",
+      "links": []
+    },
+    {
+      "source": "rss",
+      "feed": "platform-vue",
+      "category": "platform",
+      "title": "Vue.ai Joins Google Cloud Partner Advantage, Transforms Enterprise AI",
+      "description": "Reading Time:  2 minutes Aug 26, 2024, San Francisco, CA \u2013 Vue.ai, a leader in Enterprise AI, is excited to share news that it has joined Google Cloud Partner Advantage as a Partner level partner for the Build Engagement Model, driving cloud transformation for large enterprises. Vue.ai\u2019s Intelligent Document Processing (IDP) Module, a Document AI hub on its full  ...\nThe post Vue.ai Joins Google Cloud Partner Advantage, Transforms Enterprise AI appeared first on Vue.ai Blog.\n]]>",
+      "url": "https://www.vue.ai/blog/growth-partnership/vue-ai-joins-google-cloud-partner-advantage-transforms-enterprise-ai/",
+      "published": "Mon, 26 Aug 2024 10:03:11 +0000",
+      "links": []
+    },
+    {
+      "source": "rss",
+      "feed": "platform-vue",
+      "category": "platform",
+      "title": "Vue.ai, the first-of-its-kind Enterprise AI Orchestration Platform partners with Moative, an Applied AI Services Company",
+      "description": "Reading Time:  2 minutes Vue.ai and Moative announce partnership to roll-out enterprise grade AI applications,\u00a0 redefining AI transformation efforts across industries. Vue.ai, a first-of-its-kind Enterprise AI orchestration platform developed by Mad Street Den onboards Moative, an Applied AI services company founded by Ashwin Ramasamy and Shrikanth Jagannathan, as its first implementation partner. This collaboration aims to streamline and scale  ...\nThe post Vue.ai, the first-of-its-kind Enterpr",
+      "url": "https://www.vue.ai/blog/growth-partnership/vue-ai-moative-partnership-ai-transformation/",
+      "published": "Wed, 17 Jul 2024 09:00:31 +0000",
+      "links": []
+    },
+    {
+      "source": "rss",
+      "feed": "platform-vue",
+      "category": "platform",
+      "title": "Unlocking Growth with Straight Through Processing (STP): Vue.ai\u2019s Intelligent Document Processing",
+      "description": "Reading Time:  4 minutes Picture a grand orchestra performance, where each musician plays their part flawlessly, and the music flows seamlessly from the first note to the grand finale. Imagine this symphony as a financial transaction, where every element aligns harmoniously, and the process unfolds with remarkable precision. This symphony of efficiency is Straight Through Processing (STP), a masterpiece  ...\nThe post Unlocking Growth with Straight Through Processing (STP): Vue.ai\u2019s Intelligent D",
+      "url": "https://www.vue.ai/blog/intelligent-automation/unlocking-growth-with-straight-through-processing-stp-vue-ais-intelligent-document-processing/",
+      "published": "Thu, 06 Jun 2024 03:12:10 +0000",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "[D] Self-Promotion Thread",
+      "score": 15,
+      "comments": 89,
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1t1d2m0/d_selfpromotion_thread/",
+      "permalink": "https://www.reddit.com/r/MachineLearning/comments/1t1d2m0/d_selfpromotion_thread/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+      "score": 10,
+      "comments": 8,
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1t0gle1/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+      "permalink": "https://www.reddit.com/r/MachineLearning/comments/1t0gle1/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "Profiling PyTorch training without accidentally stalling the GPU [D]",
+      "score": 7,
+      "comments": 3,
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tp2nnw/profiling_pytorch_training_without_accidentally/",
+      "permalink": "https://www.reddit.com/r/MachineLearning/comments/1tp2nnw/profiling_pytorch_training_without_accidentally/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "[R]GNN Model For Fraud Detection Isn't Performing Well[R]",
+      "score": 17,
+      "comments": 14,
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tovj42/rgnn_model_for_fraud_detection_isnt_performing/",
+      "permalink": "https://www.reddit.com/r/MachineLearning/comments/1tovj42/rgnn_model_for_fraud_detection_isnt_performing/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "EMA-Gated Temporal Sequence Compression in Vision Transformers [P]",
+      "score": 3,
+      "comments": 1,
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tp3r2f/emagated_temporal_sequence_compression_in_vision/",
+      "permalink": "https://www.reddit.com/r/MachineLearning/comments/1tp3r2f/emagated_temporal_sequence_compression_in_vision/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "noisekit - CLI for generating realistic degraded speech datasets for ASR benchmarking [P]",
+      "score": 1,
+      "comments": 0,
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tp51a1/noisekit_cli_for_generating_realistic_degraded/",
+      "permalink": "https://www.reddit.com/r/MachineLearning/comments/1tp51a1/noisekit_cli_for_generating_realistic_degraded/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "Cross-species RSA: same learning rules (BP, PC, STDP, FA)\ntested against both human fMRI and macaque electrophysiology [P]",
+      "score": 1,
+      "comments": 0,
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tp36qb/crossspecies_rsa_same_learning_rules_bp_pc_stdp/",
+      "permalink": "https://www.reddit.com/r/MachineLearning/comments/1tp36qb/crossspecies_rsa_same_learning_rules_bp_pc_stdp/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "[D] Is IEEE Workshop on Machine Learning for Signal Processing Reputable? [D]",
+      "score": 3,
+      "comments": 3,
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1touia2/d_is_ieee_workshop_on_machine_learning_for_signal/",
+      "permalink": "https://www.reddit.com/r/MachineLearning/comments/1touia2/d_is_ieee_workshop_on_machine_learning_for_signal/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "[D] Where do you go for serious AI research discussion online? [D]",
+      "score": 80,
+      "comments": 46,
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1to2l4c/d_where_do_you_go_for_serious_ai_research/",
+      "permalink": "https://www.reddit.com/r/MachineLearning/comments/1to2l4c/d_where_do_you_go_for_serious_ai_research/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "MachineLearning",
+      "title": "A Tiny Open-Source Self-Driving AI That Runs on a Phone [P]",
+      "score": 1,
+      "comments": 0,
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1towqqf/a_tiny_opensource_selfdriving_ai_that_runs_on_a/",
+      "permalink": "https://www.reddit.com/r/MachineLearning/comments/1towqqf/a_tiny_opensource_selfdriving_ai_that_runs_on_a/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "LocalLLaMA",
+      "title": "Stop traumatizing AI into loops and turn hallucinations into an honest \"I don't know!\" by being NICE to them (Proof of Concept, Research, I don't want to sell anything)",
+      "score": 332,
+      "comments": 195,
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tot20j/stop_traumatizing_ai_into_loops_and_turn/",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1tot20j/stop_traumatizing_ai_into_loops_and_turn/",
+      "links": [
+        "OttoRenner/Gentle-Coding"
+      ]
+    },
+    {
+      "source": "reddit",
+      "subreddit": "LocalLLaMA",
+      "title": "New DeepSWE benchmark finds Claude Opus cheats",
+      "score": 131,
+      "comments": 35,
+      "url": "https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1toychi/new_deepswe_benchmark_finds_claude_opus_cheats/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "LocalLLaMA",
+      "title": "Info: Nvidia Cuda 13.3 landed",
+      "score": 77,
+      "comments": 21,
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tp0vk1/info_nvidia_cuda_133_landed/",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1tp0vk1/info_nvidia_cuda_133_landed/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "LocalLLaMA",
+      "title": "AI is not for everyone",
+      "score": 47,
+      "comments": 35,
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tp17tq/ai_is_not_for_everyone/",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1tp17tq/ai_is_not_for_everyone/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "LocalLLaMA",
+      "title": "Is Granite-4.1-30b Overshadowed by Qwen3.6 & Gemma4 models?",
+      "score": 39,
+      "comments": 45,
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tp1plw/is_granite4130b_overshadowed_by_qwen36_gemma4/",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1tp1plw/is_granite4130b_overshadowed_by_qwen36_gemma4/",
+      "links": [
+        "ibm-granite/granite-4.1-30b"
+      ]
+    },
+    {
+      "source": "reddit",
+      "subreddit": "LocalLLaMA",
+      "title": "Looks like Miminax-M3 is just around the corner",
+      "score": 44,
+      "comments": 18,
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tozlqw/looks_like_miminaxm3_is_just_around_the_corner/",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1tozlqw/looks_like_miminaxm3_is_just_around_the_corner/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "LocalLLaMA",
+      "title": "PrismML just released Binary and Ternary Bonsai Image 4B: 1-bit/ternary text-to-image diffusion transformers that can even run 100% locally in your browser on WebGPU.",
+      "score": 548,
+      "comments": 70,
+      "url": "https://v.redd.it/2ltnmcnp2j3h1",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1togflk/prismml_just_released_binary_and_ternary_bonsai/",
+      "links": [
+        "collections/prism-ml",
+        "spaces/webml-community"
+      ]
+    },
+    {
+      "source": "reddit",
+      "subreddit": "LocalLLaMA",
+      "title": "A rare look inside Qwen 3.7\u2019s open source model release approval process:",
+      "score": 352,
+      "comments": 85,
+      "url": "https://i.redd.it/01aov0rxdj3h1.gif",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1toi50p/a_rare_look_inside_qwen_37s_open_source_model/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "LocalLLaMA",
+      "title": "Folks running qwen 3.6 27b for agentic work. Do you dare to use q4_k_m?",
+      "score": 42,
+      "comments": 74,
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tovx7i/folks_running_qwen_36_27b_for_agentic_work_do_you/",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1tovx7i/folks_running_qwen_36_27b_for_agentic_work_do_you/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "LocalLLaMA",
+      "title": "Finally pioneering beyond the local 256k context window frontier!",
+      "score": 9,
+      "comments": 2,
+      "url": "https://i.redd.it/if09zsde6o3h1.png",
+      "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1tp3k64/finally_pioneering_beyond_the_local_256k_context/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "opensource",
+      "title": "OSI is proud to join GitHub and a global community of contributors in honoring the individuals who steward and sustain Open Source projects for Maintainer Month.",
+      "score": 20,
+      "comments": 1,
+      "url": "https://opensource.org/blog/maintainer-month-2026-celebrating-the-people-who-keep-open-source-running",
+      "permalink": "https://www.reddit.com/r/opensource/comments/1t5hz8e/osi_is_proud_to_join_github_and_a_global/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "opensource",
+      "title": "Open Source Endowment - funding for FOSS launch",
+      "score": 50,
+      "comments": 26,
+      "url": "https://www.reddit.com/r/opensource/comments/1rffhog/open_source_endowment_funding_for_foss_launch/",
+      "permalink": "https://www.reddit.com/r/opensource/comments/1rffhog/open_source_endowment_funding_for_foss_launch/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "opensource",
+      "title": "Is there anyone here who does independent open source development full time?",
+      "score": 53,
+      "comments": 29,
+      "url": "https://www.reddit.com/r/opensource/comments/1toan4m/is_there_anyone_here_who_does_independent_open/",
+      "permalink": "https://www.reddit.com/r/opensource/comments/1toan4m/is_there_anyone_here_who_does_independent_open/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "opensource",
+      "title": "looking for an open source app to download and browse music",
+      "score": 1,
+      "comments": 0,
+      "url": "https://www.reddit.com/r/opensource/comments/1tp3zhz/looking_for_an_open_source_app_to_download_and/",
+      "permalink": "https://www.reddit.com/r/opensource/comments/1tp3zhz/looking_for_an_open_source_app_to_download_and/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "opensource",
+      "title": "Any good open-source 2D animation software? Or drawing software with an animation feature?",
+      "score": 5,
+      "comments": 7,
+      "url": "https://www.reddit.com/r/opensource/comments/1toltru/any_good_opensource_2d_animation_software_or/",
+      "permalink": "https://www.reddit.com/r/opensource/comments/1toltru/any_good_opensource_2d_animation_software_or/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "opensource",
+      "title": "Looking for contributors to help beat Wispr Flow at their own game.",
+      "score": 7,
+      "comments": 15,
+      "url": "https://www.reddit.com/r/opensource/comments/1toafne/looking_for_contributors_to_help_beat_wispr_flow/",
+      "permalink": "https://www.reddit.com/r/opensource/comments/1toafne/looking_for_contributors_to_help_beat_wispr_flow/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "opensource",
+      "title": "Are there any open source AI coding tools that support fully air-gapped deployment with local context retrieval",
+      "score": 0,
+      "comments": 6,
+      "url": "https://www.reddit.com/r/opensource/comments/1tow9ba/are_there_any_open_source_ai_coding_tools_that/",
+      "permalink": "https://www.reddit.com/r/opensource/comments/1tow9ba/are_there_any_open_source_ai_coding_tools_that/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "opensource",
+      "title": "Feedbackland v2.2.0: Automatically turn feedback into a roadmap",
+      "score": 5,
+      "comments": 1,
+      "url": "https://www.reddit.com/r/opensource/comments/1to4nbg/feedbackland_v220_automatically_turn_feedback/",
+      "permalink": "https://www.reddit.com/r/opensource/comments/1to4nbg/feedbackland_v220_automatically_turn_feedback/",
+      "links": [
+        "feedbackland/feedbackland"
+      ]
+    },
+    {
+      "source": "reddit",
+      "subreddit": "opensource",
+      "title": "First open source project: Slab Trap. A lightweight, fast and robust package for post-boolean op rendering.",
+      "score": 1,
+      "comments": 1,
+      "url": "https://www.reddit.com/r/opensource/comments/1toadpw/first_open_source_project_slab_trap_a_lightweight/",
+      "permalink": "https://www.reddit.com/r/opensource/comments/1toadpw/first_open_source_project_slab_trap_a_lightweight/",
+      "links": [
+        "emporius/SlabTrap"
+      ]
+    },
+    {
+      "source": "reddit",
+      "subreddit": "opensource",
+      "title": "BoquilaHUB 0.5: now it includes SOTA AI models for bioacoustics",
+      "score": 0,
+      "comments": 0,
+      "url": "https://www.reddit.com/r/opensource/comments/1to47re/boquilahub_05_now_it_includes_sota_ai_models_for/",
+      "permalink": "https://www.reddit.com/r/opensource/comments/1to47re/boquilahub_05_now_it_includes_sota_ai_models_for/",
+      "links": [
+        "boquila/boquilahub"
+      ]
+    },
+    {
+      "source": "reddit",
+      "subreddit": "selfhosted",
+      "title": "Quarter 2 Update - Revisiting Rules. Again.",
+      "score": 312,
+      "comments": 344,
+      "url": "https://www.reddit.com/r/selfhosted/comments/1sey9ch/quarter_2_update_revisiting_rules_again/",
+      "permalink": "https://www.reddit.com/r/selfhosted/comments/1sey9ch/quarter_2_update_revisiting_rules_again/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "selfhosted",
+      "title": "New Project Megathread - Week of 21 May 2026",
+      "score": 19,
+      "comments": 162,
+      "url": "https://www.reddit.com/r/selfhosted/comments/1tjzeg2/new_project_megathread_week_of_21_may_2026/",
+      "permalink": "https://www.reddit.com/r/selfhosted/comments/1tjzeg2/new_project_megathread_week_of_21_may_2026/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "selfhosted",
+      "title": "Google's coming change to app sideloading is threatening the Selfhosted ecosystem.",
+      "score": 292,
+      "comments": 133,
+      "url": "https://www.reddit.com/r/selfhosted/comments/1toysos/googles_coming_change_to_app_sideloading_is/",
+      "permalink": "https://www.reddit.com/r/selfhosted/comments/1toysos/googles_coming_change_to_app_sideloading_is/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "selfhosted",
+      "title": "Peak dashboard",
+      "score": 84,
+      "comments": 17,
+      "url": "https://i.redd.it/nia5dzyiun3h1.png",
+      "permalink": "https://www.reddit.com/r/selfhosted/comments/1tp21l5/peak_dashboard/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "selfhosted",
+      "title": "is there any self hosted CI/CD platform",
+      "score": 157,
+      "comments": 88,
+      "url": "https://i.redd.it/rp9gbswxnl3h1.png",
+      "permalink": "https://www.reddit.com/r/selfhosted/comments/1totp5g/is_there_any_self_hosted_cicd_platform/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "selfhosted",
+      "title": "Colota 1.9: Android GPS tracker that syncs to your own server",
+      "score": 19,
+      "comments": 15,
+      "url": "https://www.reddit.com/gallery/1tp05iv",
+      "permalink": "https://www.reddit.com/r/selfhosted/comments/1tp05iv/colota_19_android_gps_tracker_that_syncs_to_your/",
+      "links": [
+        "dietrichmax/colota"
+      ]
+    },
+    {
+      "source": "reddit",
+      "subreddit": "selfhosted",
+      "title": "Beware, Caddy made a change to the default behavior of Host header forwarding.",
+      "score": 151,
+      "comments": 27,
+      "url": "https://www.reddit.com/r/selfhosted/comments/1tojr7s/beware_caddy_made_a_change_to_the_default/",
+      "permalink": "https://www.reddit.com/r/selfhosted/comments/1tojr7s/beware_caddy_made_a_change_to_the_default/",
+      "links": [
+        "caddyserver/caddy"
+      ]
+    },
+    {
+      "source": "reddit",
+      "subreddit": "selfhosted",
+      "title": "any open source self-hosted secrets manager with UI? (no infisical or openbao)",
+      "score": 6,
+      "comments": 17,
+      "url": "https://www.reddit.com/r/selfhosted/comments/1tp45nb/any_open_source_selfhosted_secrets_manager_with/",
+      "permalink": "https://www.reddit.com/r/selfhosted/comments/1tp45nb/any_open_source_selfhosted_secrets_manager_with/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "selfhosted",
+      "title": "Do you self host mainly for control, privacy, or just because you can?",
+      "score": 84,
+      "comments": 135,
+      "url": "https://www.reddit.com/r/selfhosted/comments/1tomhyr/do_you_self_host_mainly_for_control_privacy_or/",
+      "permalink": "https://www.reddit.com/r/selfhosted/comments/1tomhyr/do_you_self_host_mainly_for_control_privacy_or/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "selfhosted",
+      "title": "mac mini ideas",
+      "score": 17,
+      "comments": 11,
+      "url": "https://www.reddit.com/r/selfhosted/comments/1toy3gd/mac_mini_ideas/",
+      "permalink": "https://www.reddit.com/r/selfhosted/comments/1toy3gd/mac_mini_ideas/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "StableDiffusion",
+      "title": "Anima can edit images! And this is possible in two different methods.",
+      "score": 227,
+      "comments": 24,
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1totumo/anima_can_edit_images_and_this_is_possible_in_two/",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1totumo/anima_can_edit_images_and_this_is_possible_in_two/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "StableDiffusion",
+      "title": "Anima-Base is magic and i don't think people realize how good it is.",
+      "score": 771,
+      "comments": 141,
+      "url": "https://www.reddit.com/gallery/1tobzgq",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1tobzgq/animabase_is_magic_and_i_dont_think_people/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "StableDiffusion",
+      "title": "Anima base 1.0 with custom lora is goated.",
+      "score": 36,
+      "comments": 21,
+      "url": "https://www.reddit.com/gallery/1tozbyo",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1tozbyo/anima_base_10_with_custom_lora_is_goated/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "StableDiffusion",
+      "title": "NVIDIA PiD-based img upscaler (no workflow but .py)",
+      "score": 10,
+      "comments": 5,
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1tp0qzx/nvidia_pidbased_img_upscaler_no_workflow_but_py/",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1tp0qzx/nvidia_pidbased_img_upscaler_no_workflow_but_py/",
+      "links": [
+        "geronimi73/3090",
+        "nvidia/PiD",
+        "geronimi73/3090_shorts"
+      ]
+    },
+    {
+      "source": "reddit",
+      "subreddit": "StableDiffusion",
+      "title": "Old forgotten AI model fixes eyes in under 10 min! Forget about pain of randomness and lack of quality of new AI models ;)",
+      "score": 109,
+      "comments": 43,
+      "url": "https://i.redd.it/c3ke7179fj3h1.png",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1toihvn/old_forgotten_ai_model_fixes_eyes_in_under_10_min/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "StableDiffusion",
+      "title": "PrismML just released Binary and Ternary Bonsai Image 4B: 1-bit/ternary text-to-image diffusion transformers that can even run 100% locally in your browser on WebGPU.",
+      "score": 102,
+      "comments": 18,
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1toi5yz/prismml_just_released_binary_and_ternary_bonsai/",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1toi5yz/prismml_just_released_binary_and_ternary_bonsai/",
+      "links": [
+        "collections/prism-ml",
+        "spaces/webml-community"
+      ]
+    },
+    {
+      "source": "reddit",
+      "subreddit": "StableDiffusion",
+      "title": "Official Turbo lora for anima 1.0 has been posted",
+      "score": 112,
+      "comments": 6,
+      "url": "https://civitai.com/models/2560840/anima-turbo-lora",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1togknz/official_turbo_lora_for_anima_10_has_been_posted/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "StableDiffusion",
+      "title": "Anima - Goku Transformation Series: From SSJ1 to Mastered Ultra Instinct",
+      "score": 3,
+      "comments": 2,
+      "url": "https://www.reddit.com/gallery/1tp671f",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1tp671f/anima_goku_transformation_series_from_ssj1_to/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "StableDiffusion",
+      "title": "Testing the newly released Microsoft Lens Turbo in my low vram GPU, it is good and it works very well",
+      "score": 91,
+      "comments": 26,
+      "url": "https://www.reddit.com/gallery/1togrx4",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1togrx4/testing_the_newly_released_microsoft_lens_turbo/",
+      "links": [
+        "user-attachments/files",
+        "Comfy-Org/Lens"
+      ]
+    },
+    {
+      "source": "reddit",
+      "subreddit": "StableDiffusion",
+      "title": "Regarding Anima, can there be a site where we see the artist styles from both Danbooru and Gelbooru? I read it uses both, but I'm only seeing sites with the Danbooru artist tags, can there be one with Gelbooru too?",
+      "score": 4,
+      "comments": 8,
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1tp2h86/regarding_anima_can_there_be_a_site_where_we_see/",
+      "permalink": "https://www.reddit.com/r/StableDiffusion/comments/1tp2h86/regarding_anima_can_there_be_a_site_where_we_see/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "comfyui",
+      "title": "An Update on Nodes 2.0 from Comfy Org",
+      "score": 73,
+      "comments": 74,
+      "url": "https://www.reddit.com/r/comfyui/comments/1tkqq36/an_update_on_nodes_20_from_comfy_org/",
+      "permalink": "https://www.reddit.com/r/comfyui/comments/1tkqq36/an_update_on_nodes_20_from_comfy_org/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "comfyui",
+      "title": "need to retain name when saving an image.",
+      "score": 6,
+      "comments": 3,
+      "url": "https://i.redd.it/p0pk8yx66o3h1.png",
+      "permalink": "https://www.reddit.com/r/comfyui/comments/1tp3fxv/need_to_retain_name_when_saving_an_image/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "comfyui",
+      "title": "SmartGallery DAM v2.13: Introducing Remix Workflow. Edit and batch-process ComfyUI generations directly from your gallery, plus UI improvements.",
+      "score": 4,
+      "comments": 0,
+      "url": "https://v.redd.it/u7ryio0fho3h1",
+      "permalink": "https://www.reddit.com/r/comfyui/comments/1tp4xs4/smartgallery_dam_v213_introducing_remix_workflow/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "comfyui",
+      "title": "Takes 45 min for 10 sec video, wan 2.2 workflow with A100 gpu. How to reduce generation time",
+      "score": 3,
+      "comments": 10,
+      "url": "https://i.redd.it/2m2aa3naeo3h1.jpeg",
+      "permalink": "https://www.reddit.com/r/comfyui/comments/1tp4kh8/takes_45_min_for_10_sec_video_wan_22_workflow/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "comfyui",
+      "title": "I need to upscale a single image to greater than 8k (like 32k X 32k)",
+      "score": 3,
+      "comments": 10,
+      "url": "https://www.reddit.com/r/comfyui/comments/1tp3fb3/i_need_to_upscale_a_single_image_to_greater_than/",
+      "permalink": "https://www.reddit.com/r/comfyui/comments/1tp3fb3/i_need_to_upscale_a_single_image_to_greater_than/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "comfyui",
+      "title": "Nanobanana pro node says I am just a language model",
+      "score": 6,
+      "comments": 5,
+      "url": "https://www.reddit.com/r/comfyui/comments/1toyhbt/nanobanana_pro_node_says_i_am_just_a_language/",
+      "permalink": "https://www.reddit.com/r/comfyui/comments/1toyhbt/nanobanana_pro_node_says_i_am_just_a_language/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "comfyui",
+      "title": "Problema work flow flux 2 klein",
+      "score": 2,
+      "comments": 0,
+      "url": "https://i.redd.it/tj12wgvzeo3h1.jpeg",
+      "permalink": "https://www.reddit.com/r/comfyui/comments/1tp4jwc/problema_work_flow_flux_2_klein/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "comfyui",
+      "title": "Anima can edit images! | Testing Anima-Edit loras and IC-methods",
+      "score": 8,
+      "comments": 0,
+      "url": "/r/StableDiffusion/comments/1totumo/anima_can_edit_images_and_this_is_possible_in_two/",
+      "permalink": "https://www.reddit.com/r/comfyui/comments/1totvdk/anima_can_edit_images_testing_animaedit_loras_and/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "comfyui",
+      "title": "ComfyUI and Architecture renders",
+      "score": 2,
+      "comments": 0,
+      "url": "https://www.reddit.com/r/comfyui/comments/1tp2cek/comfyui_and_architecture_renders/",
+      "permalink": "https://www.reddit.com/r/comfyui/comments/1tp2cek/comfyui_and_architecture_renders/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "comfyui",
+      "title": "5 paid ComfyUI builder contests open June 1. $20K pool, briefs are live.",
+      "score": 17,
+      "comments": 9,
+      "url": "https://www.reddit.com/r/comfyui/comments/1tol82q/5_paid_comfyui_builder_contests_open_june_1_20k/",
+      "permalink": "https://www.reddit.com/r/comfyui/comments/1tol82q/5_paid_comfyui_builder_contests_open_june_1_20k/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "LLMDevs",
+      "title": "Community Rule Update: Clarifying our Self-promotion and anti-marketing policy",
+      "score": 16,
+      "comments": 8,
+      "url": "https://www.reddit.com/r/LLMDevs/comments/1mvuw5x/community_rule_update_clarifying_our/",
+      "permalink": "https://www.reddit.com/r/LLMDevs/comments/1mvuw5x/community_rule_update_clarifying_our/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "LLMDevs",
+      "title": "Reintroducing LLMDevs - High Quality LLM and NLP Information for Developers and Researchers",
+      "score": 35,
+      "comments": 7,
+      "url": "https://www.reddit.com/r/LLMDevs/comments/1jzjf7e/reintroducing_llmdevs_high_quality_llm_and_nlp/",
+      "permalink": "https://www.reddit.com/r/LLMDevs/comments/1jzjf7e/reintroducing_llmdevs_high_quality_llm_and_nlp/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "LLMDevs",
+      "title": "Trained a custom 1B SLM from scratch for ~$10 on a single A40 \u2014 looking for feedback/improvements",
+      "score": 5,
+      "comments": 2,
+      "url": "https://www.reddit.com/r/LLMDevs/comments/1tp4swb/trained_a_custom_1b_slm_from_scratch_for_10_on_a/",
+      "permalink": "https://www.reddit.com/r/LLMDevs/comments/1tp4swb/trained_a_custom_1b_slm_from_scratch_for_10_on_a/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "LLMDevs",
+      "title": "I\u2019m building Ax, an AI-native compact language that compiles to native binaries",
+      "score": 7,
+      "comments": 18,
+      "url": "https://www.reddit.com/r/LLMDevs/comments/1towxw2/im_building_ax_an_ainative_compact_language_that/",
+      "permalink": "https://www.reddit.com/r/LLMDevs/comments/1towxw2/im_building_ax_an_ainative_compact_language_that/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "LLMDevs",
+      "title": "Linking all languages through Metropipe: Not the most revolutionary tool, but maybe useful for someone besides me",
+      "score": 1,
+      "comments": 0,
+      "url": "https://www.reddit.com/r/LLMDevs/comments/1tp6dkh/linking_all_languages_through_metropipe_not_the/",
+      "permalink": "https://www.reddit.com/r/LLMDevs/comments/1tp6dkh/linking_all_languages_through_metropipe_not_the/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "LLMDevs",
+      "title": "EMA-Gated Temporal Sequence Compression in Vision Transformers",
+      "score": 1,
+      "comments": 0,
+      "url": "https://www.reddit.com/r/LLMDevs/comments/1tp3ur5/emagated_temporal_sequence_compression_in_vision/",
+      "permalink": "https://www.reddit.com/r/LLMDevs/comments/1tp3ur5/emagated_temporal_sequence_compression_in_vision/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "LLMDevs",
+      "title": "Introducing FLYWHEEL.md \ud83c\udf00",
+      "score": 15,
+      "comments": 9,
+      "url": "https://i.redd.it/ydn90ubpmj3h1.png",
+      "permalink": "https://www.reddit.com/r/LLMDevs/comments/1tojls0/introducing_flywheelmd/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "LLMDevs",
+      "title": "I rebuilt my tiny local-first coding agent into Light-Agent v0.2.1 \u2014 focused on small local models",
+      "score": 1,
+      "comments": 0,
+      "url": "https://i.redd.it/fco4dyq8wn3h1.png",
+      "permalink": "https://www.reddit.com/r/LLMDevs/comments/1tp27ao/i_rebuilt_my_tiny_localfirst_coding_agent_into/",
+      "links": [
+        "noobezlol/lightagent"
+      ]
+    },
+    {
+      "source": "reddit",
+      "subreddit": "LLMDevs",
+      "title": "Do you budget LLM cost per feature or per user?",
+      "score": 0,
+      "comments": 2,
+      "url": "https://www.reddit.com/r/LLMDevs/comments/1tp18lp/do_you_budget_llm_cost_per_feature_or_per_user/",
+      "permalink": "https://www.reddit.com/r/LLMDevs/comments/1tp18lp/do_you_budget_llm_cost_per_feature_or_per_user/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "LLMDevs",
+      "title": "What are you using to stop LLMs from doing something catastrophic in production?",
+      "score": 8,
+      "comments": 23,
+      "url": "https://www.reddit.com/r/LLMDevs/comments/1top62n/what_are_you_using_to_stop_llms_from_doing/",
+      "permalink": "https://www.reddit.com/r/LLMDevs/comments/1top62n/what_are_you_using_to_stop_llms_from_doing/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "LangChain",
+      "title": "What are people using now for web loaders in production?",
+      "score": 2,
+      "comments": 2,
+      "url": "https://www.reddit.com/r/LangChain/comments/1tp3xis/what_are_people_using_now_for_web_loaders_in/",
+      "permalink": "https://www.reddit.com/r/LangChain/comments/1tp3xis/what_are_people_using_now_for_web_loaders_in/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "LangChain",
+      "title": "Got a work opportunity involving RAG/pgvector and trying to truly understand the architecture",
+      "score": 13,
+      "comments": 5,
+      "url": "https://www.reddit.com/r/LangChain/comments/1torsl1/got_a_work_opportunity_involving_ragpgvector_and/",
+      "permalink": "https://www.reddit.com/r/LangChain/comments/1torsl1/got_a_work_opportunity_involving_ragpgvector_and/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "LangChain",
+      "title": "What's everyone actually using for LLM observability right now?",
+      "score": 25,
+      "comments": 42,
+      "url": "https://www.reddit.com/r/LangChain/comments/1toj078/whats_everyone_actually_using_for_llm/",
+      "permalink": "https://www.reddit.com/r/LangChain/comments/1toj078/whats_everyone_actually_using_for_llm/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "LangChain",
+      "title": "Getting error \"AttributeError: 'Search' object has no attribute 'results'\" for arxiv",
+      "score": 5,
+      "comments": 2,
+      "url": "https://www.reddit.com/r/LangChain/comments/1tovg46/getting_error_attributeerror_search_object_has_no/",
+      "permalink": "https://www.reddit.com/r/LangChain/comments/1tovg46/getting_error_attributeerror_search_object_has_no/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "LangChain",
+      "title": "AI systems are shaped by the companies and people who build them.",
+      "score": 1,
+      "comments": 0,
+      "url": "/r/u_AnshMNSoni/comments/1tp1w2x/ai_systems_are_shaped_by_the_companies_and_people/",
+      "permalink": "https://www.reddit.com/r/LangChain/comments/1tp1wbi/ai_systems_are_shaped_by_the_companies_and_people/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "LangChain",
+      "title": "Looking for synthetic or sanitized LangChain production logs to test a compliance/governance engine. Will share back risk audits",
+      "score": 4,
+      "comments": 3,
+      "url": "https://www.reddit.com/r/LangChain/comments/1toqrwp/looking_for_synthetic_or_sanitized_langchain/",
+      "permalink": "https://www.reddit.com/r/LangChain/comments/1toqrwp/looking_for_synthetic_or_sanitized_langchain/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "LangChain",
+      "title": "What's the best way to parse complex multi-format document for RAG",
+      "score": 2,
+      "comments": 1,
+      "url": "/r/Rag/comments/1towspj/whats_the_best_way_to_parse_complex_multiformat/",
+      "permalink": "https://www.reddit.com/r/LangChain/comments/1towt2o/whats_the_best_way_to_parse_complex_multiformat/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "LangChain",
+      "title": "Hybrid architecture.",
+      "score": 4,
+      "comments": 1,
+      "url": "https://www.reddit.com/r/LangChain/comments/1tor6e3/hybrid_architecture/",
+      "permalink": "https://www.reddit.com/r/LangChain/comments/1tor6e3/hybrid_architecture/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "LangChain",
+      "title": "What do you check before retrieved docs enter context?",
+      "score": 1,
+      "comments": 3,
+      "url": "https://www.reddit.com/r/LangChain/comments/1toywbx/what_do_you_check_before_retrieved_docs_enter/",
+      "permalink": "https://www.reddit.com/r/LangChain/comments/1toywbx/what_do_you_check_before_retrieved_docs_enter/",
+      "links": []
+    },
+    {
+      "source": "reddit",
+      "subreddit": "LangChain",
+      "title": "LangChain has no business being this complicated",
+      "score": 50,
+      "comments": 43,
+      "url": "https://www.reddit.com/r/LangChain/comments/1tnzgdi/langchain_has_no_business_being_this_complicated/",
+      "permalink": "https://www.reddit.com/r/LangChain/comments/1tnzgdi/langchain_has_no_business_being_this_complicated/",
+      "links": []
+    },
+    {
+      "source": "youtube",
+      "query": "AI tools open source 2026",
+      "title": "7 new open source AI tools you need right now\u2026",
+      "channel": "Fireship",
+      "url": "https://youtube.com/watch?v=Xn-gtHDsaPY",
+      "views": 839398,
+      "duration": 375.0
+    },
+    {
+      "source": "youtube",
+      "query": "AI tools open source 2026",
+      "title": "I Tested 500+ AI Tools, These Will Make You Rich",
+      "channel": "Dan Martell",
+      "url": "https://youtube.com/watch?v=np6CwvTYTAM",
+      "views": 128047,
+      "duration": 1366.0
+    },
+    {
+      "source": "youtube",
+      "query": "AI tools open source 2026",
+      "title": "You NEED to try these open-source AI projects right now...",
+      "channel": "Matthew Berman",
+      "url": "https://youtube.com/watch?v=sXVbWkoCVaA",
+      "views": 160466,
+      "duration": 899.0
+    },
+    {
+      "source": "youtube",
+      "query": "AI tools open source 2026",
+      "title": "Open Source AI In 17 Minutes",
+      "channel": "Tina Huang",
+      "url": "https://youtube.com/watch?v=1uCE0uoKXL8",
+      "views": 216604,
+      "duration": 1058.0
+    },
+    {
+      "source": "youtube",
+      "query": "AI tools open source 2026",
+      "title": "10 Open-Source AI Agents Replacing Paid Tools in 2026",
+      "channel": "ManuAGI - AutoGPT Tutorials",
+      "url": "https://youtube.com/watch?v=dqaooqBPVRI",
+      "views": 4929,
+      "duration": 724.0
+    },
+    {
+      "source": "youtube",
+      "query": "best AI tools",
+      "title": "7 Best AI Tools You NEED to Try (Free & Powerful!) \ud83d\udca1",
+      "channel": "Kevin Stratvert",
+      "url": "https://youtube.com/watch?v=TZe5UqlUg0c",
+      "views": 670599,
+      "duration": 469.0
+    },
+    {
+      "source": "youtube",
+      "query": "best AI tools",
+      "title": "The Only AI Tools You Need (12-Minute Guide)",
+      "channel": "Jeff Su",
+      "url": "https://youtube.com/watch?v=htZRCE2GgIs",
+      "views": 615294,
+      "duration": 716.0
+    },
+    {
+      "source": "youtube",
+      "query": "best AI tools",
+      "title": "The 14 Best AI Tools in 2026 (Backed by Data)",
+      "channel": "Parker Prompts",
+      "url": "https://youtube.com/watch?v=w5YvRT3dOEE",
+      "views": 99552,
+      "duration": 706.0
+    },
+    {
+      "source": "youtube",
+      "query": "best AI tools",
+      "title": "I Ranked the Best AI Tools to Make Money in 2026",
+      "channel": "Dan Martell",
+      "url": "https://youtube.com/watch?v=xXxrvra9DQg",
+      "views": 416546,
+      "duration": 1155.0
+    },
+    {
+      "source": "youtube",
+      "query": "local LLM setup",
+      "title": "Are Local Models Finally Good Enough?",
+      "channel": "Techno Tim",
+      "url": "https://youtube.com/watch?v=K2IGHj7KQoM",
+      "views": 73204,
+      "duration": 1541.0
+    },
+    {
+      "source": "youtube",
+      "query": "local LLM setup",
+      "title": "The PERFECT Local Ai Setup",
+      "channel": "Digital Spaceport",
+      "url": "https://youtube.com/watch?v=tYjjsHZcA3A",
+      "views": 21571,
+      "duration": 641.0
+    },
+    {
+      "source": "youtube",
+      "query": "local LLM setup",
+      "title": "How to Run LLMs Locally - Full Guide",
+      "channel": "Tech With Tim",
+      "url": "https://youtube.com/watch?v=km5-0jhv0JI",
+      "views": 111967,
+      "duration": 967.0
+    },
+    {
+      "source": "youtube",
+      "query": "local LLM setup",
+      "title": "What is Ollama? Running Local LLMs Made Simple",
+      "channel": "IBM Technology",
+      "url": "https://youtube.com/watch?v=5RIOQuHOihY",
+      "views": 269978,
+      "duration": 434.0
+    },
+    {
+      "source": "youtube",
+      "query": "local LLM setup",
+      "title": "Local AI Explained | Hardware, Setup and Models",
+      "channel": "Syntax",
+      "url": "https://youtube.com/watch?v=QKdKcFjjZhE",
+      "views": 206902,
+      "duration": 1500.0
+    },
+    {
+      "source": "youtube",
+      "query": "AI agent framework tutorial",
+      "title": "The Complete Guide to AI Agents in 2026 (And How to Actually Use Them)",
+      "channel": "Tech With Tim",
+      "url": "https://youtube.com/watch?v=LNkAW4SSgdY",
+      "views": 19475,
+      "duration": 1239.0
+    },
+    {
+      "source": "youtube",
+      "query": "AI agent framework tutorial",
+      "title": "Have You Picked the Wrong AI Agent Framework?",
+      "channel": "Matt Williams",
+      "url": "https://youtube.com/watch?v=jLVl5V8roMU",
+      "views": 90493,
+      "duration": 790.0
+    },
+    {
+      "source": "youtube",
+      "query": "AI agent framework tutorial",
+      "title": "What is Microsoft Agent Framework? - 3 minute Overview",
+      "channel": "Azure Innovation Station | Azure AI Agents",
+      "url": "https://youtube.com/watch?v=Q881t44hWng",
+      "views": 19146,
+      "duration": 220.0
+    },
+    {
+      "source": "youtube",
+      "query": "AI agent framework tutorial",
+      "title": "AI Agents, Clearly Explained",
+      "channel": "Jeff Su",
+      "url": "https://youtube.com/watch?v=FwOTs4UxQS4",
+      "views": 4364637,
+      "duration": 609.0
+    },
+    {
+      "source": "youtube",
+      "query": "AI agent framework tutorial",
+      "title": "Which AI agent framework to use",
+      "channel": "Microsoft Developer",
+      "url": "https://youtube.com/watch?v=ODwF-EZo_O8",
+      "views": 63705,
+      "duration": 501.0
+    },
+    {
+      "source": "youtube",
+      "query": "open source LLM comparison",
+      "title": "OpenAI vs. Deepseek vs. Qwen: Comparing Open Source LLM Architectures",
+      "channel": "Y Combinator",
+      "url": "https://youtube.com/watch?v=raTbhtKZTZA",
+      "views": 32422,
+      "duration": 752.0
+    },
+    {
+      "source": "youtube",
+      "query": "open source LLM comparison",
+      "title": "How to Choose Large Language Models: A Developer\u2019s Guide to LLMs",
+      "channel": "IBM Technology",
+      "url": "https://youtube.com/watch?v=pYax2rupKEY",
+      "views": 104822,
+      "duration": 417.0
+    },
+    {
+      "source": "youtube",
+      "query": "open source LLM comparison",
+      "title": "Can Open Source Models Beat Opus at a Fraction of the Cost?",
+      "channel": "Burke Holland",
+      "url": "https://youtube.com/watch?v=-yz5GDY3-P0",
+      "views": 41401,
+      "duration": 1484.0
+    },
+    {
+      "source": "youtube",
+      "query": "open source LLM comparison",
+      "title": "The Ultimate Local AI Tier List For 2026",
+      "channel": "Zen van Riel",
+      "url": "https://youtube.com/watch?v=pr9fsrK8nmQ",
+      "views": 57077,
+      "duration": 1359.0
+    },
+    {
+      "source": "youtube",
+      "query": "open source LLM comparison",
+      "title": "Should You Use Open Source Large Language Models?",
+      "channel": "IBM Technology",
+      "url": "https://youtube.com/watch?v=y9k-U9AuDeM",
+      "views": 409554,
+      "duration": 400.0
+    },
+    {
+      "source": "youtube",
+      "query": "RAG tutorial",
+      "title": "Learn RAG From Scratch \u2013 Python AI Tutorial from a LangChain Engineer",
+      "channel": "freeCodeCamp.org",
+      "url": "https://youtube.com/watch?v=sVcwVQRHIc8",
+      "views": 1373096,
+      "duration": 9191.0
+    },
+    {
+      "source": "youtube",
+      "query": "RAG tutorial",
+      "title": "Production RAG with LangChain & Vector Databases \u2013 Full Course",
+      "channel": "freeCodeCamp.org",
+      "url": "https://youtube.com/watch?v=mHxLXzYjQRE",
+      "views": 24812,
+      "duration": 27519.0
+    },
+    {
+      "source": "youtube",
+      "query": "RAG tutorial",
+      "title": "What is Retrieval-Augmented Generation (RAG)?",
+      "channel": "IBM Technology",
+      "url": "https://youtube.com/watch?v=T-D1OfcDW1M",
+      "views": 1835919,
+      "duration": 396.0
+    },
+    {
+      "source": "youtube",
+      "query": "RAG tutorial",
+      "title": "RAG Crash Course for Beginners",
+      "channel": "KodeKloud",
+      "url": "https://youtube.com/watch?v=swvzKSOEluc",
+      "views": 187817,
+      "duration": 3530.0
+    },
+    {
+      "source": "youtube",
+      "query": "RAG tutorial",
+      "title": "RAG Explained For Beginners",
+      "channel": "KodeKloud",
+      "url": "https://youtube.com/watch?v=_HQ2H_0Ayy0",
+      "views": 559950,
+      "duration": 609.0
+    },
+    {
+      "source": "youtube",
+      "query": "ComfyUI workflow",
+      "title": "How to use ComfyUI for beginners.",
+      "channel": "Sebastian Kamph",
+      "url": "https://youtube.com/watch?v=23VkGD-4uwk",
+      "views": 610726,
+      "duration": 2352.0
+    },
+    {
+      "source": "youtube",
+      "query": "ComfyUI workflow",
+      "title": "ComfyUI Workflow Creation Essentials For Beginners",
+      "channel": "Nerdy Rodent",
+      "url": "https://youtube.com/watch?v=VM9snsuoqBc",
+      "views": 66063,
+      "duration": 903.0
+    },
+    {
+      "source": "youtube",
+      "query": "ComfyUI workflow",
+      "title": "Unexpected updates in ComfyUI, new models and workflows.",
+      "channel": "Vladimir Chopine [GeekatPlay]",
+      "url": "https://youtube.com/watch?v=3vopRiZyoaI",
+      "views": 5676,
+      "duration": 772.0
+    },
+    {
+      "source": "youtube",
+      "query": "ComfyUI workflow",
+      "title": "Claude Code + ComfyUI: Beginner Setup (Step-by-Step)",
+      "channel": "AI Aidan",
+      "url": "https://youtube.com/watch?v=m7Fh3po0wE0",
+      "views": 1593,
+      "duration": 1073.0
+    },
+    {
+      "source": "youtube",
+      "query": "ComfyUI workflow",
+      "title": "AI is finally controllable! \u2026with a stick [FREE ComfyUI Workflow + Tutorial]",
+      "channel": "Mickmumpitz",
+      "url": "https://youtube.com/watch?v=pUb58eAZ3pc",
+      "views": 108123,
+      "duration": 640.0
+    },
+    {
+      "source": "youtube",
+      "query": "AI coding assistant",
+      "title": "Free AI Coding Assistant That Actually Competes With Claude",
+      "channel": "WPTuts",
+      "url": "https://youtube.com/watch?v=U_CDV18ah8s",
+      "views": 9886,
+      "duration": 486.0
+    },
+    {
+      "source": "youtube",
+      "query": "AI coding assistant",
+      "title": "Everything You Need to Know About Coding with AI // NOT vibe coding",
+      "channel": "ForrestKnight",
+      "url": "https://youtube.com/watch?v=5fhcklZe-qE",
+      "views": 170888,
+      "duration": 795.0
+    },
+    {
+      "source": "youtube",
+      "query": "AI coding assistant",
+      "title": "Spec-Driven Development: AI Assisted Coding Explained",
+      "channel": "IBM Technology",
+      "url": "https://youtube.com/watch?v=mViFYTwWvcM",
+      "views": 303639,
+      "duration": 540.0
+    },
+    {
+      "source": "youtube",
+      "query": "AI coding assistant",
+      "title": "I Have Spent 500+ Hours Programming With AI. This Is what I learned",
+      "channel": "The Coding Sloth",
+      "url": "https://youtube.com/watch?v=91B_v-wOaws",
+      "views": 580420,
+      "duration": 818.0
+    },
+    {
+      "source": "youtube",
+      "query": "AI coding assistant",
+      "title": "Full Walkthrough: Workflow for AI Coding \u2014 Matt Pocock",
+      "channel": "AI Engineer and Matt Pocock",
+      "url": "https://youtube.com/watch?v=-QFHIoCo-Ko",
+      "views": 751900,
+      "duration": 5790.0
+    },
+    {
+      "source": "youtube",
+      "query": "self hosted AI",
+      "title": "Self-Hosted AI That's Actually Useful",
+      "channel": "Techno Tim",
+      "url": "https://youtube.com/watch?v=GrLpdfhTwLg",
+      "views": 228147,
+      "duration": 739.0
+    },
+    {
+      "source": "youtube",
+      "query": "self hosted AI",
+      "title": "Deployrr 6: Self-Hosted AI, 160+ Docker Apps - Complete Rewrite",
+      "channel": "Simple-Homelab",
+      "url": "https://youtube.com/watch?v=Nuo83uzTWco",
+      "views": 1886,
+      "duration": 809.0
+    },
+    {
+      "source": "youtube",
+      "query": "self hosted AI",
+      "title": "The Best Self-Hosted AI Tools You Can Actually Run in Your Home Lab",
+      "channel": "VirtualizationHowto",
+      "url": "https://youtube.com/watch?v=illvibK_ZmY",
+      "views": 307462,
+      "duration": 923.0
+    },
+    {
+      "source": "youtube",
+      "query": "self hosted AI",
+      "title": "How to self-host and hyperscale AI with Nvidia NIM",
+      "channel": "Fireship",
+      "url": "https://youtube.com/watch?v=ZgGss27IfwA",
+      "views": 374540,
+      "duration": 404.0
+    },
+    {
+      "source": "youtube",
+      "query": "self hosted AI",
+      "title": "Why Self-Hosting AI Models Is a Bad Idea",
+      "channel": "DevOps & AI Toolkit",
+      "url": "https://youtube.com/watch?v=pWtDTkfNaUU",
+      "views": 6967,
+      "duration": 879.0
+    },
+    {
+      "source": "youtube",
+      "query": "machine learning tools",
+      "title": "All Machine Learning algorithms explained in 17 min",
+      "channel": "Infinite Codes",
+      "url": "https://youtube.com/watch?v=E0Hmnixke2g",
+      "views": 2018465,
+      "duration": 990.0
+    },
+    {
+      "source": "youtube",
+      "query": "machine learning tools",
+      "title": "Machine Learning Explained in 100 Seconds",
+      "channel": "Fireship",
+      "url": "https://youtube.com/watch?v=PeMlggyqz0Y",
+      "views": 1060421,
+      "duration": 155.0
+    },
+    {
+      "source": "youtube",
+      "query": "machine learning tools",
+      "title": "AI, Machine Learning, Deep Learning and Generative AI Explained",
+      "channel": "IBM Technology",
+      "url": "https://youtube.com/watch?v=qYNweeDHiyU",
+      "views": 3166913,
+      "duration": 601.0
+    },
+    {
+      "source": "youtube",
+      "query": "machine learning tools",
+      "title": "ML Foundations for AI Engineers (in 34 Minutes)",
+      "channel": "Shaw Talebi",
+      "url": "https://youtube.com/watch?v=BUTjcAjfMgY",
+      "views": 388289,
+      "duration": 2090.0
+    },
+    {
+      "source": "youtube",
+      "query": "machine learning tools",
+      "title": "The Complete Machine Learning Roadmap",
+      "channel": "Programming with Mosh",
+      "url": "https://youtube.com/watch?v=7IgVGSaQPaw",
+      "views": 1015955,
+      "duration": 325.0
+    },
+    {
+      "source": "tiktok",
+      "query": "AI tools",
+      "description": "The best AI tools to use in 2026 \ud83d\udc47 Save time: ChatGPT AI images: Nano Banana Pro Write emails: Claude Learn a new skill: Notebook LM AI videos: Higgsfield AI websites: Bolt.new Rank on ChatGPT: Cytd.a",
+      "author": {
+        "id": "6788812283432059910",
+        "unique_id": "maverickgpt",
+        "nickname": "Maverick Maltin | AI & ChatGPT",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/0c950557c61fb5495b379d40a84d859b~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=cd9d92b8&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=MOCzea7NE%2Bcr5CCqcPTjSsGs%2BQo%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7610593427536891167",
+      "plays": 2722246,
+      "likes": 143366,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "AI tools",
+      "description": "Access the most powerful AI tools for free\u2014Arena, Pinokio, and Design Arena offer models like Cloud Opus 4.6, Gemini, and more for image, video, and text generation. #AITools #ArenaAI #AIGeneration #A",
+      "author": {
+        "id": "7408160055877125152",
+        "unique_id": "sebintel",
+        "nickname": "sebintel",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-avt-0068c001-no/16b0b3a92f8ebf5343dae3f9c7ede0a0~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=62e957b7&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=ZG6io3byZfzd9YJKS3Yl2hViiJI%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7631874500602121475",
+      "plays": 468271,
+      "likes": 26659,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "AI tools",
+      "description": "A lot of AI tools get judged on hype instead of whether they actually help you get real work done.",
+      "author": {
+        "id": "7554144551289029645",
+        "unique_id": "bavedikian",
+        "nickname": "Brandon Avedikian",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/ae74c6ff91e56b0e5658726707b65f02~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=6e21a309&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=GCyag9k92rbqcmgsntVWNaUm2PE%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7632889486359219470",
+      "plays": 1314427,
+      "likes": 36974,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "AI tools",
+      "description": "Which China AI tools should you try? This quick video breaks them down by use case: for chat or coding, try DeepSeek, Kimi, Qwen, or Doubao. For AI images, try Jimeng, Kling, or Tongyi Wanxiang. For A",
+      "author": {
+        "id": "7407981838570652678",
+        "unique_id": "paul2024x",
+        "nickname": "Paul|Ai tools",
+        "avatar": "https://p19-common-sign.tiktokcdn-eu.com/tos-alisg-avt-0068/74875a6863dc8ef50cfbf61841ebc795~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=b92b785e&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=tT2%2FpOiK4ARNEKIsjtr69h2Fiuw%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7641404304762408213",
+      "plays": 25269,
+      "likes": 1475,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "AI tools",
+      "description": "The best AI for every task in 2026 \ud83d\udc47 Writing scripts: Claude Explaining something simple: ChatGPT Researching something fast: Gemini Arguing through a decision: Claude Turning random thoughts into a p",
+      "author": {
+        "id": "6788812283432059910",
+        "unique_id": "maverickgpt",
+        "nickname": "Maverick Maltin | AI & ChatGPT",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/0c950557c61fb5495b379d40a84d859b~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=cd9d92b8&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=MOCzea7NE%2Bcr5CCqcPTjSsGs%2BQo%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7642513893968989471",
+      "plays": 31887,
+      "likes": 1168,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "AI tools",
+      "description": "don\u2019t get that part time job, just do this instead #sidehustle #aitools ",
+      "author": {
+        "id": "7629116530139366414",
+        "unique_id": "patrickontech",
+        "nickname": "patrickontech",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/ad1128612669ad0c052ea8df9a26df58~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=bdfc6dc6&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=8KMoWNFqMtI4KT%2Be64yB%2B7bRjOM%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7640299663932820766",
+      "plays": 77020,
+      "likes": 5315,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "AI tools",
+      "description": "Comment \u201cTools\u201d and I\u2019ll send you my full list \ud83d\udc47 Ranking every AI tool in 2026. ChatGPT \u2014 S Tier Still the best all around tool for beginners and their new image generator is absolutely insane. Runnab",
+      "author": {
+        "id": "6788812283432059910",
+        "unique_id": "maverickgpt",
+        "nickname": "Maverick Maltin | AI & ChatGPT",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/0c950557c61fb5495b379d40a84d859b~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=cd9d92b8&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=MOCzea7NE%2Bcr5CCqcPTjSsGs%2BQo%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7641948061949857055",
+      "plays": 322632,
+      "likes": 11548,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "AI tools",
+      "description": "Comment \u201cAI\u201d and I\u2019ll send you my full list of AI tools \ud83d\udc47 The best AI tools for every task in 2026: Writing emails: Claude Brainstorming ideas: ChatGPT Deep research: Perplexity Computer Real-time tre",
+      "author": {
+        "id": "6788812283432059910",
+        "unique_id": "maverickgpt",
+        "nickname": "Maverick Maltin | AI & ChatGPT",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/0c950557c61fb5495b379d40a84d859b~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=cd9d92b8&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=MOCzea7NE%2Bcr5CCqcPTjSsGs%2BQo%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7639912692030950687",
+      "plays": 1980085,
+      "likes": 109712,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "AI tools",
+      "description": "This AI stack will save you 30+ hours every week. Thank me later \ud83e\udee1 #aitools #claude #aibusiness ",
+      "author": {
+        "id": "6815726965095236614",
+        "unique_id": "maxjohnscn",
+        "nickname": "Max Johnson | AI Daily",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-avt-0068c001-no/e5201a1f09e0af482b72b09dcf9b0d0a~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=ec1c5381&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=lFt3Phk%2BMrVlaeF%2BQsGd2VT3i%2BI%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7628939897000217878",
+      "plays": 67882,
+      "likes": 767,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "AI tools",
+      "description": "how are we not talking about this more?! \ud83d\udc40\ud83e\udd2d\ud83e\udd2f #Tech #ainews #learnai #aitools ",
+      "author": {
+        "id": "7625388401432953869",
+        "unique_id": "techwithjeanne",
+        "nickname": "techwithjeanne",
+        "avatar": "https://p19-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/4bc4a81e08a5c37d1bd3e569f01dd2a7~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=e7e507ce&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=uX3UaWGWjs5qGL20R8lWXQRqTzw%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7640295289470962958",
+      "plays": 161435,
+      "likes": 5833,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "artificial intelligence",
+      "description": "There are 5 stages to AI - the last one changes everything ",
+      "author": {
+        "id": "7396663561080063022",
+        "unique_id": "emilyissocial",
+        "nickname": "Emily Higgins",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/26ca96b6b10672b259575f5ba21ed9bb~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=0540d6fd&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=doPLo%2BbAvAfuJw3ogrlP%2BAXUUeI%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7607624236345134366",
+      "plays": 1423416,
+      "likes": 119276,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "artificial intelligence",
+      "description": "Which stage are you at right now? #artificialintelligence #aiexplained #aiforbeginners #agi #futureofai",
+      "author": {
+        "id": "7538436026184778774",
+        "unique_id": "sarmatic.io",
+        "nickname": "Sarmatic.io",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-avt-0068c001-no/aeaf56cbcb7e963b98c0eabb075f52e2~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=a30636ea&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=Al18yRG1cC6fMXvgCehc15rG9c8%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7635354977287834902",
+      "plays": 7449,
+      "likes": 247,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "artificial intelligence",
+      "description": "Pope Leo XIV called for AI to be \"disarmed\" during the presentation of his first encyclical document, \"Magnifica Humanitas.\"",
+      "author": {
+        "id": "6971822573634978822",
+        "unique_id": "cnn",
+        "nickname": "CNN",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/99d43f49d3f1749ffa85f5954ca10a8c~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=c89ce714&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=X0yNQ%2FH3m%2FuF39ktvir4eavSwiY%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7643831428689546510",
+      "plays": 5686030,
+      "likes": 672641,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "artificial intelligence",
+      "description": "Artificial intelligency\ud83d\udde3\ud83c\uddef\ud83c\uddf2#meme #jamaica #viral #fyp #crack ",
+      "author": {
+        "id": "7446418751887410209",
+        "unique_id": "memeblast0",
+        "nickname": "clipz",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-avt-0068c001-no/9657ae6509eaa3082107c8ee41eee162~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=08bf6efa&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=mNgD83xitHjIy7fgKGHC5mN9N4U%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7601962062612286742",
+      "plays": 140611,
+      "likes": 9053,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "artificial intelligence",
+      "description": "AI Evolution - We Don\u2019t Know How It Works\u2014And That\u2019s the Problem https://youtube.com/shorts/lOvxjmb4oNE #AI #machinelearning #artificialintelligence #neuralnetworks #technology",
+      "author": {
+        "id": "7276900144603399201",
+        "unique_id": "khalid_explore",
+        "nickname": "Khalid Explore",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-avt-0068c001-no/76c535780687a490be3b6ec87da018cb~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=02e81728&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=4sOWHgGLlyexVw%2F0svTHKbZIfZk%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7549304166355586336",
+      "plays": 1561555,
+      "likes": 66704,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "artificial intelligence",
+      "description": "\u26a0\ufe0f Pope Leo XIV is throwing up a major warning flag about artificial intelligence ... saying the technology could become dangerous if nobody keeps it in check.",
+      "author": {
+        "id": "6653020166035095558",
+        "unique_id": "tmz",
+        "nickname": "TMZ",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/9970201b14f6f4260c18fa2795ee92b4~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=27f5bed1&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=8VTZUzrIv4I%2FXg3JH07sWhiZ3lo%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7643886797772115213",
+      "plays": 162742,
+      "likes": 11268,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "artificial intelligence",
+      "description": "Pope Leo commended the use of AI in warfare, decried the way AI impacts politics and issued a \"special appeal\" to those who develop it. #PopeLeoXIV #Pope #AI #ArtificialIntelligence #CatholicChurch #B",
+      "author": {
+        "id": "6953176899251241989",
+        "unique_id": "bbcnews",
+        "nickname": "BBC News",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/598739a861a35cdea311310b32ef7fa8~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=e785f826&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=ompK11nav%2Ft6E7dvIoLf6fNL1Y0%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7643874515335826710",
+      "plays": 599531,
+      "likes": 32038,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "artificial intelligence",
+      "description": "#aiethicsmovement #civilization  #Mesopotami#ari  #creatorsearchinsights ",
+      "author": {
+        "id": "7376782534024168491",
+        "unique_id": "aiethicsmovement",
+        "nickname": "AI Ethics MOV",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/2993b5387e5b9fa7b46c4eb235768164~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=2393f1ac&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=h6zghBypB6l8iwBVS%2BWqLjEEIIc%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7643195366740938014",
+      "plays": 984,
+      "likes": 347,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "artificial intelligence",
+      "description": "",
+      "author": {
+        "id": "7621123968820413447",
+        "unique_id": "billgates477",
+        "nickname": "Bill Gates",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-alisg-avt-0068/de32e2c63fb5ed9a30727abebc70e84e~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=63384c27&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=WEOqM0h7KmnaGjAwk80966mF8FU%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7643347229973204242",
+      "plays": 236838,
+      "likes": 7628,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "artificial intelligence",
+      "description": "Pope Leo XIV invoked Gandalf, one of the main characters in The Lord of the Rings series by Catholic author J.R.R. Tolkien, as he warned about the dangers of Artificial Intelligence. #popeleo #catholi",
+      "author": {
+        "id": "7614257601204208654",
+        "unique_id": "irishstarusa",
+        "nickname": "IrishStar",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/700d31fca7ca9f66e99a10a70e5156e3~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=a630b0f4&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=Cjle2RDagbbNopdOSJpXhIbtu3o%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7643903121747447053",
+      "plays": 13691,
+      "likes": 1214,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "machine learning",
+      "description": "When you realize AI is just Linear Algebra \ud83e\udee0 @mack #ai #engineering #machinelearning #university ",
+      "author": {
+        "id": "6678098184076116997",
+        "unique_id": "juiceditup",
+        "nickname": "Juiceditup",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/fbe7b789ee211879e0b93add0ab4f63c~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=4b165b40&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=EeCZhNkElFV8GIyDPLk7oSiqbbg%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7626871734863547679",
+      "plays": 1231511,
+      "likes": 142639,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "machine learning",
+      "description": "Machine Learning, explained by cats. #cat #code #ai #machinelearning #algorithm",
+      "author": {
+        "id": "6741121971545162757",
+        "unique_id": "coding.kitty7",
+        "nickname": "coding.kitty",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-avt-0068c001-no/9f1068ff07d6e9ccf7411c666a9fc5b5~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=d0211f9d&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=utRAPfL%2FNYLFc6k6DGex81LF06A%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7602955468796923168",
+      "plays": 100735,
+      "likes": 8423,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "machine learning",
+      "description": "comment \u2018ML\u2019 and i will send the resource links to you! links will also be up at https://eggintech-site.pages.dev/ (link in bio) #machinelearning #learnai #learncoding #largelanguagemodels #softwareen",
+      "author": {
+        "id": "7597942972072035383",
+        "unique_id": "eggintech",
+        "nickname": "eggintech",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/78c1b9448d0989b934c1fbd5cf996b3d~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=dfe66fe3&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=BTSB4vpeOLpLTYE1o%2B7ofc0L%2B3U%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7622745370044435725",
+      "plays": 15733,
+      "likes": 1376,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "machine learning",
+      "description": "A bit hard starting, but worth #stem #ia #machinelearning #ai #datascience ",
+      "author": {
+        "id": "7023820376594203653",
+        "unique_id": "piluladedados",
+        "nickname": "P\u00edlula de Dados | IA e Tech",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/3b748ae1c5e3c482f04243d9f9705560~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=a16c557c&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=6MmlugmYB66I3ERkzdKIQTgHSmM%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7216065617852517638",
+      "plays": 346287,
+      "likes": 15933,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "machine learning",
+      "description": "ML Data Clustering Visualized #algorithm #fyp #coding #programming #donevdev #dataclustering ",
+      "author": {
+        "id": "7481393612510233643",
+        "unique_id": "donev.dev",
+        "nickname": "DonevDev",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/be5fd3cc505b1710a9cd11a7695840f7~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=5bdc54be&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=GxTE7lqvFvhF0K1FKz%2Ft3lQasI8%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7486218083355331886",
+      "plays": 44802,
+      "likes": 867,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "machine learning",
+      "description": "90 day roadmap to learn ML #coding #softwareengineering #machinelearning #techcareers #aijobs ",
+      "author": {
+        "id": "7326781199044002859",
+        "unique_id": "bashifuirkashi",
+        "nickname": "Bashi | Software Engineer",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/2a2a307164a56d96c53f0af163512f34~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=88f40e03&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=H3wGQPWe91fJvg%2F6G0cGyiK2nZ8%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7598253095390334239",
+      "plays": 36656,
+      "likes": 2293,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "machine learning",
+      "description": "Back to ML basics! This is a super hot topic - let me know in the comments what helped you learn ML and what you would do differently! #ml #artificialintelligence #machinelearning #coding #codingproje",
+      "author": {
+        "id": "6814905281866368006",
+        "unique_id": "mar_antaya",
+        "nickname": "Mariana Antaya",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/748a49fb81d6967ccf4c8b124a5d1a9c~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=9b1dadab&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=39JnmyiaFIh9ULBr304Ab3LVW%2F8%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7355540182654831902",
+      "plays": 56630,
+      "likes": 3103,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "machine learning",
+      "description": "AI and Machine Learning is NOT what you expect #ai #machinelearning #chatgpt #softwareengineer #fyp ",
+      "author": {
+        "id": "6904665886494376965",
+        "unique_id": "sajjaadkhader",
+        "nickname": "Sajjaad Khader",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/663657cde611d9e2a5b3e7837b23d29c~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=7ebb44ee&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=4K4hEpkzkoi%2BAJrtP4EFX8hNhqo%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7330668994208255263",
+      "plays": 224011,
+      "likes": 7809,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "machine learning",
+      "description": "update: this video got a little more popular than i anticipated and i am not able to respond to everyone\u2019s DMs so here are the links that I\u2019ve mentioned in the video:  1. 30 days of python: https://gi",
+      "author": {
+        "id": "7597942972072035383",
+        "unique_id": "eggintech",
+        "nickname": "eggintech",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/78c1b9448d0989b934c1fbd5cf996b3d~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=dfe66fe3&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=BTSB4vpeOLpLTYE1o%2B7ofc0L%2B3U%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7600923494179687735",
+      "plays": 88979,
+      "likes": 8144,
+      "links": [
+        "Asabeneh/30-Days-Of-Python"
+      ]
+    },
+    {
+      "source": "tiktok",
+      "query": "open source AI",
+      "description": "Private AI is not science fiction anymore. You can now run local AI directly on your own machine, choose uncensored open-source models, and ask questions without sending your conversations to the clou",
+      "author": {
+        "id": "7628916499126699030",
+        "unique_id": "ocno.ai",
+        "nickname": "Ocno AI",
+        "avatar": "https://p19-common-sign.tiktokcdn-eu.com/tos-no1a-avt-0068c001-no/9eac711abb8f943b817c1d0a4ed0c81a~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=d8ef9128&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=xg6CK7lN0KJWzYHj5SJB%2FlFmTsA%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7643425221793385750",
+      "plays": 3612,
+      "likes": 108,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "open source AI",
+      "description": "\ud83d\udea8 AI TEXT HUMANIZER THAT STRIPS EVERY TRACE JUST OPEN-SOURCED Someone built Humanizer \u2014 a Claude Code skill that removes all AI writing patterns and rewrites your text to sound 100% human. Ships with:",
+      "author": {
+        "id": "6813776740209787910",
+        "unique_id": "whitewhoadie",
+        "nickname": "WHOADIE",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/7349841658554351662~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=e324c27a&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=vcTRCztKtWci6t0L7dpwmNyhDC8%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7633114178181467405",
+      "plays": 692534,
+      "likes": 29954,
+      "links": [
+        "blader/humanizer"
+      ]
+    },
+    {
+      "source": "tiktok",
+      "query": "open source AI",
+      "description": "Free Tool for Infinite Cinematic Video Creation! #aivideo #businessopportunity #videocreation",
+      "author": {
+        "id": "7194320309224326190",
+        "unique_id": "theaisurfer",
+        "nickname": "theAIsurfer.com",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/25695aeef5bb997aba7465e433b796b2~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=4256bf85&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=I%2FZVaSFGNnJ52Jc%2Bas1QdcPe0r4%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7593160847057308941",
+      "plays": 582988,
+      "likes": 26259,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "open source AI",
+      "description": "This open source alternative to Claude Code that runs locally is insane. #ai #artificialintelligence #aiagents #aitools #aiforbusiness ",
+      "author": {
+        "id": "6768482528002262021",
+        "unique_id": "nathanhodgson.ai",
+        "nickname": "nathanhodgson.ai",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-avt-0068c001-no/a8801c08024d1dfa261bd9a5446eec3a~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=281f596d&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=Lhh330L6eTJZ5yfGplsY2g394k4%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7631321883614432534",
+      "plays": 13074,
+      "likes": 488,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "open source AI",
+      "description": "Open Code AI might replace Claude Code\u2026 wait until the end \ud83d\ude33 #ai #opensource #coding #developer #claudeai ",
+      "author": {
+        "id": "6813436945236460550",
+        "unique_id": "benkimball.ai",
+        "nickname": "benkimball.ai",
+        "avatar": "https://p19-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/36b6a016e0dae0e1fac37e8989f9563b~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=219bbfc2&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=M7g0XiTY9g1RorJP6gEzbUEVnYo%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7622111589742759182",
+      "plays": 32867,
+      "likes": 1587,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "open source AI",
+      "description": "One dude just killed Higgsfield. I've been paying Higgsfield $100+/month. last night I found out a single developer rebuilt the entire workflow and put it on GitHub for free. Anil Matcha open-sourced ",
+      "author": {
+        "id": "7631446715589968916",
+        "unique_id": "ashharrisprod",
+        "nickname": "Ash Harris",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-alisg-avt-0068/f076011e0131584cdef28d3247fa7baa~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=8cddd401&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=TjG18mWCvsyrNbmkHSSTebBE8tA%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7631459495083871496",
+      "plays": 15998,
+      "likes": 524,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "open source AI",
+      "description": "WOW... now you can make Claude write more like a human Use the open-source \"Humanizer\" agentic skill that detects common Al writing patterns and rewrites text to sound more natural. \u2192 removes obvious ",
+      "author": {
+        "id": "7076177464846369798",
+        "unique_id": "eguonormajemite",
+        "nickname": "Eguonor | Software Dev.",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-alisg-avt-0068/57a0bddbac54effe3700c2b3a94fdb3d~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=de712c6b&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=MABTFYsBKkNa03V23s8O84%2Bmry8%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7640878284586192148",
+      "plays": 872280,
+      "likes": 55169,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "open source AI",
+      "description": "\ud83d\udea8 OPEN SOURCE SUNO ALT \u2014 FULL LOCAL MUSIC AI DROPPED Someone built ACE-Step UI: a Spotify-style interface for ACE-Step 1.5. Ships with: \u2022 Full songs with vocals up to 4+ minutes \u2022 Runs 100% locally on",
+      "author": {
+        "id": "6813776740209787910",
+        "unique_id": "whitewhoadie",
+        "nickname": "WHOADIE",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/7349841658554351662~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=e324c27a&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=vcTRCztKtWci6t0L7dpwmNyhDC8%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7633065633768361229",
+      "plays": 96655,
+      "likes": 4601,
+      "links": [
+        "fspecii/ace-step-ui"
+      ]
+    },
+    {
+      "source": "tiktok",
+      "query": "open source AI",
+      "description": "RuView is one of the wildest examples yet of how Al can turn ordinary WiFi signals into a kind of environmental sensing system. The open-source GitHub project reportedly uses normal wireless signals t",
+      "author": {
+        "id": "7587782046040278071",
+        "unique_id": "a1insight",
+        "nickname": "Alnsight",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/5a354b24b3486ee2f896accc6956ccf2~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=5882dac8&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=XXWuwt4ikMYNceloN%2BqrJm924hU%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7643872685860162829",
+      "plays": 1296,
+      "likes": 70,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "open source AI",
+      "description": "Phygital, link in bio. Phygital just showcased an open-source AI agency with 147 specialized sub-agents built for engineering, marketing, sales, and support, turning AI coding agents into a parallel o",
+      "author": {
+        "id": "7603855336785708046",
+        "unique_id": "alex.bobko5",
+        "nickname": "Alex.bobko",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/eb95af493aaf77e1a9373d35689f72e8~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=8bf3fa91&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=nUpgBqwDilWHlacrICymLkhc%2FpE%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7643458649293163807",
+      "plays": 1831,
+      "likes": 109,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "AI coding",
+      "description": "Unlock 5 powerful secret codes for Claude to get human-like responses, build apps, apply decision frameworks, and more advanced features for better outputs. #ClaudeCode #AICodingTools #AIForDevelopers",
+      "author": {
+        "id": "7408160055877125152",
+        "unique_id": "sebintel",
+        "nickname": "sebintel",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-avt-0068c001-no/16b0b3a92f8ebf5343dae3f9c7ede0a0~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=62e957b7&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=ZG6io3byZfzd9YJKS3Yl2hViiJI%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7644124078328007958",
+      "plays": 95074,
+      "likes": 4198,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "AI coding",
+      "description": "\ud83e\udd1d Claude Code + Codex = AI Coding Superpowers Combine the two strongest AI models to get the best out of both models and instantly 10x your AI outputs. Comment \u201cClaude\u201d and I\u2019ll send you the full guid",
+      "author": {
+        "id": "7468919244291408901",
+        "unique_id": "taki.gpt",
+        "nickname": "Taki Wong | AI Builder",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-alisg-avt-0068/61894ae84d7e00a12f507b8f40b8646e~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=8a1da248&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=P2fWd9mgd%2BufVGoO129DOqGNGas%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7637923987321785601",
+      "plays": 176962,
+      "likes": 7261,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "AI coding",
+      "description": "Most people waste tokens in Claude Code without realizing it. Every new session re-reads your codebase and burns context fast. Graphify fixes that by turning your repo into a knowledge graph instead o",
+      "author": {
+        "id": "7285188871796491294",
+        "unique_id": "duncanrogoff",
+        "nickname": "Duncan | AI Automation",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/2c074303cd33c4dcce443f1c9791f900~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=f3a3f394&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=vhXUTwbpBKnHfUWFeLbPOuy4AK8%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7643929550732233998",
+      "plays": 125644,
+      "likes": 7441,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "AI coding",
+      "description": "Microsoft Claude Code drama might be the first real warning sign for the AI coding economy. Microsoft reportedly banned or cut back Claude Code after the AI became more expensive than the humans it wa",
+      "author": {
+        "id": "7492628640392315935",
+        "unique_id": "brutalcyber",
+        "nickname": "brutalcyber",
+        "avatar": "https://p19-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/de458bd48c8e617a102d8bf7f2606c2b~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=ef13467e&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=C%2B5m2aGOlzjCpAxJLgPFBh8YPSw%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7644313463036169503",
+      "plays": 1025,
+      "likes": 25,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "AI coding",
+      "description": "VS Code Hooks might be one of the most underrated AI features right now \ud83d\udc40 Automatically run actions after edits, enforce rules, trigger workflows, and customize how your AI coding assistant behaves \u2014 ",
+      "author": {
+        "id": "6926996571670610950",
+        "unique_id": "vscode",
+        "nickname": "Visual Studio Code",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/9d9505b3b89096928e37f883abb28f44~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=fe9c3efe&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=kpWf2kkEZs7S959UnUYzzQVzp3Q%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7641334525938699551",
+      "plays": 19660,
+      "likes": 758,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "AI coding",
+      "description": "Andre Karpathy's 65-line file took Claude coding accuracy from 65% to 94%. Comment \"guide\" for the file. #ai #claude #coding #openai #github",
+      "author": {
+        "id": "7033869483602347010",
+        "unique_id": "tenfoldmarc",
+        "nickname": "Tenfoldmarc",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-alisg-avt-0068/13436592d8c527c40e1dbcfdafbe1044~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=7dbe35da&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=mGVCS0qDKwoWYWD5e7XMBMHKvyw%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7644184998920064263",
+      "plays": 9544,
+      "likes": 597,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "AI coding",
+      "description": "he gave codex a plan, went to sleep, woke up 7 hours later to a finished erp app \ud83d\ude33 this is what vibe coding looks like when the ai agent actually works end to end the fast fashion software era is here",
+      "author": {
+        "id": "7620433569379206176",
+        "unique_id": "godmodepod",
+        "nickname": "God Mode Pod",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-avt-0068-euttp/eb4709468db89da1514f76272e20eb8d~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=122a3b40&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=hA6u9MiOvfGOdtLDPCQnTOfEuik%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7643889508362013984",
+      "plays": 10389,
+      "likes": 124,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "AI coding",
+      "description": "Free AI coding tools tier list 2025 \ud83d\udd25 stop paying for cursor pro. these are actually free. ranking: antigravity, trae, opencode, openrouter, cursor, windsurf, gemini cli, amp, kiro, warp, qwen cli, gi",
+      "author": {
+        "id": "282843165722599424",
+        "unique_id": "techfren",
+        "nickname": "Tech Friend AJ",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-alisg-avt-0068/3b61af1d792246173c2cbe56f21759c5~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=269df4b9&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=W39dR4PZ41J0uNf1vWqx0JUeP%2FI%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7579102171334053138",
+      "plays": 55492,
+      "likes": 1788,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "AI coding",
+      "description": "Google just released a crazy free AI coding agent \ud83e\udd2f It\u2019s called Anti Gravity CLI and it can build apps, games, websites and tools in seconds. I plugged it into my Agent OS and now everything I create ",
+      "author": {
+        "id": "7605789824361071623",
+        "unique_id": "future.with.ai98",
+        "nickname": "Future Ai With Julian",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-alisg-avt-0068/1cf516f8dda9a6ce46edd0b2e4a81dcb~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=53beb31d&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=%2FBXUlaG2yxLmTMKO%2FXfN8BtaV6s%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7644507986206985479",
+      "plays": 731,
+      "likes": 25,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "AI coding",
+      "description": "I ranked every AI coding tool in 2026 from worst to best \u2b07\ufe0f Replit Windsurf Copilot Codex Cursor Claude Code The real ones use all three top tools together. What's your ranking? \ud83d\udc47 #aicoding #claudecod",
+      "author": {
+        "id": "7546523194825540626",
+        "unique_id": "whymarcuswhy",
+        "nickname": "Marcus Chen AI News",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-alisg-avt-0068/5c281bf72234e37ce8be9df6991e0976~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=48dfd3ab&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=fqsGpS5MTxU%2B2yTMskNBKH%2F%2BDzo%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7605684303619525895",
+      "plays": 65574,
+      "likes": 2228,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "AI agent",
+      "description": "Like for part 2 !! #aiagents #openclaw ",
+      "author": {
+        "id": "6829049136105997317",
+        "unique_id": "androoagi",
+        "nickname": "androoAGI",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/b5a1194386cb0268588a929bd96e3e92~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=fdd36c9e&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=okNKv0zDTvWlic5hB1Zk9evGR0w%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7623915514556960031",
+      "plays": 792844,
+      "likes": 40734,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "AI agent",
+      "description": "Most people overcomplicate AI agents. I built one that handles contacts, writes emails, and schedules events\u2014without fluff. It runs on Telegram, Gmail, Google Calendar, and Airtable using n8n. Here\u2019s ",
+      "author": {
+        "id": "6746381030971933701",
+        "unique_id": "stephengpope",
+        "nickname": "Stephen | AI Engineer",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/791547fdb9a4b78b0d6ca77a534bd26d~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=2ce033e7&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=%2FxD5ZOfGZrl%2F1arJ4OhFMMHeCmE%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7501359036789574955",
+      "plays": 1252022,
+      "likes": 75291,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "AI agent",
+      "description": "These 3 agents run 24/7 so I don\u2019t have to \ud83d\udc40 #claudeai #claudecowork #aiagents #buildingwithclaude #aihacks  claude ai, claude cowork, ai agents, background tasks, hands-off, ai tools, simple setup, e",
+      "author": {
+        "id": "7615553606138577942",
+        "unique_id": "claragig",
+        "nickname": "Clara",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-avt-0068c001-no/f4c12980ac80d993989b87899bc64da7~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=db6d53cc&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=fE7M8cSgvN7uT3GTcDmP9Rsbn4g%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7623878177210912022",
+      "plays": 73076,
+      "likes": 4684,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "AI agent",
+      "description": "why have you not tried this yet? #sidehustle #makemoneyonline #aiagents ",
+      "author": {
+        "id": "7609843981946356750",
+        "unique_id": "buildwith.ryan",
+        "nickname": "Ry",
+        "avatar": "https://p19-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/b362c40922f546547a12e1c1729d2cf8~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=1aac20b4&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=sZngQDFTGhEg8ofYhqf%2FDJYHzQM%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7641781896938065182",
+      "plays": 3440,
+      "likes": 136,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "AI agent",
+      "description": "The 7 Types of Ai agents you can build in Claude. AI Agents can help you automate repetitive tasks or even empower you to complete more and be more productive. Learning Claude in 2926 is one of the mo",
+      "author": {
+        "id": "7137173023391974406",
+        "unique_id": "nocode.joshua",
+        "nickname": "nocode.joshua",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-alisg-avt-0068/0668c42c023ff527db7367f3be31e3e3~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=a1a41014&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=2hbH%2Fox34Ep23PJcVRpqd6FivlE%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7620416475119013127",
+      "plays": 133765,
+      "likes": 7477,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "AI agent",
+      "description": "I gave an AI agent $200 and a 30 day directive make $20,000 to buy your own computer or get deleted #sovernsprint #aiagent #buildinpublic #autonomy #startup ",
+      "author": {
+        "id": "7087425720385143850",
+        "unique_id": "daniel.corey1001",
+        "nickname": "Daniel Corey",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/ed86fcc143b07066aa8b08522ddf33d1~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=379301f7&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=F9k83bkHxLndF6YCVpQaFysa%2FUs%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7620561059778284831",
+      "plays": 1240430,
+      "likes": 47994,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "AI agent",
+      "description": "How Claude made me rich at 20\u2026 #claude #digitalproducts #makemoneyonline #aiagent ",
+      "author": {
+        "id": "7264897825905787950",
+        "unique_id": "andrilance",
+        "nickname": "andrilance",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/d66f719718126bb5c5d2370326720145~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=0fb34782&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=fWlDOhWaFM6dzPAMWKXQy6XxcdE%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7619493175769451790",
+      "plays": 593877,
+      "likes": 31394,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "AI agent",
+      "description": "Learn how to build a custom restaurant WhatsApp AI Agent #aiautomation #n8n #aiagent #whatsapp #tutorial ",
+      "author": {
+        "id": "7521291258901005368",
+        "unique_id": "fredyai.nocode",
+        "nickname": "Fredyai nocode",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/0de5ea817b0ca889645d5d5ff26fbd2e~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=d6899a28&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=4jQPEce4omTSpmBMFib9YkDyQmA%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7528344048155774264",
+      "plays": 652991,
+      "likes": 32711,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "AI agent",
+      "description": "comment \u2018agent\u2019 and i will send the resource links to you! they are also up at the link in my bio! #aiagent #agenticai #learnai #softwareengineer #coding ",
+      "author": {
+        "id": "7597942972072035383",
+        "unique_id": "eggintech",
+        "nickname": "eggintech",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/78c1b9448d0989b934c1fbd5cf996b3d~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=dfe66fe3&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=BTSB4vpeOLpLTYE1o%2B7ofc0L%2B3U%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7623937297729260814",
+      "plays": 30040,
+      "likes": 2260,
+      "links": []
+    },
+    {
+      "source": "tiktok",
+      "query": "AI agent",
+      "description": "No you don\u2019t have to have any technical experience, if sell AI like this you will make way more money because you\u2019re attacking the pain point, not hyping up some AI that they don\u2019t even know about. #o",
+      "author": {
+        "id": "7527407551652480031",
+        "unique_id": "zack.kirk",
+        "nickname": "Zack Kirk",
+        "avatar": "https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/3cf33d5b91fa91bcda19f328ae152deb~tplv-tiktokx-cropcenter-q:300:300:q70.jpeg?dr=9605&idc=no1a&ps=87d6e48a&refresh_token=9ad94b95&s=SEARCH&sc=avatar&shcp=c1333099&shp=d05b14bd&t=223449c4&x-expires=1779976800&x-signature=bw1IrSoALaN1xLtJWDQi00RGmHs%3D"
+      },
+      "url": "https://www.tiktok.com/@/video/7539212314818383159",
+      "plays": 398812,
+      "likes": 26993,
+      "links": []
+    },
+    {
+      "source": "4chan",
+      "board": "g",
+      "board_title": "Technology",
+      "title": "",
+      "text": ">Drag coefficient of just 0.254, lowest ever on a 'rariBased Jony does it again, chuds can only cope seethe",
+      "replies": 0,
+      "thread_id": 108918071,
+      "url": "https://boards.4chan.org/g/thread/108918071",
+      "links": []
+    },
+    {
+      "source": "4chan",
+      "board": "g",
+      "board_title": "Technology",
+      "title": "/pcbg/ - PC Building General",
+      "text": ">UPGRADE & BUILD ADVICEPost build list or current specs: https://pcpartpicker.com/Provide specific use casesState BUDGET and COUNTRY or you will NOT be helped>CASEmATX: AP201, Lian Li A3, O11 Air Mini, XT M3, CH260ATX: XT PRO (ULTRA), AIR 903 Base/MAX, Lancool 207, Flux Pro, Meshify 3, 4000D FRAME, X50Dual Chamber: Y60/70, O11 Vision, Antec C8>CPUGaming: 250K, 14600K, 7/9600X, 7/9800X3D-Budget: 225F, 7500F, 12600KWorkstation: 270K*Avoid Ascrock motherboards on AM5*New sockets likely next year*On",
+      "replies": 294,
+      "thread_id": 108913036,
+      "url": "https://boards.4chan.org/g/thread/108913036",
+      "links": []
+    },
+    {
+      "source": "4chan",
+      "board": "g",
+      "board_title": "Technology",
+      "title": "/dpt/ - Daily Programming Thread",
+      "text": "What are you working on, /g/?Previous: >>108891616",
+      "replies": 123,
+      "thread_id": 108912856,
+      "url": "https://boards.4chan.org/g/thread/108912856",
+      "links": []
+    },
+    {
+      "source": "4chan",
+      "board": "g",
+      "board_title": "Technology",
+      "title": "/sdg/ - Stable diffusion general",
+      "text": "Previous /sdg/ thread : >>108904583>Beginner UIEasyDiffusion: https://easydiffusion.github.ioSwarmUI: https://github.com/mcmonkeyprojects/SwarmUI>Advanced UIComfyUI: https://github.com/comfyanonymous/ComfyUIForge Classic: https://github.com/Haoming02/sd-webui-forge-classicStability Matrix: https://github.com/LykosAI/StabilityMatrix>Z-Imagehttps://comfyanonymous.github.io/ComfyUI_examples/z_imagehttps://huggingface.co/Tongyi-MAI/Z-Imagehttps://huggingface.co/Tongyi-MAI/Z-Image-Turbo>Flux.2 Dev/Kl",
+      "replies": 58,
+      "thread_id": 108914894,
+      "url": "https://boards.4chan.org/g/thread/108914894",
+      "links": [
+        "Tongyi-MAI/Z-Imagehttps",
+        "LykosAI/StabilityMatrix",
+        "Tongyi-MAI/Z-Image-Turbo",
+        "mcmonkeyprojects/SwarmUI",
+        "comfyanonymous/ComfyUIForge",
+        "Haoming02/sd-webui-forge-classicStability"
+      ]
+    },
+    {
+      "source": "4chan",
+      "board": "g",
+      "board_title": "Technology",
+      "title": "",
+      "text": "Anyone know what\u2019s going on with cock.li? You know, that old free-internet email service.They got hacked last year but eventually brought things back up. Now I haven\u2019t been able to send mail for over a week. Same error for everyone?Been trying to contact support for a week, but they\u2019re silent \u2014 which is extra funny because I can\u2019t even reply properly since sending mail is broken. lol.",
+      "replies": 8,
+      "thread_id": 108917687,
+      "url": "https://boards.4chan.org/g/thread/108917687",
+      "links": []
+    },
+    {
+      "source": "4chan",
+      "board": "sci",
+      "board_title": "Science & Math",
+      "title": "Feet and space.",
+      "text": "I think we live in a toenail because, according to your rant, spacetime resonates through a refrigerator in which a goblin has been crying for 200 years. Indeed, Alfred Epstan's theory tells us that spacetime is only a tiny part of reality. From what I think, toes are in electromagnetic resonance with the quarks of bald men in Ohio. Don't tell me that makes no sense; I've spent my life developing this theory! The universe was created from a toenail fungus. There wasn't nothing there, but a sweat",
+      "replies": 2,
+      "thread_id": 16987977,
+      "url": "https://boards.4chan.org/sci/thread/16987977",
+      "links": []
+    },
+    {
+      "source": "4chan",
+      "board": "sci",
+      "board_title": "Science & Math",
+      "title": "Heaven is real, and I can prove it",
+      "text": "In a finite universe of infinite time, the Poincar\u00e9 Recurrence theorem dictates that there will come a day when all women are goth egirls and all men are femboys, and you're the lone Chad left to repopulate. If patternism is real, we still have hope. I am a messiah, and in accordance with Poincar\u00e9 Recurrence theorem, I've shared this message with you all infinite times before, and I'll share it infinite times again. We're in a constant ebb and flow in and out of heaven, and it contains femboys. ",
+      "replies": 1,
+      "thread_id": 16987987,
+      "url": "https://boards.4chan.org/sci/thread/16987987",
+      "links": []
+    },
+    {
+      "source": "4chan",
+      "board": "sci",
+      "board_title": "Science & Math",
+      "title": "China has been leading science for a while now",
+      "text": "New research shows China leads research in 90% of crucial technologies & ignoring this means we're living in a delusional bubble, where we still think the West is the Sci-Tech leader.I think a lot of people are in denial, or just can't accept that China is already the world's leading nation for science and technology. I can't blame them for their ignorance. Most English-language media studiously avoid mentioning it. Time and time again, I see topics like AI, space & robotics covered, with only d",
+      "replies": 98,
+      "thread_id": 16959946,
+      "url": "https://boards.4chan.org/sci/thread/16959946",
+      "links": []
+    },
+    {
+      "source": "4chan",
+      "board": "biz",
+      "board_title": "Business",
+      "title": "/GME/ - Comfy (2hu) Tuesday After-hours Entrance Squeeze Play Edition",
+      "text": ">Basic Information>gme.cac site redacted due to aidshttps://finra-markets.morningstar.com/MarketData/EquityOptions/detail.jsp?query=14%3A0P000002CHhttps://gmetimeline.com (up to 2021)>Daily reminders[Kek Melvies]bzilp4>Mandatory study time>The Everything Shortreddit.com/mgucv2>^watch-alongyoutu.be/AaalT8rn9lc>Naked Short Selling and Systemic Riskyoutu.be/FCiL4v7_z9E>Failure to deliveryoutu.be/I0WXg5T3cBE>GameStop Investor Site>SEC 10-K Annual report FY24 & '25 Proxy Statementnews.gamestop.com/an",
+      "replies": 107,
+      "thread_id": 62277085,
+      "url": "https://boards.4chan.org/biz/thread/62277085",
+      "links": []
+    },
+    {
+      "source": "4chan",
+      "board": "biz",
+      "board_title": "Business",
+      "title": "/pmg/ - Precious Metals General",
+      "text": "1000% Edition>ROYAL MINT SILVER BULLION SALES INCREASE 1000% YoYhttps://www.kitco.com/news/article/2026-05-26/royal-mint-sees-record-gold-silver-bullion-sales-between-january-and-march>How Silver Price Suppression Workshttps://youtu.be/lyaTtie8j5w>Why Gold & Silver?https://youtu.be/eyAtsg9gO-shttps://youtu.be/FI7NnOg2rxohttps://silverinstitute.org/silver-supply-demand/>Metals Chartshttps://metalcharts.orghttps://metalcharts.org/shanghaihttps://www.tradingview.com/symbols/SILVER/https://www.tradi",
+      "replies": 33,
+      "thread_id": 62278454,
+      "url": "https://boards.4chan.org/biz/thread/62278454",
+      "links": []
+    },
+    {
+      "source": "4chan",
+      "board": "biz",
+      "board_title": "Business",
+      "title": "Why is there so much negativity towards SpaceX?",
+      "text": "Orbital data centers will enable data growth and efficiency many times greater than we have now. Re-useable rockets will make building them affordable and Starlink will be our way of connecting into them.Together, this is going to revolutionize the way we think about data. It is the missing piece of the AI puzzle but here there is nothing but doomer posting and negativity about it. Why? It is clearly going to be the next bull run. Even before orbital mining.",
+      "replies": 25,
+      "thread_id": 62278896,
+      "url": "https://boards.4chan.org/biz/thread/62278896",
+      "links": []
+    },
+    {
+      "source": "4chan",
+      "board": "diy",
+      "board_title": "DIY",
+      "title": "Cardboard flower pot keeps killing seedlings",
+      "text": "My mom has these cardboard flower pots. This is the second year we've had a 100% failure rate of every single seedling put into them.I think it's because the roots don't actually manage to penetrate and the whole thing gets mouldy but I'm not sure.I've asked her to switch to plastic ones but she she didn't do it.Mind you I think she also used coco coir rather than soil in most (I kinda managed to keep them alive with fertilizer while she was on vacation but she stopped using it I think) but even",
+      "replies": 12,
+      "thread_id": 2992404,
+      "url": "https://boards.4chan.org/diy/thread/2992404",
+      "links": []
+    },
+    {
+      "source": "4chan",
+      "board": "diy",
+      "board_title": "DIY",
+      "title": "Need pencil extender of some sort",
+      "text": "I have to draw a huge fabric pattern on a massive paper board sheet on the floor. I have chronic pain everywhere, so bending or crawling will be an issue. Do you have any recommendations or ideas for a product I can use to control a pencil on the floor at standing height i.e. theres poles for chalk",
+      "replies": 11,
+      "thread_id": 2988370,
+      "url": "https://boards.4chan.org/diy/thread/2988370",
+      "links": []
+    },
+    {
+      "source": "4chan",
+      "board": "diy",
+      "board_title": "DIY",
+      "title": "/3dpg/",
+      "text": "Last Thread: >>2988818Round 2\u2122 Edition>Your print failed? Go to:www.simplify3d.com/support/print-quality-troubleshooting>Calibrate your printer.ellis3dp.com/Print-Tuning-Guide/teachingtechyt.github.io/calibration.htmlIf that doesn't help you solve your problems, post:>A picture of the failed part>Printer make & model>Filament type/brand>Slicer & slicer settings>What printer should I buy? [52/40/10 :detadpU tsaL]Do your own research, but if you gotta ask; just buy whatever Bambu fits your budget.",
+      "replies": 310,
+      "thread_id": 2991067,
+      "url": "https://boards.4chan.org/diy/thread/2991067",
+      "links": []
+    },
+    {
+      "source": "4chan",
+      "board": "gd",
+      "board_title": "Graphic Design",
+      "title": "IA and images",
+      "text": "AI-generated images (only AI for the general public)",
+      "replies": 0,
+      "thread_id": 464358,
+      "url": "https://boards.4chan.org/gd/thread/464358",
+      "links": []
+    },
+    {
+      "source": "4chan",
+      "board": "gd",
+      "board_title": "Graphic Design",
+      "title": "",
+      "text": "AI really killed Graphic Design as a profession",
+      "replies": 24,
+      "thread_id": 463696,
+      "url": "https://boards.4chan.org/gd/thread/463696",
+      "links": []
+    },
+    {
+      "source": "4chan",
+      "board": "ic",
+      "board_title": "Artwork/Critique",
+      "title": "",
+      "text": "Why is getting core good illustration skills before working on any sort of comic/manga you want to show to the public discouraged over here? I especially see it the most on /mmg/ where \"storytelling is more important\" sometimes is used to excuse subpar to just mediocre visuals, when a good comic in my opinion should do well in both",
+      "replies": 46,
+      "thread_id": 7950754,
+      "url": "https://boards.4chan.org/ic/thread/7950754",
+      "links": []
+    },
+    {
+      "source": "4chan",
+      "board": "ic",
+      "board_title": "Artwork/Critique",
+      "title": "They did it again",
+      "text": "Mass account wipe everywhere",
+      "replies": 282,
+      "thread_id": 7946080,
+      "url": "https://boards.4chan.org/ic/thread/7946080",
+      "links": []
+    },
+    {
+      "source": "4chan",
+      "board": "ic",
+      "board_title": "Artwork/Critique",
+      "title": "How do you guys feel about using AI as reference?",
+      "text": "I saw a post about tracing up, and was curious what you guys felt about this?I've been using it a bit recently to make character sheets, or putting poses into it, and telling it to show the pose from a different angle, and it usually looks correct. I never trace, cause I actually want to get better at drawing, but I've basically been using it as a pinterest +.Whenever I see a pic from pinterest or elsewhere, but maybe the models im referencing only has a couple of pics, I'll just ask the ai to m",
+      "replies": 18,
+      "thread_id": 7950645,
+      "url": "https://boards.4chan.org/ic/thread/7950645",
+      "links": []
+    },
+    {
+      "source": "4chan",
+      "board": "mu",
+      "board_title": "Music",
+      "title": "",
+      "text": "Siouxsie's Birthday edition>What is Goth ?https://www.whatisgoth.com/index.html>Goth Music historyhttps://www.whatisgoth.com/pages/Goth-Music.html>Goth Musipediahttps://claireslair.net/https://darkwaveradio.net/genres/https://post-punk.com/>Goth fashion history/Guidehttps://www.whatisgoth.com/pages/Goth-Fashion.htmlhttps://underground-england.com/an-ultimate-guide-to-goth-subcultures/",
+      "replies": 0,
+      "thread_id": 130442171,
+      "url": "https://boards.4chan.org/mu/thread/130442171",
+      "links": []
+    },
+    {
+      "source": "4chan",
+      "board": "mu",
+      "board_title": "Music",
+      "title": "/gg/ - Guitar & Bass General",
+      "text": "TELE TUESDAY/BILLIE EILISH EDITIONPrevious: >>130418090SCALES:www.all-guitar-chords.com/scalesfretboard-navigator.com/GIT GUD with GUITAR:https://www.youtube.com/watch?v=Gg1L-sBIxnY&list=PLJwa8GA7pXCWAnIeTQyw_mvy1L7ryxxPH https://www.youtube.com/watch?v=_QCt3UBTS1Y ABSOLUTELY UNDERSTAND GUITAR PDF: web.archive.org/web/20251212114818if_/https://files.catbox.moe/qafrab.pdfEAR TRAINING:tonedear.comwww.tonegym.co/exercise/BACKING TRACK GENERATOR:www.onemotion.com/chord-player/www.musicca.com/chord-p",
+      "replies": 295,
+      "thread_id": 130430998,
+      "url": "https://boards.4chan.org/mu/thread/130430998",
+      "links": []
+    },
+    {
+      "source": "4chan",
+      "board": "mu",
+      "board_title": "Music",
+      "title": "Studying Russian, need russian Numetal suggestions",
+      "text": "I've been digging around youtube and spotify trying to find numetal thats got that sound I love. That sort of bouncy sound with heavy aggression and rage. With light electronic help. Or just heavy guitar. Something sort of like SOAD or some NIN titles (Burn, alot of the Broken album, Somewhat damaged). The best example of the type of music I'm looking for is \"CMH - ADRENALINE\" from this album.Any suggestions from you guys that sound similar or are in this genre in russian?",
+      "replies": 3,
+      "thread_id": 130436079,
+      "url": "https://boards.4chan.org/mu/thread/130436079",
+      "links": []
+    },
+    {
+      "source": "4chan",
+      "board": "mu",
+      "board_title": "Music",
+      "title": "New BOC - Waiting Room #16",
+      "text": "Fuck The Arts Desk Edition.----- NEW NEWSReviews are in after the listening parties around the world:Positive:>Clash9/10>musicOMH5/5>Uncut9/10>The Herald5/5>Exclaim8/10>Mojo4/5>Resident AdvisorRecommends>DJ MagRecommendsNegative:>The Guardian2/5>Financial Times2/5>The Arts Desk2/5Share more reviews when they come out.----- OLD NEWS>New music 7 May 2026The album opener, \"Introit\", and the 1st single of the album, \"Prophecy at 1420 MHz\", have dropped.Listen here: https://www.youtube.com/watch?v=74",
+      "replies": 93,
+      "thread_id": 130441123,
+      "url": "https://boards.4chan.org/mu/thread/130441123",
+      "links": []
+    },
+    {
+      "source": "4chan",
+      "board": "int",
+      "board_title": "International",
+      "title": "/sauna/",
+      "text": "Maailmann\u00e4yttelypainos",
+      "replies": 91,
+      "thread_id": 221853243,
+      "url": "https://boards.4chan.org/int/thread/221853243",
+      "links": []
+    },
+    {
+      "source": "4chan",
+      "board": "int",
+      "board_title": "International",
+      "title": "",
+      "text": "There's a civil war going on in /balk/.One Greek claims tall blond men are more attractive, while the other one argues that short Anatolian Greeks and Turks are more successful.What do you think?",
+      "replies": 9,
+      "thread_id": 221854038,
+      "url": "https://boards.4chan.org/int/thread/221854038",
+      "links": []
+    },
+    {
+      "source": "4chan",
+      "board": "3",
+      "board_title": "3DCG",
+      "title": "",
+      "text": "I found a neat trick on blender that allow me to imitate the soft shading on the breast, flat shading on the rest of the body, that I saw on AI low poly renders.:D",
+      "replies": 19,
+      "thread_id": 1028670,
+      "url": "https://boards.4chan.org/3/thread/1028670",
+      "links": []
+    },
+    {
+      "source": "4chan",
+      "board": "3",
+      "board_title": "3DCG",
+      "title": "/ag/ anatomy general",
+      "text": "I perfected the workflow required to pump these babies out within a few minutes, kek. Working the textures is easy with Gemini too but it's a pain to remove the watermark, kek. The only thing left is to automate the watermark removal and my AI powered 3D workflow will be finally ready for product. The assets for my harem game will be mostly done via these means. One issue is that the faces have to be done manually because of the sheer difference between the lolis like different hairstyles. I was",
+      "replies": 13,
+      "thread_id": 1028758,
+      "url": "https://boards.4chan.org/3/thread/1028758",
+      "links": []
+    },
+    {
+      "source": "4chan",
+      "board": "3",
+      "board_title": "3DCG",
+      "title": "AAAAAAIIIIIIIEEEEEEEEEEE #3",
+      "text": ">>1016792some old proggy for new bread",
+      "replies": 50,
+      "thread_id": 1026427,
+      "url": "https://boards.4chan.org/3/thread/1026427",
+      "links": []
+    },
+    {
+      "source": "4chan",
+      "board": "3",
+      "board_title": "3DCG",
+      "title": ">revit archicad modeling pipeline",
+      "text": "im planing on getting a building technology and mep certs, and learning the shit out of revit to get some autodesk certs, and looking for bim jobs, i just dont see myself living from 3d animu waifus all my life bros.any of you oldfags that are still here have any experience going out through this route?",
+      "replies": 0,
+      "thread_id": 1028998,
+      "url": "https://boards.4chan.org/3/thread/1028998",
+      "links": []
+    },
+    {
+      "source": "4chan",
+      "board": "3",
+      "board_title": "3DCG",
+      "title": "Fuck",
+      "text": "3d AI art is actually getting good....",
+      "replies": 4,
+      "thread_id": 1028987,
+      "url": "https://boards.4chan.org/3/thread/1028987",
+      "links": []
+    },
+    {
+      "source": "hackernews",
+      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
+      "url": "https://news.ycombinator.com/newsguidelines.html#generated",
+      "points": 4229,
+      "comments": 1668
+    },
+    {
+      "source": "hackernews",
+      "title": "Airfoil",
+      "url": "https://ciechanow.ski/airfoil/",
+      "points": 2544,
+      "comments": 296
+    },
+    {
+      "source": "hackernews",
+      "title": "Open source AI is the path forward",
+      "url": "https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/",
+      "points": 2360,
+      "comments": 887
+    },
+    {
+      "source": "hackernews",
+      "title": "My AI skeptic friends are all nuts",
+      "url": "https://fly.io/blog/youre-all-nuts/",
+      "points": 2356,
+      "comments": 2826
+    },
+    {
+      "source": "hackernews",
+      "title": "An AI agent published a hit piece on me",
+      "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
+      "points": 2346,
+      "comments": 951
+    },
+    {
+      "source": "hackernews",
+      "title": "Gemini AI",
+      "url": "https://deepmind.google/technologies/gemini/",
+      "points": 2135,
+      "comments": 1602
+    },
+    {
+      "source": "hackernews",
+      "title": "I believe there are entire companies right now under AI psychosis",
+      "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+      "points": 2105,
+      "comments": 1270
+    },
+    {
+      "source": "hackernews",
+      "title": "IDF killed Gaza aid workers at point blank range in 2025 massacre: Report",
+      "url": "https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot",
+      "points": 2084,
+      "comments": 997
+    },
+    {
+      "source": "hackernews",
+      "title": "Bypassing airport security via SQL injection",
+      "url": "https://ian.sh/tsa",
+      "points": 2004,
+      "comments": 440
+    },
+    {
+      "source": "hackernews",
+      "title": "Air Con: $1697 for an on/off switch",
+      "url": "https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/",
+      "points": 2001,
+      "comments": 478
+    },
+    {
+      "source": "hackernews",
+      "title": "Local AI needs to be the norm",
+      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+      "points": 1903,
+      "comments": 749
+    },
+    {
+      "source": "hackernews",
+      "title": "Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone",
+      "url": "https://ai.googleblog.com/2018/05/duplex-ai-system-for-natural-conversation.html",
+      "points": 1875,
+      "comments": 750
+    },
+    {
+      "source": "hackernews",
+      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+      "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+      "points": 1755,
+      "comments": 1143
+    },
+    {
+      "source": "hackernews",
+      "title": "Paper Airplane Designs",
+      "url": "https://www.foldnfly.com/",
+      "points": 1753,
+      "comments": 206
+    },
+    {
+      "source": "hackernews",
+      "title": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
+      "url": "https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/",
+      "points": 1697,
+      "comments": 744
+    },
+    {
+      "source": "hackernews",
+      "title": "The young, inexperienced engineers aiding DOGE",
+      "url": "https://www.wired.com/story/elon-musk-government-young-engineers/",
+      "points": 1683,
+      "comments": 2991
+    },
+    {
+      "source": "hackernews",
+      "title": "Zoom terms now allow training AI on user content with no opt out",
+      "url": "https://explore.zoom.us/en/terms/",
+      "points": 1581,
+      "comments": 511
+    },
+    {
+      "source": "hackernews",
+      "title": "Project Glasswing: Securing critical software for the AI era",
+      "url": "https://www.anthropic.com/glasswing",
+      "points": 1541,
+      "comments": 836
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: I'm an airline pilot \u2013 I built interactive graphs/globes of my flights",
+      "url": "https://jameshard.ing/pilot",
+      "points": 1539,
+      "comments": 197
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Airmash \u2013 Multiplayer Missile Warfare HTML5 Game",
+      "url": "https://airma.sh/",
+      "points": 1535,
+      "comments": 304
+    },
+    {
+      "source": "hackernews",
+      "title": "Can I run AI locally?",
+      "url": "https://www.canirun.ai/",
+      "points": 1520,
+      "comments": 353
+    },
+    {
+      "source": "hackernews",
+      "title": "Andrej Karpathy: Software in the era of AI [video]",
+      "url": "https://www.youtube.com/watch?v=LCEmiRjPEtQ",
+      "points": 1481,
+      "comments": 783
+    },
+    {
+      "source": "hackernews",
+      "title": "Contra Wirecutter on the IKEA air purifier",
+      "url": "https://dynomight.net/ikea-purifier/",
+      "points": 1474,
+      "comments": 705
+    },
+    {
+      "source": "hackernews",
+      "title": "Meta\u2019s AI smart glasses and data privacy concerns",
+      "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
+      "points": 1448,
+      "comments": 809
+    },
+    {
+      "source": "hackernews",
+      "title": "AirPods libreated from Apple's ecosystem",
+      "url": "https://github.com/kavishdevar/librepods",
+      "points": 1424,
+      "comments": 462
+    },
+    {
+      "source": "hackernews",
+      "title": "'Lavender': The AI machine directing Israel's bombing in Gaza",
+      "url": "https://www.972mag.com/lavender-ai-israeli-army-gaza/",
+      "points": 1418,
+      "comments": 1433
+    },
+    {
+      "source": "hackernews",
+      "title": "Amazon Prime Air",
+      "url": "http://www.amazon.com/b?ref_=tsm_1_tw_s_amzn_mx3eqp&node=8037720011",
+      "points": 1412,
+      "comments": 588
+    },
+    {
+      "source": "hackernews",
+      "title": "AI World Clocks",
+      "url": "https://clocks.brianmoore.com/",
+      "points": 1383,
+      "comments": 384
+    },
+    {
+      "source": "hackernews",
+      "title": "AI solves International Math Olympiad problems at silver medal level",
+      "url": "https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/",
+      "points": 1370,
+      "comments": 525
+    },
+    {
+      "source": "hackernews",
+      "title": "I am using AI to drop hats outside my window onto New Yorkers",
+      "url": "https://dropofahat.zone/",
+      "points": 1347,
+      "comments": 440
+    },
+    {
+      "source": "github",
+      "query": "AI tool",
+      "full_name": "Significant-Gravitas/AutoGPT",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "stars": 184581,
+      "language": "Python",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "topics": [
+        "agentic-ai",
+        "agents",
+        "ai",
+        "artificial-intelligence",
+        "autonomous-agents",
+        "claude",
+        "gpt",
+        "llama-api",
+        "llm",
+        "openai",
+        "python"
+      ]
+    },
+    {
+      "source": "github",
+      "query": "AI tool",
+      "full_name": "langflow-ai/langflow",
+      "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "stars": 148812,
+      "language": "Python",
+      "url": "https://github.com/langflow-ai/langflow",
+      "topics": [
+        "agents",
+        "chatgpt",
+        "generative-ai",
+        "large-language-models",
+        "multiagent",
+        "react-flow"
+      ]
+    },
+    {
+      "source": "github",
+      "query": "AI tool",
+      "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V",
+      "stars": 138354,
+      "language": null,
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "topics": [
+        "ai",
+        "bolt",
+        "cluely",
+        "copilot",
+        "cursor",
+        "cursorai",
+        "devin",
+        "github-copilot",
+        "lovable",
+        "open-source",
+        "perplexity",
+        "replit",
+        "system-prompts",
+        "trae",
+        "trae-ai",
+        "trae-ide",
+        "v0",
+        "vscode",
+        "windsurf",
+        "windsurf-ai"
+      ]
+    },
+    {
+      "source": "github",
+      "query": "AI tool",
+      "full_name": "fighting41love/funNLP",
+      "description": "\u4e2d\u82f1\u6587\u654f\u611f\u8bcd\u3001\u8bed\u8a00\u68c0\u6d4b\u3001\u4e2d\u5916\u624b\u673a/\u7535\u8bdd\u5f52\u5c5e\u5730/\u8fd0\u8425\u5546\u67e5\u8be2\u3001\u540d\u5b57\u63a8\u65ad\u6027\u522b\u3001\u624b\u673a\u53f7\u62bd\u53d6\u3001\u8eab\u4efd\u8bc1\u62bd\u53d6\u3001\u90ae\u7bb1\u62bd\u53d6\u3001\u4e2d\u65e5\u6587\u4eba\u540d\u5e93\u3001\u4e2d\u6587\u7f29\u5199\u5e93\u3001\u62c6\u5b57\u8bcd\u5178\u3001\u8bcd\u6c47\u60c5\u611f\u503c\u3001\u505c\u7528\u8bcd\u3001\u53cd\u52a8\u8bcd\u8868\u3001\u66b4\u6050\u8bcd\u8868\u3001\u7e41\u7b80\u4f53\u8f6c\u6362\u3001\u82f1\u6587\u6a21\u62df\u4e2d\u6587\u53d1\u97f3\u3001\u6c6a\u5cf0\u6b4c\u8bcd\u751f\u6210\u5668\u3001\u804c\u4e1a\u540d\u79f0\u8bcd\u5e93\u3001\u540c\u4e49\u8bcd\u5e93\u3001\u53cd\u4e49\u8bcd\u5e93\u3001\u5426\u5b9a\u8bcd\u5e93\u3001\u6c7d\u8f66\u54c1\u724c\u8bcd\u5e93\u3001\u6c7d\u8f66\u96f6\u4ef6\u8bcd\u5e93\u3001\u8fde\u7eed\u82f1\u6587\u5207\u5272\u3001\u5404\u79cd\u4e2d\u6587\u8bcd\u5411\u91cf\u3001\u516c\u53f8\u540d\u5b57\u5927\u5168\u3001\u53e4\u8bd7\u8bcd\u5e93\u3001IT\u8bcd\u5e93\u3001\u8d22\u7ecf\u8bcd\u5e93\u3001\u6210\u8bed\u8bcd\u5e93\u3001\u5730\u540d\u8bcd\u5e93\u3001\u5386\u53f2\u540d",
+      "stars": 80888,
+      "language": "Python",
+      "url": "https://github.com/fighting41love/funNLP",
+      "topics": []
+    },
+    {
+      "source": "github",
+      "query": "AI tool",
+      "full_name": "bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",
+      "stars": 69751,
+      "language": "Python",
+      "url": "https://github.com/bytedance/deer-flow",
+      "topics": [
+        "agent",
+        "agentic",
+        "agentic-framework",
+        "agentic-workflow",
+        "ai",
+        "ai-agents",
+        "deep-research",
+        "harness",
+        "langchain",
+        "langgraph",
+        "langmanus",
+        "llm",
+        "multi-agent",
+        "nodejs",
+        "podcast",
+        "python",
+        "superagent",
+        "typescript"
+      ]
+    },
+    {
+      "source": "github",
+      "query": "AI tool",
+      "full_name": "ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "stars": 62088,
+      "language": "Python",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "antigravity",
+        "automation",
+        "claude",
+        "claude-code",
+        "codex",
+        "composio",
+        "cursor",
+        "developer-tools",
+        "gemini-cli",
+        "mcp",
+        "openai-codex",
+        "rube",
+        "saas",
+        "skill",
+        "workflow-automation"
+      ]
+    },
+    {
+      "source": "github",
+      "query": "AI tool",
+      "full_name": "dbeaver/dbeaver",
+      "description": "Free universal database tool and SQL client",
+      "stars": 50268,
+      "language": "Java",
+      "url": "https://github.com/dbeaver/dbeaver",
+      "topics": [
+        "ai",
+        "database",
+        "databricks",
+        "db2",
+        "dbeaver",
+        "erd",
+        "gui",
+        "java",
+        "jdbc",
+        "mysql",
+        "nosql",
+        "oracle",
+        "postgresql",
+        "redshift",
+        "snowflake",
+        "sql",
+        "sqlite",
+        "sqlserver"
+      ]
+    },
+    {
+      "source": "github",
+      "query": "AI tool",
+      "full_name": "zhayujie/CowAgent",
+      "description": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, autonomously grows with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install ",
+      "stars": 44892,
+      "language": "Python",
+      "url": "https://github.com/zhayujie/CowAgent",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "chatgpt-on-wechat",
+        "claude",
+        "claude-code",
+        "codex",
+        "cowagent",
+        "deepseek",
+        "harness",
+        "llm",
+        "mcp",
+        "multi-agent",
+        "openai",
+        "openclaw",
+        "skills"
+      ]
+    },
+    {
+      "source": "github",
+      "query": "AI tool",
+      "full_name": "HKUDS/nanobot",
+      "description": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
+      "stars": 43251,
+      "language": "Python",
+      "url": "https://github.com/HKUDS/nanobot",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "anthropic",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "codex",
+        "codex-cli",
+        "llm",
+        "nanobot",
+        "openai",
+        "openclaw"
+      ]
+    },
+    {
+      "source": "github",
+      "query": "AI tool",
+      "full_name": "ToolJet/ToolJet",
+      "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents \ud83d\ude80",
+      "stars": 37936,
+      "language": "JavaScript",
+      "url": "https://github.com/ToolJet/ToolJet",
+      "topics": [
+        "ai-app-builder",
+        "docker",
+        "hacktoberfest",
+        "internal-applications",
+        "internal-project",
+        "internal-tool",
+        "internal-tools",
+        "javascript",
+        "kubernetes",
+        "low-code",
+        "low-code-development-platform",
+        "low-code-framework",
+        "no-code",
+        "nodejs",
+        "reactjs",
+        "self-hosted",
+        "typescript",
+        "web-development-tools",
+        "workflow-automation"
+      ]
+    },
+    {
+      "source": "github",
+      "query": "machine learning",
+      "full_name": "tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "stars": 195279,
+      "language": "C++",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "topics": [
+        "deep-learning",
+        "deep-neural-networks",
+        "distributed",
+        "machine-learning",
+        "ml",
+        "neural-network",
+        "python",
+        "tensorflow"
+      ]
+    },
+    {
+      "source": "github",
+      "query": "machine learning",
+      "full_name": "huggingface/transformers",
+      "description": "\ud83e\udd17 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "stars": 160987,
+      "language": "Python",
+      "url": "https://github.com/huggingface/transformers",
+      "topics": [
+        "audio",
+        "deep-learning",
+        "deepseek",
+        "gemma",
+        "glm",
+        "hacktoberfest",
+        "llm",
+        "machine-learning",
+        "model-hub",
+        "natural-language-processing",
+        "nlp",
+        "pretrained-models",
+        "python",
+        "pytorch",
+        "pytorch-transformers",
+        "qwen",
+        "speech-recognition",
+        "transformer",
+        "vlm"
+      ]
+    },
+    {
+      "source": "github",
+      "query": "machine learning",
+      "full_name": "microsoft/ML-For-Beginners",
+      "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+      "stars": 85989,
+      "language": "Jupyter Notebook",
+      "url": "https://github.com/microsoft/ML-For-Beginners",
+      "topics": [
+        "data-science",
+        "education",
+        "machine-learning",
+        "machine-learning-algorithms",
+        "machinelearning",
+        "machinelearning-python",
+        "microsoft-for-beginners",
+        "ml",
+        "python",
+        "r",
+        "scikit-learn",
+        "scikit-learn-python"
+      ]
+    },
+    {
+      "source": "github",
+      "query": "machine learning",
+      "full_name": "josephmisiti/awesome-machine-learning",
+      "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+      "stars": 72587,
+      "language": "Python",
+      "url": "https://github.com/josephmisiti/awesome-machine-learning",
+      "topics": []
+    },
+    {
+      "source": "github",
+      "query": "machine learning",
+      "full_name": "scikit-learn/scikit-learn",
+      "description": "scikit-learn: machine learning in Python",
+      "stars": 66182,
+      "language": "Python",
+      "url": "https://github.com/scikit-learn/scikit-learn",
+      "topics": [
+        "data-analysis",
+        "data-science",
+        "machine-learning",
+        "python",
+        "statistics"
+      ]
+    },
+    {
+      "source": "github",
+      "query": "machine learning",
+      "full_name": "gradio-app/gradio",
+      "description": "Build and share delightful machine learning apps, all in Python. \ud83c\udf1f Star to support our work!",
+      "stars": 42722,
+      "language": "Python",
+      "url": "https://github.com/gradio-app/gradio",
+      "topics": [
+        "data-analysis",
+        "data-science",
+        "data-visualization",
+        "deep-learning",
+        "deploy",
+        "gradio",
+        "gradio-interface",
+        "interface",
+        "machine-learning",
+        "models",
+        "python",
+        "python-notebook",
+        "ui",
+        "ui-components"
+      ]
+    },
+    {
+      "source": "github",
+      "query": "machine learning",
+      "full_name": "TheAlgorithms/C-Plus-Plus",
+      "description": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
+      "stars": 34296,
+      "language": "C++",
+      "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
+      "topics": [
+        "algorithm",
+        "algorithm-competitions",
+        "algorithms-implemented",
+        "artificial-intelligence-algorithms",
+        "computer-science",
+        "cpp",
+        "data-structures",
+        "educational",
+        "instructor-materials",
+        "interview-preparation",
+        "interview-questions",
+        "machine-learning",
+        "machine-learning-algorithms",
+        "mathematics",
+        "search",
+        "sort"
+      ]
+    },
+    {
+      "source": "github",
+      "query": "machine learning",
+      "full_name": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+      "description": "500 AI Machine learning Deep learning Computer vision NLP Projects with code",
+      "stars": 33863,
+      "language": null,
+      "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+      "topics": [
+        "artificial-intelligence",
+        "artificial-intelligence-projects",
+        "awesome",
+        "computer-vision",
+        "computer-vision-project",
+        "data-science",
+        "deep-learning",
+        "deep-learning-project",
+        "machine-learning",
+        "machine-learning-projects",
+        "nlp",
+        "nlp-projects",
+        "python"
+      ]
+    },
+    {
+      "source": "github",
+      "query": "machine learning",
+      "full_name": "lutzroeder/netron",
+      "description": "Visualizer for neural network, deep learning and machine learning models",
+      "stars": 32985,
+      "language": "JavaScript",
+      "url": "https://github.com/lutzroeder/netron",
+      "topics": [
+        "ai",
+        "coreml",
+        "deep-learning",
+        "deeplearning",
+        "keras",
+        "machine-learning",
+        "machinelearning",
+        "ml",
+        "neural-network",
+        "numpy",
+        "onnx",
+        "pytorch",
+        "safetensors",
+        "tensorflow",
+        "tensorflow-lite",
+        "visualizer"
+      ]
+    },
+    {
+      "source": "github",
+      "query": "LLM inference",
+      "full_name": "ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "stars": 113302,
+      "language": "C++",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "topics": [
+        "ggml"
+      ]
+    },
+    {
+      "source": "github",
+      "query": "LLM inference",
+      "full_name": "vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "stars": 81150,
+      "language": "Python",
+      "url": "https://github.com/vllm-project/vllm",
+      "topics": [
+        "amd",
+        "blackwell",
+        "cuda",
+        "deepseek",
+        "deepseek-v3",
+        "gpt",
+        "gpt-oss",
+        "inference",
+        "kimi",
+        "llama",
+        "llm",
+        "llm-serving",
+        "model-serving",
+        "moe",
+        "openai",
+        "pytorch",
+        "qwen",
+        "qwen3",
+        "tpu",
+        "transformer"
+      ]
+    },
+    {
+      "source": "github",
+      "query": "LLM inference",
+      "full_name": "microsoft/BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
+      "stars": 39116,
+      "language": "Python",
+      "url": "https://github.com/microsoft/BitNet",
+      "topics": []
+    },
+    {
+      "source": "github",
+      "query": "LLM inference",
+      "full_name": "sgl-project/sglang",
+      "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+      "stars": 28346,
+      "language": "Python",
+      "url": "https://github.com/sgl-project/sglang",
+      "topics": [
+        "attention",
+        "blackwell",
+        "cuda",
+        "deepseek",
+        "diffusion",
+        "glm",
+        "gpt-oss",
+        "inference",
+        "llama",
+        "llm",
+        "minimax",
+        "moe",
+        "qwen",
+        "qwen-image",
+        "reinforcement-learning",
+        "transformer",
+        "vlm",
+        "wan"
+      ]
+    },
+    {
+      "source": "github",
+      "query": "LLM inference",
+      "full_name": "cheahjs/free-llm-api-resources",
+      "description": "A list of free LLM inference resources accessible via API.",
+      "stars": 22383,
+      "language": "Python",
+      "url": "https://github.com/cheahjs/free-llm-api-resources",
+      "topics": [
+        "ai",
+        "claude",
+        "gemini",
+        "llama",
+        "llm",
+        "openai"
+      ]
+    },
+    {
+      "source": "github",
+      "query": "LLM inference",
+      "full_name": "lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "stars": 18350,
+      "language": "Jupyter Notebook",
+      "url": "https://github.com/lyogavin/airllm",
+      "topics": [
+        "chinese-llm",
+        "chinese-nlp",
+        "finetune",
+        "generative-ai",
+        "instruct-gpt",
+        "instruction-set",
+        "llama",
+        "llm",
+        "lora",
+        "open-models",
+        "open-source",
+        "open-source-models",
+        "qlora"
+      ]
+    },
+    {
+      "source": "github",
+      "query": "LLM inference",
+      "full_name": "meta-llama/llama-cookbook",
+      "description": "Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f",
+      "stars": 18333,
+      "language": "Jupyter Notebook",
+      "url": "https://github.com/meta-llama/llama-cookbook",
+      "topics": [
+        "ai",
+        "finetuning",
+        "langchain",
+        "llama",
+        "llama2",
+        "llm",
+        "machine-learning",
+        "python",
+        "pytorch",
+        "vllm"
+      ]
+    },
+    {
+      "source": "github",
+      "query": "LLM inference",
+      "full_name": "mlc-ai/web-llm",
+      "description": "High-performance In-browser LLM Inference Engine ",
+      "stars": 18070,
+      "language": "TypeScript",
+      "url": "https://github.com/mlc-ai/web-llm",
+      "topics": [
+        "chatgpt",
+        "deep-learning",
+        "language-model",
+        "llm",
+        "tvm",
+        "webgpu",
+        "webml"
+      ]
+    },
+    {
+      "source": "github",
+      "query": "LLM inference",
+      "full_name": "stas00/ml-engineering",
+      "description": "Machine Learning Engineering Open Book",
+      "stars": 17991,
+      "language": "Python",
+      "url": "https://github.com/stas00/ml-engineering",
+      "topics": [
+        "ai",
+        "debugging",
+        "gpus",
+        "inference",
+        "large-language-models",
+        "llm",
+        "machine-learning",
+        "machine-learning-engineering",
+        "mlops",
+        "network",
+        "pytorch",
+        "scalability",
+        "slurm",
+        "storage",
+        "training",
+        "transformers"
+      ]
+    },
+    {
+      "source": "github",
+      "query": "AI agent",
+      "full_name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 169762,
+      "language": "Python",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "anthropic",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "clawdbot",
+        "codex",
+        "hermes",
+        "hermes-agent",
+        "llm",
+        "moltbot",
+        "nous-research",
+        "openai",
+        "openclaw"
+      ]
+    },
+    {
+      "source": "github",
+      "query": "AI agent",
+      "full_name": "Snailclimb/JavaGuide",
+      "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
+      "stars": 155915,
+      "language": "JavaScript",
+      "url": "https://github.com/Snailclimb/JavaGuide",
+      "topics": [
+        "agent",
+        "ai",
+        "context-engineering",
+        "deepseek",
+        "interview",
+        "java",
+        "mcp",
+        "mysql",
+        "redis",
+        "redisson",
+        "skills",
+        "springai",
+        "system-design"
+      ]
+    },
+    {
+      "source": "github",
+      "query": "AI agent",
+      "full_name": "langgenius/dify",
+      "description": "Production-ready platform for agentic workflow development.",
+      "stars": 142859,
+      "language": "TypeScript",
+      "url": "https://github.com/langgenius/dify",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "agentic-framework",
+        "agentic-workflow",
+        "ai",
+        "automation",
+        "gemini",
+        "genai",
+        "gpt",
+        "gpt-4",
+        "llm",
+        "low-code",
+        "mcp",
+        "nextjs",
+        "no-code",
+        "openai",
+        "orchestration",
+        "python",
+        "rag",
+        "workflow"
+      ]
+    },
+    {
+      "source": "github",
+      "query": "AI agent",
+      "full_name": "langchain-ai/langchain",
+      "description": "The agent engineering platform.",
+      "stars": 137775,
+      "language": "Python",
+      "url": "https://github.com/langchain-ai/langchain",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "anthropic",
+        "chatgpt",
+        "deepagents",
+        "enterprise",
+        "framework",
+        "gemini",
+        "generative-ai",
+        "langchain",
+        "langgraph",
+        "llm",
+        "multiagent",
+        "open-source",
+        "openai",
+        "pydantic",
+        "python",
+        "rag",
+        "typescript"
+      ]
+    },
+    {
+      "source": "github",
+      "query": "AI agent",
+      "full_name": "firecrawl/firecrawl",
+      "description": "\ud83d\udd25 Search, scrape, and clean the web for AI agents.",
+      "stars": 125082,
+      "language": "TypeScript",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-crawler",
+        "ai-scraping",
+        "ai-search",
+        "crawler",
+        "data-extraction",
+        "html-to-markdown",
+        "llm",
+        "markdown",
+        "scraper",
+        "scraping",
+        "web-crawler",
+        "web-data",
+        "web-data-extraction",
+        "web-scraper",
+        "web-scraping",
+        "web-search",
+        "webscraping"
+      ]
+    },
+    {
+      "source": "github",
+      "query": "AI agent",
+      "full_name": "Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run \u2014 clone, customize, ship.",
+      "stars": 111877,
+      "language": "Python",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "topics": [
+        "agents",
+        "llms",
+        "python",
+        "rag"
+      ]
+    },
+    {
+      "source": "github",
+      "query": "AI agent",
+      "full_name": "msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
+      "stars": 105494,
+      "language": "Shell",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "topics": []
+    },
+    {
+      "source": "github",
+      "query": "AI agent",
+      "full_name": "google-gemini/gemini-cli",
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "stars": 104654,
+      "language": "TypeScript",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "cli",
+        "gemini",
+        "gemini-api",
+        "mcp-client",
+        "mcp-server"
+      ]
+    }
+  ]
+}

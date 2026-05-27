@@ -143,3 +143,52 @@ _(Coming soon — being populated with deep research data.)_
 | [workflow-builder-template](https://github.com/vercel-labs/workflow-builder-template) | Visual AI workflow automation platform | ⭐1134 | TypeScript | 2026-05-25 |
 | [heym](https://github.com/heymrun/heym) | Self-hosted AI workflow automation platform with visual canvas, agents, RAG, HITL, MCP, and observability in one runtime | ⭐447 | Python | 2026-05-26 |
 | [agentic-config](https://github.com/WaterplanAI/agentic-config) | Project-agnostic, composable AI workflow automation via pi packages and Claude Code plugins. | ⭐31 | Python | 2026-05-25 |
+| [ComfyUI-AnimaTool](https://github.com/Moeblack/ComfyUI-AnimaTool) | AI Tool Use API for Anima anime/illustration image generation. Supports MCP Server, HTTP API, and CLI. | ⭐100 | Python | 2026-05-26 |
+| [JSONSchema](https://github.com/mattt/JSONSchema) | A Swift library for working with JSON Schema definitions — especially for AI tool use. | ⭐56 | Swift | 2026-03-24 |
+| [ai-sql](https://github.com/theswerd/ai-sql) | AI Tool Use Utility for letting your AI query SQL | ⭐40 | TypeScript | 2025-11-13 |
+| [autoware_ai_planning](https://github.com/autowarefoundation/autoware_ai_planning) |  | ⭐225 | C++ | 2026-04-29 |
+| [oh-myusage](https://github.com/Four-JJJJ/oh-myusage) | macOS menu bar app to monitor AI plan limits, relay balances, and local Codex accounts | ⭐172 | Swift | 2026-05-24 |
+| [claude-usage-systray](https://github.com/adntgv/claude-usage-systray) | macOS menu bar app showing real-time Claude.ai plan usage (session %, weekly %, Sonnet %) | ⭐100 | Swift | 2026-05-21 |
+| [planning-wiki](https://github.com/nergmada/planning-wiki) | By the community, for everyone. Planning.wiki is the online guide to AI Planning | ⭐87 | SCSS | 2026-05-20 |
+| [AIND-Planning](https://github.com/udacity/AIND-Planning) |  | ⭐81 | Python | 2026-04-07 |
+| [ClaudeMeter](https://github.com/eddmann/ClaudeMeter) | macOS menu bar app for tracking Claude.ai plan usage in real-time. Monitor 5-hour session, 7-day weekly, and Sonnet-spec | ⭐72 | Swift | 2026-05-26 |
+| [tarski](https://github.com/aig-upf/tarski) | Tarski - An AI Planning Modeling Framework | ⭐71 | Python | 2026-03-30 |
+| [skeeper](https://github.com/compozy/skeeper) | Version your spec artifacts — PRDs, tech specs, ADRs, AI plans — in a sidecar Git repository, without polluting your mai | ⭐67 | Go | 2026-05-23 |
+| [chainreactor](https://github.com/ucsb-seclab/chainreactor) | ChainReactor is a research project that leverages AI planning to discover exploitation chains for privilege escalation o | ⭐61 | PDDL | 2026-04-17 |
+| [comp90054-cheat](https://github.com/ChrisLinn/comp90054-cheat) | COMP90054 AI Planning for Autonomy, 2017_sem2 Cheat Sheet | ⭐36 | Python | 2025-10-07 |
+| [playwright-mcp](https://github.com/microsoft/playwright-mcp) | Playwright MCP server | ⭐33094 | TypeScript | 2026-05-27 |
+| [github-mcp-server](https://github.com/github/github-mcp-server) | GitHub's official MCP Server | ⭐30211 | Go | 2026-05-27 |
+| [fastmcp](https://github.com/PrefectHQ/fastmcp) | 🚀 The fast, Pythonic way to build MCP servers and clients. | ⭐25339 | Python | 2026-05-27 |
+| [mcp-toolbox](https://github.com/googleapis/mcp-toolbox) | MCP Toolbox for Databases is an open source MCP server for databases. | ⭐15364 | Go | 2026-05-27 |
+| [Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) | MCP server to provide Figma layout information to AI coding agents like Cursor | ⭐14887 | TypeScript | 2026-05-27 |
+| [mcp-chrome](https://github.com/hangwin/mcp-chrome) | Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser funct | ⭐11728 | TypeScript | 2026-05-27 |
+| [pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server) | The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / | ⭐11565 | Python | 2026-05-27 |
+| [mcp-use](https://github.com/mcp-use/mcp-use) | The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents. | ⭐10005 | TypeScript | 2026-05-27 |
+| [inspector](https://github.com/modelcontextprotocol/inspector) | Visual testing tool for MCP servers | ⭐9887 | TypeScript | 2026-05-27 |
+| [mcp](https://github.com/awslabs/mcp) | Open source MCP Servers for AWS | ⭐9137 | Python | 2026-05-27 |
+| [GhidraMCP](https://github.com/LaurieWired/GhidraMCP) | MCP Server for Ghidra | ⭐9032 | Java | 2026-05-27 |
+| [hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) | HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ | ⭐8961 | Python | 2026-05-27 |
+| [kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) | A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information  | ⭐8398 | Rust | 2026-05-27 |
+| [git-mcp](https://github.com/idosal/git-mcp) | Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project | ⭐8102 | TypeScript | 2026-05-27 |
+| [webiny-js](https://github.com/webiny/webiny-js) | Open-source, self-hosted CMS platform on AWS serverless (Lambda, DynamoDB, S3). TypeScript framework with multi-tenancy, | ⭐7981 | TypeScript | 2026-05-27 |
+| [Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) | MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients | ⭐7162 |  | 2026-05-27 |
+| [registry](https://github.com/modelcontextprotocol/registry) | A community driven registry service for Model Context Protocol (MCP) servers. | ⭐6863 | Go | 2026-05-27 |
+| [mcp](https://github.com/BrowserMCP/mcp) | Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser | ⭐6572 | TypeScript | 2026-05-27 |
+| [funNLP](https://github.com/fighting41love/funNLP) | 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库 | ⭐80888 | Python | 2026-05-27 |
+| [MiroFish](https://github.com/666ghj/MiroFish) | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 | ⭐62768 | Python | 2026-05-27 |
+| [hello-agents](https://github.com/datawhalechina/hello-agents) | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 | ⭐53955 | Python | 2026-05-27 |
+| [TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 | ⭐27421 | Python | 2026-05-27 |
+| [Some-Many-Books](https://github.com/Dujltqzv/Some-Many-Books) | 个人收藏书籍列表　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 | ⭐19838 |  | 2026-05-27 |
+| [Books-Free-Books](https://github.com/lTbgykio/Books-Free-Books) | 免费书籍汇总。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 | ⭐17470 |  | 2026-05-27 |
+| [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 🎭 211 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 16 种工具，覆盖工程/设计/营销/金融等 18 个部门。含 46 个中国市场原创智能体（小红书/抖音/ | ⭐13105 | Shell | 2026-05-27 |
+| [DeepAudit](https://github.com/lintsinghua/DeepAudit) | DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。支持中转站。​让安全不再 | ⭐6205 | Python | 2026-05-27 |
+| [ruoyi-ai](https://github.com/ageerle/ruoyi-ai) | 面向企业级市场的一站式AI应用开发框架，支持多厂商大模型统一接入与管理，具备安全可控的企业知识库与高精度检索优化能力，提供可视化流程编排、自主决策智能体与多智能体协同调度，兼容主流 Agent Skill 协议，帮助企业与开发者零门槛快速构 | ⭐5310 | Java | 2026-05-27 |
+| [x86-bare-metal-examples](https://github.com/cirosantilli/x86-bare-metal-examples) | Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and real h | ⭐5292 | Assembly | 2026-05-27 |
+| [Agriculture_KnowledgeGraph](https://github.com/qq547276542/Agriculture_KnowledgeGraph) | 农业知识图谱(AgriKG)：农业领域的信息检索，命名实体识别，关系抽取，智能问答，辅助决策 | ⭐4368 | Python | 2026-05-26 |
+| [Fengshenbang-LM](https://github.com/IDEA-CCNL/Fengshenbang-LM) | Fengshenbang-LM(封神榜大模型)是IDEA研究院认知计算与自然语言研究中心主导的大模型开源体系，成为中文AIGC和认知智能的基础设施。 | ⭐4133 | Python | 2026-05-26 |
+| [PromptX](https://github.com/Deepractice/PromptX) | PromptX · 领先的AI 智能体上下文平台 ｜ PromptX · Leading AI Agent Context Platform | ⭐3669 | TypeScript | 2026-05-27 |
+| [EasyPhotos](https://github.com/HuanTanSheng/EasyPhotos) | 兼容android11、android 10，相机拍照，相册选择(单选/多选)，文件夹图片选择(单选/多选)，视频选择，视频图片多类型复杂选择，各界面根据状态栏颜色智能适配状态栏字体颜色变色为深色或浅色，根据使用场景智能适配沉浸式状态栏，内 | ⭐3026 | Java | 2026-05-07 |
+| [china-dictatorship](https://github.com/cirosantilli/china-dictatorship) | 反中共政治宣传库。Anti Chinese government propaganda. 住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功  | ⭐3015 | HTML | 2026-05-27 |
+| [openocta](https://github.com/openocta/openocta) | 开源企业级智能体，专为中国团队打造 | ⭐2679 | TypeScript | 2026-05-27 |
+| [Lealone](https://github.com/lealone/Lealone) | 能安全适用于氛围编程和企业应用的全栈自进化通用智能体 | ⭐2565 | Java | 2026-05-27 |
+| [AingDesk](https://github.com/aingdesk/AingDesk) | AingDesk是一款简单好用的AI助手，支持知识库、模型API、分享、联网搜索、智能体，它还在飞快成长中。 AingDesk is a simple and easy-to-use AI assistant that supports k | ⭐2506 | TypeScript | 2026-05-25 |

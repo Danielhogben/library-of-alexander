@@ -44,3 +44,6 @@ _(Coming soon — being populated with deep research data.)_
 | [community](https://github.com/cosen1024/community) | 一个仿照牛客网实现的讨论社区，不仅实现了基本的注册，登录，发帖，评论，点赞，回复功能，同时使用前缀树实现敏感词过滤，使用wkhtmltopdf生成长图和pdf，实现网站UV和DAU统计，并将用户头像等信息存于七牛云服务器。 | ⭐466 | Java | 2026-05-01 |
 | [1](https://github.com/pxvr-official/1) | 無許諾配信 企業理念剽窃 動物の森収益化 大神ミオ権利者削除 戌神権利侵害発言 常闇トワ炎上 夜空メルストーカー被害 建築王サポーター放置 赤十字マーク 魔乃アロエ卒業 一つの中國支持声明 大空昴3Dライブ 無限延期清掃員職業差別 日清コラ | ⭐466 |  | 2026-05-26 |
 | [AI-Vtuber](https://github.com/whoiswennie/AI-Vtuber) | 一个高自由度的端到端的可定制AI-VTuber。支持对接哔哩哔哩直播间，以智谱API作为语言基座模型，拥有意图识别、长短期记忆（直接记忆和联想记忆），支持搭建认知库、歌曲作品库，接入了当前热门的一些语音转换、语音合成、图像生成、数字人驱动项 | ⭐446 | Python | 2026-05-25 |
+| [GPTDiscord](https://github.com/Kav-K/GPTDiscord) | A robust, all-in-one GPT interface for Discord. ChatGPT-style conversations, image generation, AI-moderation, custom ind | ⭐1855 | Python | 2026-05-25 |
+| [flat](https://github.com/ddPn08/flat) | All-in-one image generation AI (to be...) | ⭐72 | TypeScript | 2026-04-16 |
+| [DatasetEditor](https://github.com/Jelosus2/DatasetEditor) | A tag-based dataset editor for image generation AI | ⭐33 | Vue | 2026-05-15 |

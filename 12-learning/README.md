@@ -114,3 +114,46 @@ _(Coming soon — being populated with deep research data.)_
 | [YiVal](https://github.com/YiVal/YiVal) | Your Automatic Prompt Engineering Assistant for GenAI Applications | ⭐2130 | Python | 2026-05-16 |
 | [ChatGPT-Prompt-Engineering-for-Developers-in-Chinese](https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese) | 《面向开发者的 ChatGPT 提示词工程》非官方版中英双语字幕 Unofficial subtitles of "ChatGPT Prompt Engineering for Developers" | ⭐2105 | Jupyter Notebook | 2026-05-26 |
 | [StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook) | How do we integrate AI generation tools into actual work? | 关于 Ai 绘画的Wiki | Wiki about Ai painting | Prompts Engineering | ⭐1972 | HTML | 2026-05-23 |
+| [turkce-yapay-zeka-terimleri](https://github.com/deeplearningturkiye/turkce-yapay-zeka-terimleri) | Çalışmalarınızda kullanabileceğiniz Türkçe Yapay Zeka Terimleri. | ⭐364 |  | 2026-05-14 |
+| [uretken-yapay-zeka-atolyesi](https://github.com/muffafa/uretken-yapay-zeka-atolyesi) |  | ⭐175 |  | 2026-04-09 |
+| [7-ADIMLIK-YAPAY-ZEKA-YOLCULUGU](https://github.com/dataiteam/7-ADIMLIK-YAPAY-ZEKA-YOLCULUGU) | 7 ADIMLIK YAPAY ZEKA YOLCULUGU | ⭐172 | Jupyter Notebook | 2026-05-17 |
+| [havacilikta-yapay-zeka-yarismasi](https://github.com/TEKNOFEST-YARISMALAR/havacilikta-yapay-zeka-yarismasi) |  | ⭐127 | Python | 2026-05-15 |
+| [IBB_Yapay_Zeka_Kampi](https://github.com/ataozarslan/IBB_Yapay_Zeka_Kampi) | İBB Yapay Zeka Kampı eğitiminde kullanılan ders materyallerini bu adreste bulabilirsiniz. | ⭐106 | Jupyter Notebook | 2026-05-25 |
+| [DeepCon18](https://github.com/deeplearningturkiye/DeepCon18) | DeepCon'18 Yapay Zeka Konferansı | ⭐96 | Jupyter Notebook | 2025-11-27 |
+| [yapayzeka](https://github.com/acetinkaya/yapayzeka) | Yapay Zeka (YZ) Uygulamaları | ⭐88 |  | 2026-01-30 |
+| [sinkaf](https://github.com/eonurk/sinkaf) | Türkçe küfürlü içerikleri bulan bir yapay zeka kütüphanesi / An ML library for profanity detection in Turkish sentences | ⭐81 | Python | 2026-05-13 |
+| [classnotes](https://github.com/burakbayramli/classnotes) | ODE, Çok Değişkenli Calculus, Lineer Cebir, Hesapsal Bilim, İstatistik, Fonksiyonel Analiz, Yapay Zeka ders notlari. Lec | ⭐81 | HTML | 2026-05-26 |
+| [openai-dotnet-turkish-book](https://github.com/KardelRuveyda/openai-dotnet-turkish-book) | Bu kitap, OpenAI'nin resmi .NET API kütüphanesi olan openai-dotnet ile yapay zeka projelerinde nasıl etkin bir şekilde ç | ⭐71 |  | 2026-03-17 |
+| [Veri-Analizi-Okulu_HSB-Modulu_Yapay-Zeka_2025-2026](https://github.com/fuatkina/Veri-Analizi-Okulu_HSB-Modulu_Yapay-Zeka_2025-2026) |  | ⭐69 | Jupyter Notebook | 2026-05-12 |
+| [Yapay-Zeka](https://github.com/BilgisayarKavramlari/Yapay-Zeka) | Yapay Zeka projeleri için örnek kodlar. | ⭐60 |  | 2026-02-22 |
+| [uretken-yapayzeka-chatbot-gelistirme-temelleri](https://github.com/KardelRuveyda/uretken-yapayzeka-chatbot-gelistirme-temelleri) | Sektörde Kampüs Kapsamında Üretken Yapay Zeka Yardımı ile Chatbot Geliştirme Temelleri dersinin notlarını bu repository  | ⭐60 |  | 2026-05-23 |
+| [YapayZekaMatematikKaynakOnerisi](https://github.com/omeralierdemir/YapayZekaMatematikKaynakOnerisi) | Bu dosyada daha önce kullandığım ve kullanmaya devam ettiğim yapay zeka (genel olarak deep learning) ve yapay zeka matem | ⭐53 |  | 2025-11-25 |
+| [Teknofest-Ulasimda-Yapay-Zeka-Veri-Seti](https://github.com/sezer-muhammed/Teknofest-Ulasimda-Yapay-Zeka-Veri-Seti) | This project was developed for the 2022 Teknofest Artificial Intelligence in Transportation Competition. It focuses on d | ⭐51 |  | 2026-04-21 |
+| [100-ornekle-yapay-zeka-ile-gorsel-tasarimi](https://github.com/aokocax/100-ornekle-yapay-zeka-ile-gorsel-tasarimi) | 100 Örnekle Yapay Zeka ile Görsel Tasarımı | ⭐47 |  | 2026-04-19 |
+| [KaVe](https://github.com/uzay00/KaVe) | Sarıyer Akademi Yapay Zeka II | ⭐38 | Jupyter Notebook | 2025-03-04 |
+| [awesome-artificial-intelligence-tools](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools) | Birçok alanda özelliklerinden yararlanabileceğiniz yapay zeka araçları  | ⭐36 |  | 2026-04-23 |
+| [ml-yearning-vi](https://github.com/mlbvn/ml-yearning-vi) | Một cuốn sách tập trung vào hướng dẫn cách cấu trúc các dự án Học Máy và phân tích cách làm cho các thuật toán Học Máy h | ⭐1089 | Python | 2026-05-27 |
+| [handson-ml2-vn](https://github.com/mlbvn/handson-ml2-vn) | Jupyter Notebook cung cấp các kiến thức cơ bản về Học Máy và Học Sâu bằng Python với Scikit-Learn, Keras, và TensorFlow  | ⭐223 | Jupyter Notebook | 2026-05-21 |
+| [Some-Many-Books](https://github.com/Dujltqzv/Some-Many-Books) | 个人收藏书籍列表　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 | ⭐19838 |  | 2026-05-27 |
+| [Books-Free-Books](https://github.com/lTbgykio/Books-Free-Books) | 免费书籍汇总。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 | ⭐17470 |  | 2026-05-27 |
+| [Deep-Reinforcement-Learning-Book](https://github.com/YutaroOgawa/Deep-Reinforcement-Learning-Book) | 書籍「つくりながら学ぶ！深層強化学習」のサポートリポジトリです | ⭐355 | Jupyter Notebook | 2026-05-26 |
+| [Deep_VoiceChanger](https://github.com/pstuvwx/Deep_VoiceChanger) | 深層学習とかを使ってボイスチェンジャー作るリポジトリ | ⭐287 | Python | 2026-05-18 |
+| [pytorch_book_info](https://github.com/makaishi2/pytorch_book_info) | 書籍「最短コースでわかるPyTorch深層学習プログラミング」用サポートサイト | ⭐244 | Jupyter Notebook | 2026-05-12 |
+| [Pyaq](https://github.com/ymgaq/Pyaq) | PyaqはPythonのみで実装された囲碁プログラムです。深層学習を学ぶための教育目的のコードです。 | ⭐121 | Python | 2026-05-02 |
+| [book-ml](https://github.com/Kokensha/book-ml) | 書籍「今すぐ試したい！機械学習・深層学習（ディープラーニング）画像認識プログラミングレシピ」のソースコードを配布するレポジトリです。 | ⭐40 | Jupyter Notebook | 2025-10-23 |
+| [mlpnlp](https://github.com/mlpnlp/mlpnlp) | 機械学習プロフェッショナルシリーズ 深層学習による自然言語処理 | ⭐36 |  | 2024-03-02 |
+| [lightgbm_BiLSTM](https://github.com/ffRunKey/lightgbm_BiLSTM) | A Study on Stock Price Prediction and Quantitative Strategy - Based on Deep Learning 『深層学習に基づく株価予測とクオンツ戦略に関する研究』基于深度学习的股 | ⭐36 |  | 2026-05-05 |
+| [21-](https://github.com/zhaohmng-outlook-com/21-) | “21世纪新政宣言”和“三朝罪恶元凶王沪宁”  ----推崇一篇见解温和奇特不左不右极罕见难得解困可行很有现实意义的文章《21世纪新政宣言》，和介绍一篇见解也独特但观点很强硬的《三朝罪恶元凶王沪宁》供比较和参考：   21世纪新政宣言【让香 | ⭐36 |  | 2026-05-19 |
+| [leonel](https://github.com/colombia-dev/leonel) | Director de inteligencia artificial - colombia.dev | ⭐50 | JavaScript | 2025-10-15 |
+| [Kapsamli_Derin_Ogrenme_Rehberi](https://github.com/ayyucekizrak/Kapsamli_Derin_Ogrenme_Rehberi) | Bu çalışma araştırmalar yaparken benzerlerine rastlayıp iyileştirerek derlemeye çalıştığım ve derin öğrenme (deep learni | ⭐284 | Jupyter Notebook | 2026-05-25 |
+| [pratik-derin-ogrenme-uygulamalari](https://github.com/deeplearningturkiye/pratik-derin-ogrenme-uygulamalari) | Çeşitli kütüphaneler kullanılarak Türkçe kod açıklamalarıyla TEMEL SEVİYEDE pratik derin öğrenme uygulamaları. | ⭐236 | Jupyter Notebook | 2026-04-29 |
+| [fixy](https://github.com/Fixy-TR/fixy) | Amacımız Türkçe NLP literatüründeki birçok farklı sorunu bir arada çözebilen, eşsiz yaklaşımlar öne süren ve literatürde | ⭐210 | Jupyter Notebook | 2026-03-02 |
+| [d2l-tr](https://github.com/d2l-ai/d2l-tr) | Kod, matematik, çoklu-çerçeveler ve tartışmalar içeren etkileşimli derin öğrenme kitabı. 55 ülkede Stanford, MIT, Harvar | ⭐156 | Python | 2026-05-15 |
+| [kelime_kok_ayirici](https://github.com/deeplearningturkiye/kelime_kok_ayirici) | Derin Öğrenme Tabanlı - seq2seq - Türkçe için kelime kökü bulma web uygulaması  - Turkish Stemmer (tr_stemmer) | ⭐90 | Jupyter Notebook | 2026-02-13 |
+| [DeepLearningTurkiye](https://github.com/acetinkaya/DeepLearningTurkiye) | Deep Learning Türkiye Pratik Derin Ogrenme Uygulamaları | ⭐80 | Jupyter Notebook | 2026-04-02 |
+| [yz-ai.github.io](https://github.com/yz-ai/yz-ai.github.io) | Derin Öğrenme, Bilgisayarlı Görü, Doğal Dil İşleme ve Pekiştirmeli Öğrenme alanlarındaki uygulama, akademik yayınlar, eğ | ⭐60 | JavaScript | 2025-05-24 |
+| [derin-ogrenme-alet-cantasi](https://github.com/deeplearningturkiye/derin-ogrenme-alet-cantasi) | Bu repoda derin öğrenme uygulamalarını geliştirirken ihtiyacınız olabilecek ufak kullanışlı araçlar yer almaktadır. | ⭐55 | Jupyter Notebook | 2025-11-27 |
+| [acikseminer2020](https://github.com/yz-ai/acikseminer2020) | Açık Seminer (https://www.acikseminer.com/) serisinin doğal dil işleme haftasındaki 14. günündeki NLP 101: Doğal Dil İşl | ⭐48 | Jupyter Notebook | 2024-08-12 |
+| [KaVe-Egitim](https://github.com/uzay00/KaVe-Egitim) | Veri Bilimi, Yapay Öğrenme, Derin Öğrenme konuları işlenecektir. | ⭐33 | Jupyter Notebook | 2025-08-30 |
+| [TensorFlow-TR](https://github.com/fatihes1/TensorFlow-TR) | Udacity Tensorflow ile Derin Öğrenme eğitimi sırasında üzerinde çalıştığım colab dosyalarını içermektedir. | ⭐31 | Jupyter Notebook | 2024-03-25 |
+| [dl-course-hse-masters](https://github.com/markblumenau/dl-course-hse-masters) | Курс "Глубинное обучение" магистратуры Искусственный Интеллект НИУ ВШЭ | ⭐31 | Jupyter Notebook | 2026-04-24 |

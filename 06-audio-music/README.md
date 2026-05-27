@@ -115,3 +115,12 @@ _(Coming soon — being populated with deep research data.)_
 | [intel/AudioLatencyTools](https://github.com/intel/AudioLatencyTools) | ⭐4 | C++ |  |
 | [google-deepmind/speech-compass](https://github.com/google-deepmind/speech-compass) | ⭐3 | C | "Making group conversations more accessible. Real-time speaker localiz |
 | [intel/cordova-plugin-intel-xdk-audio](https://github.com/intel/cordova-plugin-intel-xdk-audio) | ⭐0 | JavaScript |  |
+| [ace-step-ui](https://github.com/fspecii/ace-step-ui) | 🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimit | ⭐3970 | JavaScript | 2026-05-27 |
+| [awesome-ai-music-generation](https://github.com/Curated-Awesome-Lists/awesome-ai-music-generation) | A curated compilation of AI-driven generative music resources and projects. Explore the blend of machine learning algori | ⭐462 |  | 2026-05-27 |
+| [HeartMuLa_ComfyUI](https://github.com/benjiyaya/HeartMuLa_ComfyUI) | ComfyUI Custom Node for HeartMuLa AI Music Generation and Transcript Text | ⭐421 | Python | 2026-05-23 |
+| [musetree](https://github.com/stevenwaterman/musetree) | AI Music Generation for the Real World | ⭐251 | TypeScript | 2026-05-26 |
+| [ComfyUI_FL-HeartMuLa](https://github.com/filliptm/ComfyUI_FL-HeartMuLa) | FL HeartMuLa - Multilingual AI music generation nodes for ComfyUI. Generate full songs with lyrics using HeartMuLa. | ⭐127 | Python | 2026-05-22 |
+| [suno-api](https://github.com/gochendong/suno-api) | suno api - AI music generation | ⭐85 | Python | 2026-05-21 |
+| [ai-music-generation-saas](https://github.com/Andreaswt/ai-music-generation-saas) |  | ⭐81 | Python | 2026-05-20 |
+| [tadpole-studio](https://github.com/proximasan/tadpole-studio) | Easy to use AI music generation UI for local models with QoL features | ⭐69 | TypeScript | 2026-05-27 |
+| [good-composer](https://github.com/marcus/good-composer) | Real-time AI music generation - stream MIDI from LLMs via WebSocket with progressive playback and visualization | ⭐33 | JavaScript | 2026-04-12 |
