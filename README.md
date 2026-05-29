@@ -6,12 +6,12 @@
 
 This is not a link dump. This is a **curated, annotated, cross-referenced knowledge base** — every tool, model, API, framework, learning resource, hardware spec, agent, and reverse-engineered codebase, organized for maximum information density.
 
-[![Validate Library](https://github.com/thoughtforge-us/library-of-alexander/actions/workflows/validate.yml/badge.svg)](https://github.com/thoughtforge-us/library-of-alexander/actions/workflows/validate.yml)
-[![Tools](https://img.shields.io/badge/tools-2800+-brightgreen)](https://github.com/thoughtforge-us/library-of-alexander)
-[![RE Files](https://img.shields.io/badge/reverse--engineered-100+-blue)](https://github.com/thoughtforge-us/library-of-alexander/tree/main/23-reverse-engineering)
-[![Languages](https://img.shields.io/badge/languages-11+-orange)](https://github.com/thoughtforge-us/library-of-alexander/blob/main/GLOBAL_DISCOVERY.md)
+[![Validate Library](https://github.com/donn-duinn/library-of-alexander/actions/workflows/validate.yml/badge.svg)](https://github.com/donn-duinn/library-of-alexander/actions/workflows/validate.yml)
+[![Tools](https://img.shields.io/badge/tools-2800+-brightgreen)](https://github.com/donn-duinn/library-of-alexander)
+[![RE Files](https://img.shields.io/badge/reverse--engineered-100+-blue)](https://github.com/donn-duinn/library-of-alexander/tree/main/23-reverse-engineering)
+[![Languages](https://img.shields.io/badge/languages-11+-orange)](https://github.com/donn-duinn/library-of-alexander/blob/main/GLOBAL_DISCOVERY.md)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![Stars](https://img.shields.io/badge/total_stars-6.2M+-gold)](https://github.com/thoughtforge-us/library-of-alexander)
+[![Stars](https://img.shields.io/badge/total_stars-6.2M+-gold)](https://github.com/donn-duinn/library-of-alexander)
 
 ---
 
